@@ -1,0 +1,5490 @@
+<review>
+<unique_id>
+B0009JKI9K:please,_buy_these_blades!:dimasin
+</unique_id>
+<asin>
+B0009JKI9K
+</asin>
+<product_name>
+RainX RX30228 28-Inch Weatherbeater Wiper Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 19
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Please, buy these blades!
+</title>
+<date>
+August 23, 2006
+</date>
+<reviewer>
+Dimasin
+</reviewer>
+<reviewer_location>
+Cleveland, OH
+</reviewer_location>
+<review_text>
+I bought 3 sets of these blades for my cars. They lasted 2 weeks (at the most) on average in the summer. Bosch or Anco blades usually work for 2 years. It's up to you to decide which blades to buy!
+Follow-up: I see some people find my review not helpful, you know what: I tried to warn you. Obviously You either have too much money or You're stockholders of RainX. My advice for You: buy garbage, support economy
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009JKI9K:inconsistent_quality:b._krueger
+</unique_id>
+<asin>
+B0009JKI9K
+</asin>
+<product_name>
+RainX RX30228 28-Inch Weatherbeater Wiper Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 5
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+inconsistent quality
+</title>
+<date>
+August 5, 2006
+</date>
+<reviewer>
+B. Krueger
+</reviewer>
+<reviewer_location>
+Michigan
+</reviewer_location>
+<review_text>
+I bought two pair in different sizes and one pair was great but the other pair had deteriorated edges that left water in lines from the first use and one lock didn't secure the blade to the arm well. I had to buy a replacement immediately
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009JKI9K:no_good!_keep_your_money_for_another_set_of_blades!:dimasin
+</unique_id>
+<asin>
+B0009JKI9K
+</asin>
+<product_name>
+RainX RX30228 28-Inch Weatherbeater Wiper Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 15
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+No good! Keep your money for another set of blades!
+</title>
+<date>
+July 21, 2006
+</date>
+<reviewer>
+Dimasin
+</reviewer>
+<reviewer_location>
+Cleveland, OH
+</reviewer_location>
+<review_text>
+Lasts only 2 weeks! Try them if you don't believe me
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009JKI9K:smears!:hansc
+</unique_id>
+<asin>
+B0009JKI9K
+</asin>
+<product_name>
+RainX RX30228 28-Inch Weatherbeater Wiper Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Smears!
+</title>
+<date>
+July 5, 2006
+</date>
+<reviewer>
+HansC
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+What a bad product!  They didn't last two weeks before they began to smear my windshield
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009JKI9K:could_you_please,_buy_these_blades?:dimasin
+</unique_id>
+<asin>
+B0009JKI9K
+</asin>
+<product_name>
+RainX RX30228 28-Inch Weatherbeater Wiper Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Could you please, buy these blades?
+</title>
+<date>
+June 11, 2006
+</date>
+<reviewer>
+Dimasin
+</reviewer>
+<reviewer_location>
+Cleveland, OH
+</reviewer_location>
+<review_text>
+I bought 3 sets of these blades for my cars. They lasted 2 weeks (at the most) on average in the summer. Bosch or Anco blades usually work for 2 years. It's up to you to decide which blades to buy!
+Follow-up: I see some people find my review not helpful, you know what: I tried to warn you. Obviously You either have too much money or You're stockholders of RainX. My advice for You: buy garbage, support economy
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009JKI9K:no_good_blade:dimasin
+</unique_id>
+<asin>
+B0009JKI9K
+</asin>
+<product_name>
+RainX RX30228 28-Inch Weatherbeater Wiper Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 6
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+No good blade
+</title>
+<date>
+June 11, 2006
+</date>
+<reviewer>
+Dimasin
+</reviewer>
+<reviewer_location>
+Cleveland, OH
+</reviewer_location>
+<review_text>
+Bought 3 pairs for all my cars. What a waste of money: didn't last a week before they started to smear windshield! Garbage
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009JKI9K:don't_buy_these_blades:dimasin
+</unique_id>
+<asin>
+B0009JKI9K
+</asin>
+<product_name>
+RainX RX30228 28-Inch Weatherbeater Wiper Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't buy these blades
+</title>
+<date>
+June 11, 2006
+</date>
+<reviewer>
+Dimasin
+</reviewer>
+<reviewer_location>
+Cleveland, OH
+</reviewer_location>
+<review_text>
+Waste of money, lasted ONLY 2 weeks this summer. Garbage. Pay a little more for Bosch or same for Anco
+</review_text>
+</review>
+<review>
+<unique_id>
+B000IBN8KU:impractical:downing_street
+</unique_id>
+<asin>
+B000IBN8KU
+</asin>
+<product_name>
+Sylvania DOT-it Black Self-Adhesive Bright White LED Light (Pack of 2): Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+32 of 45
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+IMPRACTICAL
+</title>
+<date>
+October 20, 2006
+</date>
+<reviewer>
+DOWNING STREET
+</reviewer>
+<reviewer_location>
+VALLEY FORGE PA
+</reviewer_location>
+<review_text>
+TO REPLACE THE BATTERY YOUR HAVE TO OPEN THE BACK, THAT MEANS YOU HAVE REMOVE IT FROM WHERE ITS STUCK, OPEN THE BACK AND RE-STICK IT AGAIN THUS LOOSING THE STRENGTH OF THE ORIGINAL GLU
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001YLJBO:good_on_windows,_not_so_great_for_the_rest_of_the_car:marie_"koneko2203"
+</unique_id>
+<asin>
+B0001YLJBO
+</asin>
+<product_name>
+Mr. Clean Starter Kit: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Good on windows, not so great for the rest of the car
+</title>
+<date>
+June 21, 2006
+</date>
+<reviewer>
+Marie "koneko2203"
+</reviewer>
+<reviewer_location>
+Santa Clara, CA United States
+</reviewer_location>
+<review_text>
+I had a pretty dirty car and I used the Mr. Clean Starter Kit. I followed all the directions.I also washed my car in the shade, and I rinsed and soaped the car in portions as one reviewer mentioned. I waited about 30mins or more for the car to dry and the only parts that were really clean and shiny were the windows. It still left a lot of dirt on my car, despite all the scrubbing I did during the soaping step. It even took more water than what I would have used washing it the old fashion way. I looked that the FAQ sheet that came with the kit and it said that if you see streaks it may be dirt, and all you have to do is go through the steps again to get rid of it. It's just a hassle. At least I can wash my house windows with it until the filter get's used up. Otherwise it's a waste of money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001YLJBO:what_is_this_scum!!_ahhhhhh!!:copy_paste_"doug"
+</unique_id>
+<asin>
+B0001YLJBO
+</asin>
+<product_name>
+Mr. Clean Starter Kit: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+WHAT IS THIS SCUM!! AHHHHHH!!
+</title>
+<date>
+June 16, 2006
+</date>
+<reviewer>
+copy_paste "Doug"
+</reviewer>
+<reviewer_location>
+Arizona
+</reviewer_location>
+<review_text>
+I bought this great piece of crap about a year ago.  When I first used it, I followed the directions as indicated on the box.  Worked fair the first time, I mean I could have just used my dads power washer but no, I am a pioneer and want to try new things.  So then I used it about 6 months later to detail a neighbors car and it left SCUM EVERYWHERE!  This wasn't your ordinary scum, this stuff was hard to get off the car.  I spent a solid day scrubing the car to get this SCUM off the car.  So I swore I wouldn't use it after all that happend.  So today I decided to wash my car because I'm moving to Arizona in a day.  I used the power washer with a new bottle of Mr. Clean soap. I mean hey...what would go wrong....MORE OF THAT SCUM, so here I am now spending my day rubbing the scum off at least the windows instead of packing up the car...anyway you all know my feelings on this product.  Mr. Clean makes quality products but screwed up somewhere with this one
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001YLJBO:not_for_use_in_damp,_humid_climates!:sully_"aging_tweener"
+</unique_id>
+<asin>
+B0001YLJBO
+</asin>
+<product_name>
+Mr. Clean Starter Kit: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+7 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not for Use in Damp, Humid Climates!
+</title>
+<date>
+October 9, 2005
+</date>
+<reviewer>
+Sully "Aging tweener"
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+I bought this product on a whim.  I was looking for carwash detergent at Safeway, and the Mr. Clean AutoDry was on sale.  Curious, I gave it a try.
+
+First of all, this unit wastes a LOT of water.  After washing and rinsing, you have to apply filtered water all over the car from a distance of one feet.  It feels like spray painting.
+
+Then you wait for the water to evaporate.  Problem is, I live in San Franisco, CA -- nothing dries in this climate without help.  If I hadn't hand dried my car, I'd still be waiting for the water to evaporate.
+
+Another odd thing -- hand drying actually seemed more difficult after using the Mr. Clean soap and unit.  It's as though it left a residue.  I'm not sure what it is.
+
+But I'll probably end up washing my car again tomorrow, the old-fashioned way ..
+</review_text>
+</review>
+<review>
+<unique_id>
+B000F3K0T8:might_be_good,_but_not_for_the_price.:peter_joyce
+</unique_id>
+<asin>
+B000F3K0T8
+</asin>
+<product_name>
+Zymol Royale Glaze: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 32
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Might be good, but not for the price.
+</title>
+<date>
+September 8, 2006
+</date>
+<reviewer>
+Peter Joyce
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I seriously hope that the price tag I am seeing is ($7,000+) is a mistake..
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007RDVDE:wrong_product_shipped:gregory_kockrow
+</unique_id>
+<asin>
+B0007RDVDE
+</asin>
+<product_name>
+Mothers 5148 Power Metal Polish: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+wrong product shipped
+</title>
+<date>
+January 9, 2007
+</date>
+<reviewer>
+GREGORY Kockrow
+</reviewer>
+<reviewer_location>
+REDDING, CA USA
+</reviewer_location>
+<review_text>
+IMPOSSIBLE TO RATE PRODUCT AS AMAZON SHIPPED BRAKE CLEANER INSTEAD OF POLISH. RETURN OF INEXPENSIVE ITEMS NOT WORTH THE TIME IT TAKES.  CONSIDER NOT USING AMAZON FOR SMALL PURCHASES UNTIL RETURN SYSTEM IS UPGRADED
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006Q5MLK:beware!!_it_works_a_little_to_well.:c._manjarrez
+</unique_id>
+<asin>
+B0006Q5MLK
+</asin>
+<product_name>
+Reflector Cover: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+BEWARE!! It works a little to well.
+</title>
+<date>
+January 3, 2007
+</date>
+<reviewer>
+C. Manjarrez
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Ok It's so obviously obstructing the view of your license plate. I thought it would only blur it from the high distant angles of the cameras but it blurs it from almost every angle besides directly behind it (and even then the edges are blurry).  Check the laws in your local state. I'm pretty sure this thing is very illegal!!! I had to trash mine. Thanks for taking my money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006Q5MLK:took_pictures_with_digital_camera,_still_can_read_all_number:s._ahmed
+</unique_id>
+<asin>
+B0006Q5MLK
+</asin>
+<product_name>
+Reflector Cover: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 6
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Took pictures with digital camera, still can read all number
+</title>
+<date>
+June 4, 2005
+</date>
+<reviewer>
+S. Ahmed
+</reviewer>
+<reviewer_location>
+CA, USA
+</reviewer_location>
+<review_text>
+I installed this cover and took pictures from various distance and angel. I could read all numbers clearly.  They claim that it will work with actual traffic camera. I have no way to test that
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EGZ5F0:don't_get_this,_too_easy_to_slip:h._chung
+</unique_id>
+<asin>
+B000EGZ5F0
+</asin>
+<product_name>
+Hopkins 10617 Adjustable 3 Prong Wrench: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't get this, too easy to slip
+</title>
+<date>
+March 5, 2007
+</date>
+<reviewer>
+H. Chung
+</reviewer>
+<reviewer_location>
+Santa Clara, California United States
+</reviewer_location>
+<review_text>
+This is bad, very bad.  It slips so easy that you cannot get a firm grip on the filter.  I would suggest anyone to look elsewhere and get something else that actually works.  I really regret getting this
+</review_text>
+</review>
+<review>
+<unique_id>
+B000FJQU14:good_gimmick:orr
+</unique_id>
+<asin>
+B000FJQU14
+</asin>
+<product_name>
+IONFEEL KS93A LED Ionized Deodorizer Orange: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+good gimmick
+</title>
+<date>
+February 17, 2007
+</date>
+<reviewer>
+ORR
+</reviewer>
+<reviewer_location>
+Farm, USA
+</reviewer_location>
+<review_text>
+Listen if you truly want an ionizer that dramaticaly changes the air. I strongly advise people to purchase one by Flair.  This home unit retails for $300.  Need results, that's what a real one costs
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000950PW:not_a_cooler:mary_a._cheek_"bulldog-books"
+</unique_id>
+<asin>
+B0000950PW
+</asin>
+<product_name>
+Wagan 2084  12-Volt 15 Liter Hot / Cold Personal Fridge: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+18 of 19
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+not a cooler
+</title>
+<date>
+April 29, 2004
+</date>
+<reviewer>
+Mary A. Cheek "bulldog-books"
+</reviewer>
+<reviewer_location>
+LAKE ALMANOR, CA USA
+</reviewer_location>
+<review_text>
+I drove for an hour with the cooler plugged in, and it did not get any cooler inside.  It might keep frozen things from fully thawing, but a regular plastic cooler would do it too.  Not worth the money
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CMF31M:don't_bother...__lousy_quality.:jjclarkin
+</unique_id>
+<asin>
+B000CMF31M
+</asin>
+<product_name>
+Highland 92105 10' x 1" Ratchet Tie Down , 900 pound capacity- Set of 4: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't bother...  Lousy Quality.
+</title>
+<date>
+December 4, 2006
+</date>
+<reviewer>
+JJClarkin
+</reviewer>
+<reviewer_location>
+Boston, MA
+</reviewer_location>
+<review_text>
+They broke the first time that I used them.  The locking mechanism is cheap and slides out of its intended slot.  Don't waste your money on this item
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009IQZFM:worst_meguiar's_product:dreese9859_"dreese9859"
+</unique_id>
+<asin>
+B0009IQZFM
+</asin>
+<product_name>
+Meguiar's X2000 Water Magnet Drying Towel: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Worst Meguiar's Product
+</title>
+<date>
+February 23, 2007
+</date>
+<reviewer>
+dreese9859 "dreese9859"
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+I cannot believe they put this on the market.  Once it gets wet, there isn't much you can do about wringing it out.  It's title is true - it is a water magnet.  The problem is it just won't let the water go.  This towel is horrible.  I suggest using the 3-pack microfiber Meguiar's towels sold by Amazon as well under the subject "Meguiar's X2020 Supreme Shine Microfiber - Pack of 3"
+</review_text>
+</review>
+<review>
+<unique_id>
+B000F5DQWY:not_so_easy:c._pickren
+</unique_id>
+<asin>
+B000F5DQWY
+</asin>
+<product_name>
+Bad Boy Horn: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+6 of 8
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+NOT SO EASY
+</title>
+<date>
+October 16, 2006
+</date>
+<reviewer>
+C. Pickren
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Advertised as easy to install. Just hook up the existing horns wires and you have it......WRONG. If your existing relay is not compatible with the horn you get to purchase a new relay and rewire a whole new horn button somewhere on the vehicle. They also don't tell you it is NOT COMPATIBLE WITH MOTORCYCLE RELAYS. If you get past all of this it does have a great sound
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007ZFTHW:unbreakable?!?!_you've_got_to_be_kidding!:joshua_hall
+</unique_id>
+<asin>
+B0007ZFTHW
+</asin>
+<product_name>
+The UNBREAKABLE AutoLock PRO: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Unbreakable?!?! You've got to be kidding!
+</title>
+<date>
+December 3, 2006
+</date>
+<reviewer>
+Joshua Hall
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+My car was stolen with device engaged.  It was stolen while my wife and I were both at home.  We did not hear a single thing.  Their 'guarantee' by the way is a complete farse.  Wow, they'll cover the deductable... but only on a comprehensive coverage policy.  If you are wanting to keep your car safe, DO NOT BUY THIS PRODUCT!!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007ZFTHW:cylinder_lock_malfunctions:e._gabber_"software_engineer"
+</unique_id>
+<asin>
+B0007ZFTHW
+</asin>
+<product_name>
+The UNBREAKABLE AutoLock PRO: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+cylinder lock malfunctions
+</title>
+<date>
+September 30, 2006
+</date>
+<reviewer>
+E. Gabber "software engineer"
+</reviewer>
+<reviewer_location>
+NJ, USA
+</reviewer_location>
+<review_text>
+I own both the original unbreakable autolock (with the flat key) and the autolock pro (with the round key). The original autolock never failed to open after 10+ years of use on two cars. The autolock pro failed to open after about two years of light use. This is not a key problem, because I could not open it with two original keys. I eventually wiggled the lock a lot to open it. I recommend that you stick with the original autolock if you wish to use this kind of security device
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E1HAIK:dissappointed:t._ragland_"ladybugg"
+</unique_id>
+<asin>
+B000E1HAIK
+</asin>
+<product_name>
+Black and Decker VEC010BD 300 AMP JumpStarter: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Dissappointed
+</title>
+<date>
+January 18, 2007
+</date>
+<reviewer>
+T. Ragland "LADYBUGG"
+</reviewer>
+<reviewer_location>
+NUNYAN
+</reviewer_location>
+<review_text>
+This product was purchased as a Christmas gift for my father, unfortunately it did not perform for him. I was replacing this with one that he has had for over 10 years and that one still works and outperfomed this brand new model.
+I am not sure if we just got a defective one but i dont recommend purchasing although i have to say returning to amazon was straightforward they just simply refunded my money, I will inturn buy my dad something else from amazon you just cant beat the service
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E1HAIK:could_have_had_5_stars,_gets_1:kappy
+</unique_id>
+<asin>
+B000E1HAIK
+</asin>
+<product_name>
+Black and Decker VEC010BD 300 AMP JumpStarter: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+7 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Could have had 5 stars, gets 1
+</title>
+<date>
+November 12, 2006
+</date>
+<reviewer>
+Kappy
+</reviewer>
+<reviewer_location>
+Columbus, OHIO
+</reviewer_location>
+<review_text>
+Fatally flawed.  Magnificently compact, clever design, but broke first time I used it--el-cheapo plastic clamps snapped.  Service center wouldn't repair it, so I had to return it.  An otherwise beautiful design, with a frustrating Achilles heel.  AARRGH!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0008G1OQA:reese_towpower_locks.:dc_maxx_"wood"
+</unique_id>
+<asin>
+B0008G1OQA
+</asin>
+<product_name>
+Reese Towpower 74397 Class III / IV Hitch Pin Lock, 5/8" Diameter: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Reese Towpower locks.
+</title>
+<date>
+April 24, 2007
+</date>
+<reviewer>
+DC Maxx "Wood"
+</reviewer>
+<reviewer_location>
+Middle Atlantic,East Coast
+</reviewer_location>
+<review_text>
+Had the Reese Sleeved lock on my Tow Hitch Step  for a year now & damn if I can get the thing off !!!  We have tried Graphite (dry) Graphite Liquid
+everything short of cutting the thing off. The key  (a flat one) won't BUDGE in the lock.  
+
+Newer Reese towpower locks have round keys (like Vending machine keys) on them.  My cover has been on the lock ever since I bought it & today it is 87 degrees outside. Still the lock won't allow the key to turn in it. after 10 minutes of working on it with the CTP keys it budged a little, but it still didn't unlock ALL the way. 
+
+Tomorrow I am going to get my Custom Truck specialist to torch it off. Next time I will buy the MASTERLOCK  Brand.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BNS7Y2:not_recommended:m._lang
+</unique_id>
+<asin>
+B000BNS7Y2
+</asin>
+<product_name>
+Accutire MS-5510B Racing Tire Gauge: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not recommended
+</title>
+<date>
+April 21, 2007
+</date>
+<reviewer>
+M. Lang
+</reviewer>
+<reviewer_location>
+California
+</reviewer_location>
+<review_text>
+I just received the gauge and I'm returning it after trying it for 2 minutes:
+
+- The hose didn't seal well on the tire valve
+- WHen bleeding air, the display didn't update. You have to remove the hose, wait 10 seconds for the display to turn off, then plug it back to the valve stem and get a reading. This is ridiculous.
+- The display is on for 10 seconds and then it turns off itsel
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BNS7Y2:good_gauge,_but_cheap,_leaky_fittings:al_lindner
+</unique_id>
+<asin>
+B000BNS7Y2
+</asin>
+<product_name>
+Accutire MS-5510B Racing Tire Gauge: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Good Gauge, but CHEAP, LEAKY FiTTINGS
+</title>
+<date>
+March 7, 2007
+</date>
+<reviewer>
+Al Lindner
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+If this gauge cost $20 I would give it a high rating, but even at the discounted $35 price I see for these gauges I think it is bad value, let alone the nearly $50 it cost me!
+
+AS mentioned hose is VERY INFLEXIBLE at cool, not just cold temps, general quality of the fittings is very poor for something advertised like this, mine is now leaking badly and I am trying to repair with quality materials, as I still hope to use the gauge part anyway. 
+
+I would NOT BUY AGAIN
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BNS7Y2:doesn't_work_in_cold_weather:stephen_parks
+</unique_id>
+<asin>
+B000BNS7Y2
+</asin>
+<product_name>
+Accutire MS-5510B Racing Tire Gauge: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Doesn't work in cold weather
+</title>
+<date>
+February 14, 2007
+</date>
+<reviewer>
+Stephen Parks
+</reviewer>
+<reviewer_location>
+Houston
+</reviewer_location>
+<review_text>
+It appears that the problem of slow readings described in the earlier reviews has been solved, as my gauge reads continuously.  The reading drops several psi while bleeding just as with a mechanical dial gauge.  The reading takes about two seconds to re-stabilize, so a mechanical gauge is actually faster to use.
+
+The quick-connector on the end of the hose is excellent, but be careful to not scratch the wheel with it.  The hose is fairly stiff, but isn't a problem most of the time.
+
+I used this gauge at the track this past weekend, and was pleased with it until the second morning when it was cold (by cold I mean 45F, this is Houston...) and the display read 'Lo', indicating a low battery.  So essentially the gauge was useless.  The hose also becomes annoyingly stiff when cold.
+
+Overall, a good mechanical gauge is easier to use and more reliable, as long as you don't drop it
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BNS7Y2:same_problems_here:dododge
+</unique_id>
+<asin>
+B000BNS7Y2
+</asin>
+<product_name>
+Accutire MS-5510B Racing Tire Gauge: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+same problems here
+</title>
+<date>
+September 13, 2006
+</date>
+<reviewer>
+dododge
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+As other reviewers mentioned, the display does not update when using the bleed valve and you have to wait at least 10 seconds between readings.  It may be accurate, but dropping overpressure tires to a desired level ends up being a several-minute guessing and waiting game.  Calling it a "racing" gauge is ridiculous
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BNS7Y2:large_batch_of_defective_gauges:j._stimson
+</unique_id>
+<asin>
+B000BNS7Y2
+</asin>
+<product_name>
+Accutire MS-5510B Racing Tire Gauge: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Large batch of defective gauges
+</title>
+<date>
+September 5, 2006
+</date>
+<reviewer>
+J. Stimson
+</reviewer>
+<reviewer_location>
+Sunnyvale, CA USA
+</reviewer_location>
+<review_text>
+I had the same problem described by R. Nielsen.  The gauge would not take a new reading after I pressed the release valve to let air out.  It only took a new reading if it was removed from the tire completely and reconnected.  I called the manufacturer, who told me that it sounded like a problem and that I should return the gauge to them for a replacement.  I returned it to Amazon as defective and got a new one with the same problem.  I contacted the manufacturer again and they again asked me to send the gauge in for a replacement.  I have sent the gauge to the manufacturer at my expense.  The second replacement also had the problem.  Customer service told me that they had sent the second replacement from the wrong batch/crate.
+
+Six weeks later (November 27th) I received a properly functioning gauge.  So it seems that a properly manufactured example of this gauge really does work properly.  There was just a very large run of defective ones.  At this point, I would give this item 3 stars: 4 for performance and price, minus one for the hassle involved in getting one that isn't defective.
+
+If yours is defective, you should contact Accutire customer service and let them know: 973-402-4240.
+
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002YTN4I:pay_attention_to_dimensions:gary_l._smith
+</unique_id>
+<asin>
+B0002YTN4I
+</asin>
+<product_name>
+Blitz 11905 Rhino Ramp 12000 Extreme: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+32 of 33
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+pay attention to dimensions
+</title>
+<date>
+March 19, 2006
+</date>
+<reviewer>
+Gary L. Smith
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Dimensions are confusing/inaccurate.  Stated height of 11.5 inches is not correct--perhaps this is shipping container.  Actual product is about 8.5 inches high, but taking into account the cradle for tire, only raises the vehicle about 6 inches
+</review_text>
+</review>
+<review>
+<unique_id>
+B00069G51S:never_received:b._alden
+</unique_id>
+<asin>
+B00069G51S
+</asin>
+<product_name>
+66" Oil Change Ramps for Low Clearance Cars ML1066: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Never received
+</title>
+<date>
+April 6, 2007
+</date>
+<reviewer>
+B. Alden
+</reviewer>
+<reviewer_location>
+Ca
+</reviewer_location>
+<review_text>
+I'm writing this reveiw on the company, Discount Ramps, rather than the ramps themselves. They charged my credit card immediately upon ordering, then 6 weeks later when I inquired about where these ramps were, they told me the manufacturer hadn't received the metal to build them yet, and the build time is 4-6 weeks. Just be careful, people
+</review_text>
+</review>
+<review>
+<unique_id>
+B00008RW9X:no_good:
+</unique_id>
+<asin>
+B00008RW9X
+</asin>
+<product_name>
+The Original California Car Duster 20000 Water Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 18
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+No good
+</title>
+<date>
+April 29, 2003
+</date>
+<reviewer>
+
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I bought this item and I literally hate it.  They make it seem so simple and easy but the blade does not do a good job in removing water from car surfaces.  I would only recommend it for doing windows.  Much easier to use chamois or regular old terrycloth towels
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CD68N8:appears_to_be_a_good_idea_in_the_picture,_but.......:k.mednis_"kmednis"
+</unique_id>
+<asin>
+B000CD68N8
+</asin>
+<product_name>
+Wagan Tech EL-2307 Personal Mini Coffee Maker: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Appears to be a good idea in the picture, BUT.......
+</title>
+<date>
+November 26, 2006
+</date>
+<reviewer>
+k.mednis "kmednis"
+</reviewer>
+<reviewer_location>
+middle TN
+</reviewer_location>
+<review_text>
+I got this item for my coffee-loving truck driver husband.  When we took it out of the box, we saw the obvious problem:  the "mug" is tiny!  Only a bit larger than an espresso cup.  To add insult to injury, it took way too long to brew for such a small cup.  Now it's back in the box collecting dust and we're sorry we wasted our hard-earned money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002Z9QNU:don't_buy_for_a_4runner:colorado_ff
+</unique_id>
+<asin>
+B0002Z9QNU
+</asin>
+<product_name>
+Lund 601015 Aero Bag Waterproof Roof Top Carrier: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Don't Buy For a 4Runner
+</title>
+<date>
+March 12, 2007
+</date>
+<reviewer>
+Colorado FF
+</reviewer>
+<reviewer_location>
+Denver, CO
+</reviewer_location>
+<review_text>
+This bag was junk on a 2001 4Runner.  The poor fit made it hard to secure and even more difficult to load and unload.  I realize it isn't made for all vehicles but I purchased mine only after speaking with Lund, who confirmed the bag would work on my vehicle.  Spend the extra money and buy a hard shell unit with adjustable hardware.  Great service from Amazon, terrible service from Lund
+</review_text>
+</review>
+<review>
+<unique_id>
+B00005AXI4:difficult_to_get_an_accurate/clear_reading:s._schaum
+</unique_id>
+<asin>
+B00005AXI4
+</asin>
+<product_name>
+Accutire MS-4000 Backlit Lithium Digital Tire Gauge: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+difficult to get an accurate/clear reading
+</title>
+<date>
+March 26, 2007
+</date>
+<reviewer>
+S. schaum
+</reviewer>
+<reviewer_location>
+Poughkeepsie, NY USA
+</reviewer_location>
+<review_text>
+I had a previous non-brand name digital tire gauge and it worked great but eventually died. I bought this one thinking it would be better. The first time I used it I couldn't get a good connection at all and it kept giving me multiple readings.  It also does not seem to keep the number on the display after the reading. It would disappear before i could read it fully.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00030BFJW:poor_product:r._bondy
+</unique_id>
+<asin>
+B00030BFJW
+</asin>
+<product_name>
+Schumacher PS-120A Mity-Mite Jump Starter Charger: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Poor product
+</title>
+<date>
+February 15, 2007
+</date>
+<reviewer>
+R. Bondy
+</reviewer>
+<reviewer_location>
+NY, NY USA
+</reviewer_location>
+<review_text>
+I have had 2 faulty units right out of the box. The first would not hold a charge for more than a couple of days and that did not improve after cycling the battery a number of times. I returned it for a replacement and that 2nd unit never indicated a full charge - even after being on charge for several days. I am moving on to another brand.
+
+Don't waste your time and money on these poor quality items
+</review_text>
+</review>
+<review>
+<unique_id>
+B00030BFJW:mity-mite_has_all_the_power_of_a_flea:david_a._shadrack_"das"
+</unique_id>
+<asin>
+B00030BFJW
+</asin>
+<product_name>
+Schumacher PS-120A Mity-Mite Jump Starter Charger: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Mity-Mite has all the power of a flea
+</title>
+<date>
+December 4, 2006
+</date>
+<reviewer>
+David A. Shadrack "DAS"
+</reviewer>
+<reviewer_location>
+New York
+</reviewer_location>
+<review_text>
+Bought one of these to jump start my 3.6 litre 911. It doesnt have the power to even turn it over once when fully charged. Complete waste of time, maybe it will start a lawn mower.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00030BFJW:broke_the_first_time:jib
+</unique_id>
+<asin>
+B00030BFJW
+</asin>
+<product_name>
+Schumacher PS-120A Mity-Mite Jump Starter Charger: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+broke the first time
+</title>
+<date>
+September 29, 2006
+</date>
+<reviewer>
+jib
+</reviewer>
+<reviewer_location>
+philadelphia, pa
+</reviewer_location>
+<review_text>
+i wouldn't recommend this product.  The positive terminal clamp broke in half the first time i used it... I, as I was stranded, rigged up a method to make contact with the terminal w/ the remaining half of the clamp.  Then the charger (which was charged fully the previous night) didn't provide enough power to actually turn the engine over.  I will be returning to the store tonight, returning this item, and purchasing a different charger
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:local_news_did_test_on_this:chad_baley
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Local news did test on this
+</title>
+<date>
+March 31, 2007
+</date>
+<reviewer>
+Chad Baley
+</reviewer>
+<reviewer_location>
+OHIO
+</reviewer_location>
+<review_text>
+I have not used this product. Our local news did a test on it. They found that in 2 vehicles (exactly the same) that this device only lowered the temp 1 degree. Again, I have not used it, I am just throwing the test I saw out there. Their call sign is WCPO, so look it up from there (not allowed to include link)
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:just_a_pain:bluegrass_around_me_"grampa"
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Just a Pain
+</title>
+<date>
+December 30, 2006
+</date>
+<reviewer>
+Bluegrass Around Me "Grampa"
+</reviewer>
+<reviewer_location>
+Central Kentucky
+</reviewer_location>
+<review_text>
+It's a pain because to save time you need to install it permanently to make it worth it.  Then you can never use that window for anything else. It's a pain because it will NOT work on tinted windows.
+
+Run
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:worst_shopping_experience,_worst_product_provider!!!!!_do_not_buy_it!!_:vd_studio_"ccp"
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+5 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Worst shopping experience, worst product provider!!!!! Do not buy it!! 
+</title>
+<date>
+December 23, 2006
+</date>
+<reviewer>
+VD Studio "CCP"
+</reviewer>
+<reviewer_location>
+Austin, TX
+</reviewer_location>
+<review_text>
+The product is not working. The provider is terrible!! You can not reach them via email nor return the product. It is the worst experience in AMAZON!!  I wish I knew this provider and read these reviews before I bought it!!!
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:don't_do_it!!!:paul_statman
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+DON'T DO IT!!!
+</title>
+<date>
+December 1, 2006
+</date>
+<reviewer>
+Paul Statman
+</reviewer>
+<reviewer_location>
+Santa Monica, CA United States
+</reviewer_location>
+<review_text>
+Don't waste your money. That's the short version. No stars for this P.O.S. Want more? OK - once you've fiddled around and fitted the rubber strips to your window, hooked on the device, rolled up your window (facing the sun, of course) you're now late for whatever it was you just parked to go do. Oh yes, and it doesn't do anything other than spin a joke fan that couldn't move a feather. I put my hand in front of it and felt nothing - no wonder my car still feels like an oven. We can't drive off with it on, as the wind noise is unbearable even after unhooking the unit. Why? Because of the 'sealing' rubber strip you've hooked over the top of the glass leaving a nice 4mm gap for the wind.
+I thought I was smart going on ebay and buying two for the price of one. I would have been smarter spending the money on lottery tickets
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:cheap_product_with_false_advertising:labart_"laurie"
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Cheap Product with False Advertising
+</title>
+<date>
+November 6, 2006
+</date>
+<reviewer>
+Labart "Laurie"
+</reviewer>
+<reviewer_location>
+Mesa, AZ
+</reviewer_location>
+<review_text>
+Does not work (cool the interior of the vehicle) barely at all, compared to the ads.  So false advertising.  I purchased 2, and one also broke right away. 
+Very cheaply made product also.  Would never purchase again, nor recommend to anyone
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:don't_waste_your_money_!!!!:j._desilva
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't waste your money !!!!
+</title>
+<date>
+October 3, 2006
+</date>
+<reviewer>
+J. DeSilva
+</reviewer>
+<reviewer_location>
+Bermuda
+</reviewer_location>
+<review_text>
+I purchaced this product because its a great idea.  The problem is it only runs when the sun is shining on the solar panel. Also there is not enough suction to get the hot air out. Also the product does not sit on the window firmly and can fall off if you open your window.
+
+Hopefully they can take this design an improve the suction and maybe add a battery. Similar to the solar lights you put in your driveway
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:useless:top_reviewer_2000_"reviewer2000"
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+6 of 6
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+USELESS
+</title>
+<date>
+September 17, 2006
+</date>
+<reviewer>
+Top Reviewer 2000 "Reviewer2000"
+</reviewer>
+<reviewer_location>
+Spring, Texas
+</reviewer_location>
+<review_text>
+Absolutely useless.  Do not buy this product.  You are wasting your money.  Learn from me.  I wasted on two!  They are tiny tiny fans that move hardly any air at all.  Also they DO NOT work on tinted windows.  Trust me.
+
+Save yourself some money and just crack your windows.  It works 100% better
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:worked_for_me!!:j._ahrens_"jmilk"
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+6 of 6
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Worked for me!!
+</title>
+<date>
+September 16, 2006
+</date>
+<reviewer>
+J. Ahrens "jmilk"
+</reviewer>
+<reviewer_location>
+Sarasota, FL
+</reviewer_location>
+<review_text>
+It worked for me! My car is now a blistering 120 degrees as opposed to the scorching 121 degrees a month ago. The only thing I ever got out of this product was screwed. I've been bamboozled!! Don't believe the hype; stand up against the man!, Chumps unite! God! what a piece of poo.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GTHU12:this_does_not_work!!!!!__don't_buy_it!:n._stassi_"amazon_junkie"
+</unique_id>
+<asin>
+B000GTHU12
+</asin>
+<product_name>
+Autocool - Solar Powered Fan That Keeps the Interior of Your Car Fresh and Auto Cool, a Perfect Auto Vent: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+This does NOT work!!!!!  Don't buy it!
+</title>
+<date>
+September 14, 2006
+</date>
+<reviewer>
+N. Stassi "Amazon Junkie"
+</reviewer>
+<reviewer_location>
+Thurmont, MD
+</reviewer_location>
+<review_text>
+I also purchased this product & was extremely disappointed when I found out it did NOT work.  Like the 1st reviewer wrote, it basically is a mini-fan that moves BUT it does NOT cool the car down at all!  There was absolutely NO difference in the temperature of my car after I installed it!  DON'T waste your money
+</review_text>
+</review>
+<review>
+<unique_id>
+B00009RAX7:check_engine_light_is_separate_issue:david_l._paulson
+</unique_id>
+<asin>
+B00009RAX7
+</asin>
+<product_name>
+Actron CP9135 AutoScanner Diagnostic Code Scanner with On Screen Definitions for OBDII (Post-1996) Vehicles: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+11 of 57
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Check Engine light is separate issue
+</title>
+<date>
+April 14, 2007
+</date>
+<reviewer>
+David L. Paulson
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+To turn off your check engine light on most vehicles, with your vehicle turned off, pull out and hold your trip odometer reset stick and then start your vehicle. In most cases the light will shut off. If there is truly a problem with you car, the light will either not stay off or come right back on. You do not need this device to do that. The second problem is if your car does need attention, this device won't really properly diagnose or certainly won't fix it and you'll still have to go to a mechanic. So I'm left wondering what good this is
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002MABGE:doesn't_work_for_large_dogs:a._majumdar_"cowboyjoe"
+</unique_id>
+<asin>
+B0002MABGE
+</asin>
+<product_name>
+Highland 2004500 Universal Pet Barrier: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Doesn't Work for LARGE dogs
+</title>
+<date>
+April 8, 2007
+</date>
+<reviewer>
+A. Majumdar "CowboyJoe"
+</reviewer>
+<reviewer_location>
+Indianapolis
+</reviewer_location>
+<review_text>
+It is ok for small dogs, large dogs will knock it down
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002MABGE:not_that_great:tf
+</unique_id>
+<asin>
+B0002MABGE
+</asin>
+<product_name>
+Highland 2004500 Universal Pet Barrier: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Not that great
+</title>
+<date>
+March 30, 2007
+</date>
+<reviewer>
+tf
+</reviewer>
+<reviewer_location>
+Ann Arbor, MI USA
+</reviewer_location>
+<review_text>
+Maybe it depends on the car, but I couldn't get it tight enough in my SUV to prevent the dogs from knocking it down.  It also probably depends on the dog.  If the dog really wants to get past it, they will.  If you have a more mellow dog who will be satisfied with a "psychological barrier", this would be ok.  Oh, and as a previous reviewer mentioned, the "trombone" style sides slide easily back and forth, I had to get some hose clamps to keep them in place
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002MABGE:would_love_to_rate_the_item_but_i_never_acutally_recieved_it:jenn
+</unique_id>
+<asin>
+B0002MABGE
+</asin>
+<product_name>
+Highland 2004500 Universal Pet Barrier: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Would love to rate the item but I never acutally recieved it
+</title>
+<date>
+
+</date>
+<reviewer>
+Jenn
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Loved the price but I never actually received the item.  It shipped to the wrong address and I never got it back :-
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006V95RW:defective_product:valeria_bedoya_alipaz
+</unique_id>
+<asin>
+B0006V95RW
+</asin>
+<product_name>
+Medo Ozium Brand Air Freshener Spray, That New Car Smell, 1 oz. aerosol: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Defective product
+</title>
+<date>
+January 11, 2007
+</date>
+<reviewer>
+Valeria Bedoya Alipaz
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The product came defective, so I had to throw it away.
+I emailed the company three times and nobody ever answered back.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006V95RW:new_car?_more_like_flood_car...:m._devine
+</unique_id>
+<asin>
+B0006V95RW
+</asin>
+<product_name>
+Medo Ozium Brand Air Freshener Spray, That New Car Smell, 1 oz. aerosol: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+New Car? More like flood car...
+</title>
+<date>
+September 27, 2006
+</date>
+<reviewer>
+M. Devine
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+This is THE worst smelling "freshener" I have ever used. Its just a terrible smell. Like the other reviewer said, its very chemical in nature. I sprayed som in my living room to see what it was like and.....WOW. I opened the windoes pretty quick, I could not imagine this in a hot car. I picked it up for 1.50 at a BigLots and I feel ripped off.
+
+Dont buy it
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006V95RW:not_recommended_for_cars:amanda_richards_"modest_to_the_extreme"
+</unique_id>
+<asin>
+B0006V95RW
+</asin>
+<product_name>
+Medo Ozium Brand Air Freshener Spray, That New Car Smell, 1 oz. aerosol: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+8 of 11
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not recommended for cars
+</title>
+<date>
+July 29, 2006
+</date>
+<reviewer>
+Amanda Richards "Modest to the extreme"
+</reviewer>
+<reviewer_location>
+Georgetown, Guyana
+</reviewer_location>
+<review_text>
+If you've seen the movie "Cars" and figure that it's time that you gave your rusty bucket the "Radiator Springs" make-over special, you might just be tempted to get yourself a batch of this stuff to make it smell as good as it looks.
+
+Sure - it says "New Car Scent", and it has a picture of a car and a nice ribbon and everything - but I would definitely not use this stuff in my car.  First of all, it doesn't smell anything like the interior of a new car, and inhaling this stuff in that small an area would be lethal, even if you drive a Hummer.  It is super-concentrated, and a one second blast is enough to saturate a 10 ft x 10 ft room with an unpleasant chemical smell, which might just be able to eliminate you and yours along with the airborne bacteria, smoke and odors.
+ 
+I can't vouch for any of the claims of air cleansing, sanitizing, bacteria reduction or removal of smoke and odors, because after the first test spray (in my office on a Friday afternoon) I vacated the premises under duress, and by Monday morning it had thankfully dissipated.  I've never used it again, and even though it may conceivably be the best airborne germ killing thing-gummy ever invented, the smell makes it impossible to use in the presence of living, breathing people.
+ 
+To be fair, the write-up never actually states that it is for cars, instead listing schools, medical facilities and food-processing areas, but then why on earth would you want any of these places to smell like a new car?  And why would you need a one ounce bottle of product for your factory?  The claims of deodorizing and leaving a fresh fragrance certainly didn't happen for me, and unless you come from somewhere where the pollution smells worse than this, I couldn't recommend it.
+ 
+ 
+Amanda Richards, July 28, 2006
+</review_text>
+</review>
+<review>
+<unique_id>
+B000066OC7:meant_to_be_helpful_but_it's_not:sheldon_d._serkin_"shel_in_dc"
+</unique_id>
+<asin>
+B000066OC7
+</asin>
+<product_name>
+Wagan 9788  Ortho Wedge Cushion: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Meant to be helpful but it's not
+</title>
+<date>
+March 24, 2007
+</date>
+<reviewer>
+Sheldon D. Serkin "Shel in DC"
+</reviewer>
+<reviewer_location>
+Washington, DC, USA
+</reviewer_location>
+<review_text>
+The cushion was designed for what I needed due to an injury, but the curve of the cushion, the pressure points, and the density of the cushion are wrong.  I guess you get what you pay for.  I have found a similar cushion that works very well
+</review_text>
+</review>
+<review>
+<unique_id>
+B000066OC7:this_cushion_sucks:amanda_a._evans_"book_lover_on_the_street"
+</unique_id>
+<asin>
+B000066OC7
+</asin>
+<product_name>
+Wagan 9788  Ortho Wedge Cushion: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+This cushion sucks
+</title>
+<date>
+March 11, 2007
+</date>
+<reviewer>
+Amanda A. Evans "Book lover on the street"
+</reviewer>
+<reviewer_location>
+San Jose, CA
+</reviewer_location>
+<review_text>
+I bought this cushion hoping it would make sitting at my computer for long hours more pleasant. Unfortunately after about half an hour, the "memory foam" gets totally squished down and it's almost useless. Don't try to save money by getting this cheap one - spend the extra money and get one that doesn't suck.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000066OC7:the_pain_of_it_all:rw_"book_engineer"
+</unique_id>
+<asin>
+B000066OC7
+</asin>
+<product_name>
+Wagan 9788  Ortho Wedge Cushion: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+The Pain of it All
+</title>
+<date>
+September 12, 2006
+</date>
+<reviewer>
+RW "book engineer"
+</reviewer>
+<reviewer_location>
+Arizona
+</reviewer_location>
+<review_text>
+I bought the "Wagan 9788 Ortho Cushion" and it does not meet the deminsions at all. The total lenght was to be 19". It's 16 1/2". ETC"
+
+How can Wagan screw up something like that, or did they?  Making something to short by accident and lying to the people until it's fixed. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B000066OC7:as_usual_great_service_but_quality_was_not_typical_of_amazon:bryan_j._nugent
+</unique_id>
+<asin>
+B000066OC7
+</asin>
+<product_name>
+Wagan 9788  Ortho Wedge Cushion: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+12 of 12
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+as usual great service but quality was not typical of amazon
+</title>
+<date>
+February 24, 2006
+</date>
+<reviewer>
+Bryan J. Nugent
+</reviewer>
+<reviewer_location>
+Spokane, WA United States
+</reviewer_location>
+<review_text>
+This product came quickly but i should have listened to the other reviewers. They said the cushion would squash flat in a week and it has. Just spend the extra dough and get some thing of a better quality. otherwise you will regret it in the long ru
+</review_text>
+</review>
+<review>
+<unique_id>
+B000066OC7:flat!:"hercathyness"
+</unique_id>
+<asin>
+B000066OC7
+</asin>
+<product_name>
+Wagan 9788  Ortho Wedge Cushion: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+51 of 52
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Flat!
+</title>
+<date>
+August 15, 2003
+</date>
+<reviewer>
+"hercathyness"
+</reviewer>
+<reviewer_location>
+Texas
+</reviewer_location>
+<review_text>
+This cushion is very disappointing. In less than a week, it has gone completely flat and the seams have separated. I am not a large person either! It doesn't even puff back up when I don't use it. Don't buy it; it does not do anything it is advertised for
+</review_text>
+</review>
+<review>
+<unique_id>
+B000066OC7:don't__waste_your_money_!:kim_taylor
+</unique_id>
+<asin>
+B000066OC7
+</asin>
+<product_name>
+Wagan 9788  Ortho Wedge Cushion: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+63 of 64
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't  waste your money !
+</title>
+<date>
+June 21, 2003
+</date>
+<reviewer>
+Kim Taylor
+</reviewer>
+<reviewer_location>
+Coweta, OK United States
+</reviewer_location>
+<review_text>
+I had been wanting this for 2 years due to having a cracked tail bone several times in my life. When I saw it at this price I bought it right away. I'm here to tell you not to waste your money! I only weigh 100 pounds which is small for an adult and when I sat on this hoping it would keep my tail bone lifted the pillow completely smashed down flat with no support what so ever. It was a BIG disappointment
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002SR7TC:mityvac_7201_fluid_evacuator_plus:s._peters
+</unique_id>
+<asin>
+B0002SR7TC
+</asin>
+<product_name>
+Mityvac 7201 Fluid Evacuator Plus: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Mityvac 7201 Fluid Evacuator Plus
+</title>
+<date>
+March 23, 2007
+</date>
+<reviewer>
+S. Peters
+</reviewer>
+<reviewer_location>
+San Diego, CA
+</reviewer_location>
+<review_text>
+I could not get enough vacuum to draw the oil from the crankcase... unit would not work.  I am very dissatisfied with the product
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002SR7TC:it_does_not_suck:michael_kaufman_"mechanicwanabe"
+</unique_id>
+<asin>
+B0002SR7TC
+</asin>
+<product_name>
+Mityvac 7201 Fluid Evacuator Plus: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+It does not suck
+</title>
+<date>
+February 21, 2007
+</date>
+<reviewer>
+Michael Kaufman "mechanicwanabe"
+</reviewer>
+<reviewer_location>
+New Providence, NJ USA
+</reviewer_location>
+<review_text>
+The pump in theory suppose to suck oil out of the dipstick hole. It did not do it for Honda engine. It did for snowblower. You will need to get dirty to change your own oil
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CACMMM:not_as_advertised:anjanette_wall_"1st_time_mom"
+</unique_id>
+<asin>
+B000CACMMM
+</asin>
+<product_name>
+Rain-X 161040 Roof Top Cargo Bag: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+not as advertised
+</title>
+<date>
+December 28, 2006
+</date>
+<reviewer>
+Anjanette Wall "1st time mom"
+</reviewer>
+<reviewer_location>
+baltimore, md
+</reviewer_location>
+<review_text>
+I was so excited about this bag but it was a huge disappointment.  The description clearly indicates WATERPROOF, but in fact it is mostly water RESISTANT, an 8 on a scale of 1-10 according to the box.  and since our travel coincided with several rain storms, this was a very important differentiation!
+the straps for the 'net' are extremely unmanageable and there are several key elements missing from the instructions.  having never used a roof top cargo bag before, this presented quite an obstacle for me.  there are loops through which you send the straps for the net that holds the bag down, the instructions make no mention of them, do you loop the strap through before or after you loop it through the luggage rack?  does it make a difference?  it took me 45 minutes just to get the thing attached to my roof due to trial and error (not counting loading time).
+the clips themselves are very poor construction, one of them broke upon tightening and had to be makeshift tied instead.
+the straps also do not tighten very easily, you have to feed the straps through the clips and then keep moving the clips back and forth until you get it to the length you want.
+the stitching also started ripping when trying to close the very stubborn zipper.  the bag was not overstuffed.
+I cannot recommend this product
+</review_text>
+</review>
+<review>
+<unique_id>
+B00006F2T7:alarm_bypass:john_bryant
+</unique_id>
+<asin>
+B00006F2T7
+</asin>
+<product_name>
+Design Tech 29402 Unvrsl Alarm Bypass: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+alarm bypass
+</title>
+<date>
+March 14, 2007
+</date>
+<reviewer>
+John Bryant
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+i followed the instructions to the letter , but it only worked about 50 % of the time. i will be sending it bac
+</review_text>
+</review>
+<review>
+<unique_id>
+B00006F2T7:it_didn't_work_for_me:christian_d._love
+</unique_id>
+<asin>
+B00006F2T7
+</asin>
+<product_name>
+Design Tech 29402 Unvrsl Alarm Bypass: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+It didn't work for me
+</title>
+<date>
+March 8, 2007
+</date>
+<reviewer>
+Christian D. Love
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+I purchased this for my 2001 VW golf, and it did not work. I know some of the other vehicles wire directly in, but you have to put a spare key in the unit and wrap it around the ignition. It made the install seem very half-a**ed. I could have just taped the key to the ignition at that point. I will get the immobilizer delete software instead of this junk. Thumbs down from me on at least VW and Audi application
+</review_text>
+</review>
+<review>
+<unique_id>
+B00008J2DP:easy_to_pick:gordon
+</unique_id>
+<asin>
+B00008J2DP
+</asin>
+<product_name>
+Master Lock 252DAT Advanced Security Steering Wheel Lock "Quad Hook": Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Easy to Pick
+</title>
+<date>
+January 18, 2006
+</date>
+<reviewer>
+Gordon
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Thought I'd just confirm what I've learned too.  I bought it, realized after research it could be picked in seconds with a pen and returned it
+</review_text>
+</review>
+<review>
+<unique_id>
+B00008J2DP:junk:nemo
+</unique_id>
+<asin>
+B00008J2DP
+</asin>
+<product_name>
+Master Lock 252DAT Advanced Security Steering Wheel Lock "Quad Hook": Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Junk
+</title>
+<date>
+July 21, 2005
+</date>
+<reviewer>
+Nemo
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+"Advanced Security" is all a lie.  These locks can be easily opened without a key.  I have written to the Masterlock company and they replaced the lock free of charge to a one that uses a regular key
+</review_text>
+</review>
+<review>
+<unique_id>
+B00008J2DP:tubular_cylinder_keys_easy_to_pick:david_perera_"dap"
+</unique_id>
+<asin>
+B00008J2DP
+</asin>
+<product_name>
+Master Lock 252DAT Advanced Security Steering Wheel Lock "Quad Hook": Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Tubular cylinder keys easy to pick
+</title>
+<date>
+October 27, 2004
+</date>
+<reviewer>
+David Perera "dap"
+</reviewer>
+<reviewer_location>
+Washington, DC
+</reviewer_location>
+<review_text>
+Bike lock manufacturer Kryptonite recently revealed that tubular cylinder locks -- which this model uses -- can be very easily picked. Kinda defeats the purpose of owning this in the first place.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BMAOIU:great_description,_poor_execution_of_hv30_portable_compressor:paul_c._murray_"paul_c._murray"
+</unique_id>
+<asin>
+B000BMAOIU
+</asin>
+<product_name>
+Key Parts HV30 Portable Compressor: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Great Description, Poor Execution of HV30 Portable Compressor
+</title>
+<date>
+January 9, 2007
+</date>
+<reviewer>
+Paul C. Murray "Paul C. Murray"
+</reviewer>
+<reviewer_location>
+Kingston, NJ
+</reviewer_location>
+<review_text>
+March 14 FOLLOW UP REPORT: Pump found to stall and stop at 40 pounds pressure. Teresa K. Naeole of Q. Industries by phone said I could return pump and would be sent a more expensive tire pump in return. Returned pump was received at 159 Islington on February 16 at 12:55 pm. I have not received a new pump. I cannot get a response from telephone message requests at (303) 629 7700. Almost a month now. Yuk! Paul
+
+I purchased the HV30 Portable Compressor because it promised rapid inflation of tires and blowup toys. The 140 pound pressure limit was certainly adequate. The price was right.
+
+The Compressor comes with a hose that screws onto the compressor on one end and screws onto the tire valve stem on the other end. The compressor end thread was damaged. I had to use a pliers to tighten what should have been a hand tightened connection. Because the tire end screws on, air is lost as it is unscrewed after the tire is inflated. Most tire inflators come with a quick disconnect. Further, the compressor won't start against tire pressure if the connector hose is screwed on the tire valve. I had to start the compressor and then screw the hose onto the valve stem.
+
+I haven't tried inflating a bike tire yet. I strongly suspect the air lost during unscrewing the connector hose will almost deflate the tire. This is just a great idea for inflating tires much faster than with pumps designed for much higher pressure limits but really poor engineering execution
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BQRFM4:good_design_idea--poor_execution:andrew_mountain
+</unique_id>
+<asin>
+B000BQRFM4
+</asin>
+<product_name>
+Instapark Laser-Guided Parking System, Model# IP-1: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 3
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Good design idea--poor execution
+</title>
+<date>
+October 30, 2006
+</date>
+<reviewer>
+Andrew Mountain
+</reviewer>
+<reviewer_location>
+Vancouver, BC CANADA
+</reviewer_location>
+<review_text>
+Sticking the solar module on the side of the garage door opener like they instruct doesn't work--the solar panel has to be right next to the lightbulb to get enough power to work.  I was able to mount it close enough to the lightbulb and make a small cutout in the cover to get it to fit--you might not be able to depending on your garage door opener.  Also the bracket that holds the laser module has too light a hold on the module, it doesn't hold it in rotational position
+</review_text>
+</review>
+<review>
+<unique_id>
+B00026L1Q4:rubbish:brit
+</unique_id>
+<asin>
+B00026L1Q4
+</asin>
+<product_name>
+Mr. Clean AutoDry Refill Filter: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 13
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Rubbish
+</title>
+<date>
+November 29, 2004
+</date>
+<reviewer>
+Brit
+</reviewer>
+<reviewer_location>
+Chicago ill
+</reviewer_location>
+<review_text>
+ You are better off with a sponge and a bucket . There ain't a quick fix to washing your car without going to the local car wash
+</review_text>
+</review>
+<review>
+<unique_id>
+b000cmgxpm:dead_on_arrival:nemo
+</unique_id>
+<asin>
+b000cmgxpm
+</asin>
+<product_name>
+Sylvania DOT-it Self-Adhesive Bright White Black LED Light: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Dead on Arrival
+</title>
+<date>
+April 13, 2007
+</date>
+<reviewer>
+Nemo
+</reviewer>
+<reviewer_location>
+California
+</reviewer_location>
+<review_text>
+Arrived with dead batteries in it, factor the price and time of getting three AAA batteries on your own into your decision of whether to buy this product or not
+</review_text>
+</review>
+<review>
+<unique_id>
+B00078NJYE:don't_count_on_this_charger_when_you_need_it!:ditblanch_"ditblanch"
+</unique_id>
+<asin>
+B00078NJYE
+</asin>
+<product_name>
+Schumacher PS-400-3A Instant Power Jump Starter: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't count on this charger when you need it!
+</title>
+<date>
+April 16, 2007
+</date>
+<reviewer>
+ditblanch "ditblanch"
+</reviewer>
+<reviewer_location>
+ditblanch
+</reviewer_location>
+<review_text>
+My husband purchased this charger for me for Christmas, after lots of mornings when my van wouldn't start and he was already gone to work.  Except for having to search far and wide for the right kind of extention cord to plug this thing in, we were excited to have something for those "just in case" moments.  We plugged it in and have left it in since then.  Just this week our battery was dead again.  We excitedly went to use this charger, and lo and behold, it wouldn't work.  We had to call a neighbor to come and give us a jump start.  Later that day the battery was dead again (!!!) and this charger worked that time, so who knows what happened?
+
+We haven't tried the outlet power, so I have no idea how reliable that is.
+
+I won't count on this machine.  Luckily I have a small battery charger that I can plug my car into, and after twenty minutes or so I'm ready to go.  I won't be getting rid of that charger--it's much more dependable
+</review_text>
+</review>
+<review>
+<unique_id>
+B00078NJYE:incomplete_product:tanker
+</unique_id>
+<asin>
+B00078NJYE
+</asin>
+<product_name>
+Schumacher PS-400-3A Instant Power Jump Starter: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Incomplete product
+</title>
+<date>
+February 5, 2007
+</date>
+<reviewer>
+Tanker
+</reviewer>
+<reviewer_location>
+TN  USA
+</reviewer_location>
+<review_text>
+Appears to be a good product with one major exception. You can't even charge it for first use without getting an extension cord to plug into 110v power. Required cord must have only one plug in where as most cords today come with a plug on the end that will let you plug in more than one item. The blades on the jump starter are resessed so the extension cord must have only one place to plug anything or the fitting is to big to go into the recess. Got this as a present and so far the report is that an old type cord is hard to find. 
+I find it unbelievable that any company producing this item would not include 4 feet of cheap cord so the product could be put in service at once
+</review_text>
+</review>
+<review>
+<unique_id>
+B0008D6NK0:does_the_job:stephen_n._rubin
+</unique_id>
+<asin>
+B0008D6NK0
+</asin>
+<product_name>
+Garage Laser Park: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Does the Job
+</title>
+<date>
+June 30, 2006
+</date>
+<reviewer>
+Stephen N. Rubin
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I'm very pleased with this Laser Garage Park.
+This Laser Garage Park was easy to install and works really well. I would recommend this to any one looking for a practical
+way to avoid damage to their car while trying to park in the
+garage.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00099YORC:slippery_slope:jonathan_dunn-rankin_"jonathan__dunn-rankin"
+</unique_id>
+<asin>
+B00099YORC
+</asin>
+<product_name>
+Park Smart Parking Mat (set of 2): Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Slippery slope
+</title>
+<date>
+January 9, 2007
+</date>
+<reviewer>
+Jonathan DUNN-RANKIN "Jonathan  Dunn-Rankin"
+</reviewer>
+<reviewer_location>
+San Diego, CA USA
+</reviewer_location>
+<review_text>
+I purchased the set of two Park Smart parking mats as a simple alternative to hanging a tennis ball on a string which would hit the windshield when my car was sufficiently inside the garage to close the door. But even with stickum on the bottom the mats slipped on the smooth floor of the garage and the car hit the workbench time and again. I may say the service I got through amazon.com was first rate; it's the product I found wanting
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007N5848:run_for_your_life_this_product_sucks._:christopher
+</unique_id>
+<asin>
+B0007N5848
+</asin>
+<product_name>
+GS27 Scratch Remover: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+6 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Run for your life this product sucks. 
+</title>
+<date>
+July 19, 2006
+</date>
+<reviewer>
+Christopher
+</reviewer>
+<reviewer_location>
+Brooklyn, NY USA
+</reviewer_location>
+<review_text>
+We bought this scratch remover years ago from an auto store. It wasn't that expensive but totally useless. We put it on a scratch or two on our car which is black and did what it said. It did nothing except leave a white stain on the area I applied it to. I tried everything to get it off, then I had to use my last option rubbing compound. 
+
+Luckily the rubbing compound got the stain off. After this I dumped the tube in our basement and lost track of it since then (Probably dumped it). Shortly after we went to the auto store again and we found auto paint. They come in a little tube with a paint brush and each paint has a code (got to get the one for your model car). Used it worked well and years later still looks good.
+
+ Up close you can still see a scratch was there but only really up close. After that I waxed the area after the paint dried and it looked fine. Unless you look for it you will not see a scratch. So don't buy this product either buy the auto paint or take your car to an auto body shop. This product would be better as a door stop and even then it would probably do a poor job.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000F7WW3G:mood_lighting_at_best:me
+</unique_id>
+<asin>
+B000F7WW3G
+</asin>
+<product_name>
+Sylvania Dot-It Self-Adhesive Bright White LED Light, Black, 6-PACK: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Mood lighting at best
+</title>
+<date>
+March 20, 2007
+</date>
+<reviewer>
+Me
+</reviewer>
+<reviewer_location>
+Wheaton, IL USA
+</reviewer_location>
+<review_text>
+The description of this product is NOT accurate.  These lights are NOT bright.  I have 6 mounted under the cabinets in my very small kitchen and all 6 on at once add up to the equivalent of a night light.  It is a pretty color of light, but very dim
+</review_text>
+</review>
+<review>
+<unique_id>
+B000F7WW3G:led_lighting_not_satisfactory:marie_wright
+</unique_id>
+<asin>
+B000F7WW3G
+</asin>
+<product_name>
+Sylvania Dot-It Self-Adhesive Bright White LED Light, Black, 6-PACK: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+LED Lighting Not Satisfactory
+</title>
+<date>
+November 9, 2006
+</date>
+<reviewer>
+Marie Wright
+</reviewer>
+<reviewer_location>
+Suffolk, VA United States
+</reviewer_location>
+<review_text>
+We were trying to get rid of the wires for under the cabinet lighting.  However, the LED lights were definitely NOT sufficient for this area.  We were very disappointed even after trying to double the number recommended in an area
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006GSITI:caution_-_overload,_fire_possibility:viren_vora_"viren"
+</unique_id>
+<asin>
+B0006GSITI
+</asin>
+<product_name>
+12v Multi-Outlet Adapter 4 socket adapter: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+CAUTION - Overload, fire possibility
+</title>
+<date>
+December 21, 2006
+</date>
+<reviewer>
+VIREN VORA "Viren"
+</reviewer>
+<reviewer_location>
+New Jersey, U. S. A.
+</reviewer_location>
+<review_text>
+*** CAUTION *** Too many equipments through one socket may cause overload and possible fire in yor vehicle. There is no proper technical information provided for this product and no mention of a safety fuse either. Even if you buy this product, be careful not to plug in more than 2 things at a time. Also, note that all outlets are very close to each other, with a potential to cause damage to your charging adapters
+</review_text>
+</review>
+<review>
+<unique_id>
+B00011KLZW:bulldog_2030_is_junk!:ray_dasilva
+</unique_id>
+<asin>
+B00011KLZW
+</asin>
+<product_name>
+Bulldog Security 2030 Do It Yourself Security Talking Alarm w/Mini-Siren And LED: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Bulldog 2030 is junk!
+</title>
+<date>
+July 13, 2006
+</date>
+<reviewer>
+Ray daSilva
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Installed my bulldog 2030! It's is a total piece of junk.It only works when you tap on the hood. You can pound on the back of the car and nothing. Put the sensor at max, still nothing! This is more of a novelty not an alarm.Its a freaking joke! Don't waste your money
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUV0MQ:not_quite_worth_it:map_"makeroffinesawdust"
+</unique_id>
+<asin>
+B000GUV0MQ
+</asin>
+<product_name>
+Mitchell1 eAutoRepair Do-It-Yourself Automotive Repair Information (1-Week Activation Card): Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not quite worth it
+</title>
+<date>
+October 31, 2006
+</date>
+<reviewer>
+MAP "makeroffinesawdust"
+</reviewer>
+<reviewer_location>
+Mich United States
+</reviewer_location>
+<review_text>
+I was unsure about this company so I only popped for a week subscription, felt the gamble of $10 was worth it.  Well not all gambles work out, this one did not.  When you 1st register you tell them what vehicle you have, now one might think once you do this that the information you want to access will be about your particular vehicle, not so.  I want to know how to replace a certain part, well you go to that part look it up, it tells you the replacement procedure for a car not even yours, and nothing about your car, uh!! C'mon. 
+
+There's very little trobleshooting, no flow charts for troubleshooting.
+Save you money and buy a Haynes Manual for your vehicle, you'll be much farther ahead.  
+</review_text>
+</review>
+<review>
+<unique_id>
+B00061NQZY:waste_of_money:michael_b._burch
+</unique_id>
+<asin>
+B00061NQZY
+</asin>
+<product_name>
+Lane's Car Products New Car Scent - 32 oz: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Waste of money
+</title>
+<date>
+August 6, 2006
+</date>
+<reviewer>
+Michael B. Burch
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Highly concentrated chemical smell, definitely gets rid of odors but DOES NOT smell like a new car
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BVP1XO:a_very_uncomfortable_car_seat_cushion:linda
+</unique_id>
+<asin>
+B000BVP1XO
+</asin>
+<product_name>
+Car Seat Massage Cushion &#45; Gray: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+A VERY uncomfortable car seat cushion
+</title>
+<date>
+December 29, 2006
+</date>
+<reviewer>
+Linda
+</reviewer>
+<reviewer_location>
+United States
+</reviewer_location>
+<review_text>
+This car seat cushion's foam padding is not only paper thin, but it also has what feels like circular metal inserts (I'm not kidding) placed in some of the cushion's "massaging bubbles".  This makes for an unbelievably uncomfortable car seat, as these internal metalic objects dig right into your back and spine!  I threw my "Massage Cushion" into the trash after about twenty minutes with this thing
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BO6MBG:steer_clear_of_this_cargo_carrier:s._clouthier
+</unique_id>
+<asin>
+B000BO6MBG
+</asin>
+<product_name>
+Roof Top Cargo Bag: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Steer Clear of this Cargo Carrier
+</title>
+<date>
+September 8, 2006
+</date>
+<reviewer>
+S. Clouthier
+</reviewer>
+<reviewer_location>
+Grand Blanc, MI
+</reviewer_location>
+<review_text>
+We purchased this rooftop cargo carrier to transport our suitcases and beach items during our summer vacation to New England.  We were initially concerned because it was so inexpensive for the size and worried that it might not fit a Trailblazer.  Upon arrival we were pleased to find that it not only fit securely, but was rather stylish too.  Although it appeared weatherproof we soon found that it was not.  It began raining at the onset of our trip.  About four hours in to our fourteen hour roadtrip the weatherproof lining began disintingrating.  By the time we arrived at our destination all our possessions were soaked and coated in tiny grey vinyl flecks.  This cargo hauler might be cheap and look nice, but it is not worth your money
+</review_text>
+</review>
+<review>
+<unique_id>
+B000IC04LA:very_unsatisfied:mrs._cecilia_g._beres_"casinosue"
+</unique_id>
+<asin>
+B000IC04LA
+</asin>
+<product_name>
+Rite Life@ Auto Air Flow -Reduces Air Conditioning Use and Fuel Consumption, Amazing Autoair Flow Solar Powered Fan: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+very unsatisfied
+</title>
+<date>
+January 9, 2007
+</date>
+<reviewer>
+Mrs. Cecilia G. Beres "casinosue"
+</reviewer>
+<reviewer_location>
+El Cajon, Calif.
+</reviewer_location>
+<review_text>
+One day when it was 100 degrees outside, I used it in my car, rolled all of the windows up and went into a store to shop.  When I came out and got into my car, it was hotter than I could have ever imagined.  It hadn't cooled my car prior to that either.  It looked like a very small fan blowing, and that was it.  I came home, took it off, and threw it out.  I was not satisfied at all
+</review_text>
+</review>
+<review>
+<unique_id>
+B000IC04LA:don't_buy_this:r._hill
+</unique_id>
+<asin>
+B000IC04LA
+</asin>
+<product_name>
+Rite Life@ Auto Air Flow -Reduces Air Conditioning Use and Fuel Consumption, Amazing Autoair Flow Solar Powered Fan: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+don't buy this
+</title>
+<date>
+January 9, 2007
+</date>
+<reviewer>
+R. Hill
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+This includes a big piece of gooey tape to seal the window of your car when using this item--who's actually going to put this on their car? It makes the whole product useless and basically something to throw away. Check the picture--see anything messy you have to stick onto your car? Misleading and a waste of money. Don't buy it
+</review_text>
+</review>
+<review>
+<unique_id>
+B000F7YZP4:disappointing:jeaunice_bailey
+</unique_id>
+<asin>
+B000F7YZP4
+</asin>
+<product_name>
+Sylvania Dot-It Self-Adhesive Bright White LED Light, Red, 6-PACK: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Disappointing
+</title>
+<date>
+January 16, 2007
+</date>
+<reviewer>
+Jeaunice Bailey
+</reviewer>
+<reviewer_location>
+Kalama, WA United States
+</reviewer_location>
+<review_text>
+These are more of an accent light than task lights...not what I expected.  should have paid attention to other reviews
+</review_text>
+</review>
+<review>
+<unique_id>
+B00070KA5I:dissapointed:rusty_bedsprings
+</unique_id>
+<asin>
+B00070KA5I
+</asin>
+<product_name>
+Accu-gage Tire Pressure Guage - 60 PSI Range: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Dissapointed
+</title>
+<date>
+August 31, 2006
+</date>
+<reviewer>
+Rusty Bedsprings
+</reviewer>
+<reviewer_location>
+Saint Paul, MN USA
+</reviewer_location>
+<review_text>
+A tire pressure gauge only has to do one thing well. That is to accurately measure the air pressure inside the tire. My Accugage was reading 5 PSI high when tested alongside a calibrated pressure transducer. That's why I give it only one star
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DEZK1:great_features,_if_it_ever_worked:m._tannery
+</unique_id>
+<asin>
+B0000DEZK1
+</asin>
+<product_name>
+Design Tech Deluxe Remote Car Starter with Keyless Entry #23927W: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+8 of 9
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Great features, if it ever worked
+</title>
+<date>
+August 10, 2006
+</date>
+<reviewer>
+M. Tannery
+</reviewer>
+<reviewer_location>
+Phoenix, AZ
+</reviewer_location>
+<review_text>
+I had this alarm professionally installed by PepBoys (which is DesignTech's recommended professional installer). After the initial installation with all the wiring was done, PepBoys found out that the brain was defective. They confirmed this as well with several tests that they did. After being on the phone with DesignTech's horrible customer service, and several faxes later, they sent me a new brain, and I just mailed out the defective old brain with a prepaid mailing label that they provided. After my 2nd visit with PepBoys, it was the same problem. And yes, DesignTech sent me a defective replacement. Several more calls and faxes later, I got the 3rd one, and that one turned out ok.
+
+The features worked fine, and the batteries lasted me a long time. But the fob themselves are made up of really cheap looking plastic (even the silver one). Other than that, it worked fine. I got a new truck, and this time I've invested in an AudioVox system (sold under the Pursuit brand) and I love that everything is so integrated and easier to upgrade. I still had a professional install it and I've never had any problems with it.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DEZK1:not_as_good:michael_j._trombly_"car_starter"
+</unique_id>
+<asin>
+B0000DEZK1
+</asin>
+<product_name>
+Design Tech Deluxe Remote Car Starter with Keyless Entry #23927W: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+34 of 35
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+NOT AS GOOD
+</title>
+<date>
+February 8, 2005
+</date>
+<reviewer>
+Michael J. Trombly "CAR STARTER"
+</reviewer>
+<reviewer_location>
+CT
+</reviewer_location>
+<review_text>
+EASY AND CLEAR STEPS TO FOLLOW IN INSTALLATION, ALTHOUGH THE UNIVERSAL REMOTE IS REALLY BAD, FEELS VERY CHEAP...TACHLESS MODE WORKS GREAT, BUT FINDING SERVICE AND TECH SUPPORT IS ALMOST IMPOSSIBLE...GOOD LUCK CONTACTING THEM
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DEZK1:excellent_features_but...:jennifer_lin_oslund_"shatteredhaven"
+</unique_id>
+<asin>
+B0000DEZK1
+</asin>
+<product_name>
+Design Tech Deluxe Remote Car Starter with Keyless Entry #23927W: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+68 of 69
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Excellent features but...
+</title>
+<date>
+January 23, 2005
+</date>
+<reviewer>
+Jennifer Lin Oslund "shatteredhaven"
+</reviewer>
+<reviewer_location>
+Grand Rapids, MI
+</reviewer_location>
+<review_text>
+The Design Tech Deluxe Remote Car Starter comes with excellent features and a compact remote.  The problem is, the item I received did not work.
+
+All wires were hooked up appropriately and double check with a test kit.  Once hooked up, there was no response from the unit.  After hours of attempting to troubleshoot, I looked online at Design Tech's website for local authorized installers in the hopes that they might be able to answer my question.
+
+Unfortunately the three "authorized" installers in my area REFUSED to touch Design Tech's equipment because, and I quote "they're too difficult to work with.  We haven't had much success."  
+
+A little alarmed by this response, I attempted to contact the company using their 800 number during their live tech support hours.  After waiting 1/2 on hold with no approximate wait time and no end in sight, I hung up and decided instead to return the defective unit back
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LEG2K:good_tool_-_great_price:andrew_phillips
+</unique_id>
+<asin>
+B0007LEG2K
+</asin>
+<product_name>
+Actron CP9125 PocketScan Diagnostic Code Reader for OBDII (Post-1996) Vehicles: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Good Tool - great price
+</title>
+<date>
+March 22, 2007
+</date>
+<reviewer>
+Andrew Phillips
+</reviewer>
+<reviewer_location>
+Roswell, GA USA
+</reviewer_location>
+<review_text>
+This item performed as expected, reads and resets fault codes in all vehicles with OBD-II connector. Easy to use - only 2 buttons! You might be able to find it $10 cheaper at a local store on sale, but even at the price I paid it was a BARGAIN! Cost of tool = 1 diagnostic visit to local shop
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LEG2K:not_worth_it,_had_to_return_it:howard_jones_"gadget_lover"
+</unique_id>
+<asin>
+B0007LEG2K
+</asin>
+<product_name>
+Actron CP9125 PocketScan Diagnostic Code Reader for OBDII (Post-1996) Vehicles: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 3
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Not worth it, had to return it
+</title>
+<date>
+March 8, 2007
+</date>
+<reviewer>
+Howard Jones "Gadget Lover"
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+This OBDII reader is way too simple. Doesn't really do much in diagnostic. Could not reset anything. Save up and buy a bit more better unit
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006JO0KG:solar_battery:joel_w._metzler
+</unique_id>
+<asin>
+B0006JO0KG
+</asin>
+<product_name>
+Sunforce 50012 1.8 Watt Solar Battery Maintainer: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+solar battery
+</title>
+<date>
+July 20, 2006
+</date>
+<reviewer>
+Joel W. Metzler
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The product would not put out enough current to help with the drain on my battery. I think I purchaced too small of a unit for my needs.  May work well with a smaller type of battery, not on a car battery
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006JO0KG:sunforce_50012_solar_battery_maintainer_-_cr@p:thomas_d._graham
+</unique_id>
+<asin>
+B0006JO0KG
+</asin>
+<product_name>
+Sunforce 50012 1.8 Watt Solar Battery Maintainer: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+19 of 25
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Sunforce 50012 Solar Battery Maintainer - CR@P
+</title>
+<date>
+May 28, 2006
+</date>
+<reviewer>
+Thomas D. Graham
+</reviewer>
+<reviewer_location>
+California, USA
+</reviewer_location>
+<review_text>
+I put the Sunforce 50012 inside my car's windscreen and plugged it into the cigar lighter.  (On this car the cigar lighter is "live" even when the ignition is off).  The Sunforce 50012 worked for one day.  Next day it appeared dead (There is blue LED that blinks when it is working).  I picked it up, it started working, sat it down, it quite.  Twisted it, it worked, then it didn't, then it did.  The old intermitant (sp) connection problem.  Basically it was shot, dead, kaput, trash it.  Long story short, I fixed it by taking it apart and re-soldering components.  I am smart and lucky with nothing better to do.  99.999% of the users could not make this fix.  So just forget about it.  This thing is garbage
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007ZAJ8G:air_compressor:susan_kraght
+</unique_id>
+<asin>
+B0007ZAJ8G
+</asin>
+<product_name>
+TRUCK AIR 12 volt Heavy Duty Air Compressor: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+air compressor
+</title>
+<date>
+November 1, 2006
+</date>
+<reviewer>
+Susan Kraght
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Bought 2 of these.  Both failed at extactly the same time after a few months.  Save your money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007ZAJ8G:don't_bother!:e._v._beck_"ted"
+</unique_id>
+<asin>
+B0007ZAJ8G
+</asin>
+<product_name>
+TRUCK AIR 12 volt Heavy Duty Air Compressor: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+9 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't bother!
+</title>
+<date>
+June 16, 2006
+</date>
+<reviewer>
+E. V. Beck "Ted"
+</reviewer>
+<reviewer_location>
+Atlanta, GA
+</reviewer_location>
+<review_text>
+It took 20 mins to fill a car tire from 20psi to 30psi.  Truck Air? -- It could barely fill a car tire.  It would take over 3 hours for it to reach 300psi if it even could make it.  STAY CLEAR. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007ZAJ8G:don't_even_think_about_buying_this_unit.:a._currah_"cedarpark_mom"
+</unique_id>
+<asin>
+B0007ZAJ8G
+</asin>
+<product_name>
+TRUCK AIR 12 volt Heavy Duty Air Compressor: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+29 of 29
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't even think about buying this unit.
+</title>
+<date>
+August 20, 2005
+</date>
+<reviewer>
+A. Currah "Cedarpark Mom"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+We received this as a employee gift and were so excited to have it.  Not only does it not fill anything pass 15 PSI, the 12V cord is very cheaply made where it plugs into your cig. lighter.  The plastic on the tip started to crack after pulling it out.  With the few more times we used it, I the tip completely broke.  At least it comes with 7 year warranty.  Save yourself the disapointment and headache
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BQR100:magic_jumbo_shades:j._worley
+</unique_id>
+<asin>
+B000BQR100
+</asin>
+<product_name>
+Basix Magic Jumbo Sunshade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Magic Jumbo Shades
+</title>
+<date>
+March 8, 2007
+</date>
+<reviewer>
+J. Worley
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Last time I purchased them they came in a nice sleeve.  These are awkward and only have a band to wrap around them.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007N56L8:not_worth_the_money._:christopher
+</unique_id>
+<asin>
+B0007N56L8
+</asin>
+<product_name>
+Ding King Dent Repair Kit, Fixes minor dings and dents in cars: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+23 of 25
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not worth the money. 
+</title>
+<date>
+July 5, 2006
+</date>
+<reviewer>
+Christopher
+</reviewer>
+<reviewer_location>
+Brooklyn, NY USA
+</reviewer_location>
+<review_text>
+We live in a city and we got a minor ding on the side of the car. We bought this kit a few years ago somewhere other than Amazon (think a auto store). Anyway we did what it said and did it several times. It did take some of the ding out but not all of it. We barely got the glue off from it. A few years later we got hit by a suv when we were getting the car fixed we had the guy remove the ding and now it looks perfect. Sadly this thing was not worth the money or effort we put into it. I also watched Fox 5 and they tested the item it didn't work for them either. I know it will cost more but take it to a auto shop and get the ding removed there. Don't buy this product it is worthless.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUTLTK:thanks_for_the_info:mr_fab
+</unique_id>
+<asin>
+B000GUTLTK
+</asin>
+<product_name>
+Mitchell1 eAutoRepair Do-It-Yourself Automotive Repair Information (4-Year Activation Card): Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Thanks for the info
+</title>
+<date>
+December 23, 2006
+</date>
+<reviewer>
+Mr Fab
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I would have purchased this ridiculous item if not for the comment above.  Thanks for alerting me to the misleading information
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUTLTK:subscription_is_for_one_vehicle_only:l._shockey
+</unique_id>
+<asin>
+B000GUTLTK
+</asin>
+<product_name>
+Mitchell1 eAutoRepair Do-It-Yourself Automotive Repair Information (4-Year Activation Card): Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+9 of 11
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Subscription is for ONE vehicle Only
+</title>
+<date>
+September 1, 2006
+</date>
+<reviewer>
+L. Shockey
+</reviewer>
+<reviewer_location>
+TX, USA
+</reviewer_location>
+<review_text>
+I returned the activation card without activating because I was misled by the description of the product.   I understood that the eAutoRepair activation would be for a multitude of "vehicles from 1983 to Present", but the card is for only ONE vehicle per subscription.........not mentioned in the description
+</review_text>
+</review>
+<review>
+<unique_id>
+B000630AHE:worst_polish_i've_ever_used:mr._merrick_wightman_"merrick"
+</unique_id>
+<asin>
+B000630AHE
+</asin>
+<product_name>
+Black Magic BM48016 Liquid Wax. 16 oz.: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Worst Polish I've Ever Used
+</title>
+<date>
+April 11, 2007
+</date>
+<reviewer>
+Mr. Merrick Wightman "merrick"
+</reviewer>
+<reviewer_location>
+NJ USA
+</reviewer_location>
+<review_text>
+I think I must have got a bad batch because this polish is highly rated.  It never dried to a haze for me.  The first time i used it I thought I hadn't shaken the bottle enough.  The second time I shook the bottle - seven days later it still hasn't dried enough to buff off.  I'm not sure if its the product or whether Amazon are selling an inferior conterfeit
+</review_text>
+</review>
+<review>
+<unique_id>
+B00029XH36:not_what_i_expected:richard_l._seibert_"big_d"
+</unique_id>
+<asin>
+B00029XH36
+</asin>
+<product_name>
+Wolo 345 Animal House Horn: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+not what i expected
+</title>
+<date>
+August 9, 2006
+</date>
+<reviewer>
+Richard L. Seibert "Big D"
+</reviewer>
+<reviewer_location>
+Pittsburgh
+</reviewer_location>
+<review_text>
+you cant chose the music to play.... not that loud.... overall sucks.. (just get the airhorns...) if i wasnt too lazy to return this item i would have... it sucks..
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009JKI3G:seatcover_review:olivia_j._benjamin_"op10s04"
+</unique_id>
+<asin>
+B0009JKI3G
+</asin>
+<product_name>
+Butterfly Bucket Seatcover: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Seatcover Review
+</title>
+<date>
+April 25, 2007
+</date>
+<reviewer>
+Olivia J. Benjamin "op10s04"
+</reviewer>
+<reviewer_location>
+Virginia
+</reviewer_location>
+<review_text>
+The seat covers are cute, but only 1 comes in a box and while I was putting them in my car one of them ripped! Obviously the quality is not very good
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BQ08QO:b.s.:mike_kill!
+</unique_id>
+<asin>
+B000BQ08QO
+</asin>
+<product_name>
+Spectre 5971 Easy Access Oil Change Kit: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+B.S.
+</title>
+<date>
+March 6, 2007
+</date>
+<reviewer>
+Mike Kill!
+</reviewer>
+<reviewer_location>
+Sacramento, CA USA
+</reviewer_location>
+<review_text>
+I work in an auto shop and this thing is a joke.... with the money that you pay for a filter and 5+ qts. of oil, you can get it done by a professional that will buy you a new engine if it blows up. Will this company stand by its product like that? I doubt it... For a few extra bucks you can get an oil flush if you're worried about gunk... It's a scam..
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BQ08QO:oil_change_over_simplified:david_dick_"david"
+</unique_id>
+<asin>
+B000BQ08QO
+</asin>
+<product_name>
+Spectre 5971 Easy Access Oil Change Kit: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+11 of 32
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Oil Change Over Simplified
+</title>
+<date>
+September 26, 2006
+</date>
+<reviewer>
+David Dick "David"
+</reviewer>
+<reviewer_location>
+Washington, D.C.
+</reviewer_location>
+<review_text>
+The oil must be removed through the oil drain to properly evacuate the contaminated oil from the crank case. And the oil filter must be replaced to prevent contamination of the new oil. 
+
+Maybe you'll find this product wonderful and a cost-effective alternative, what do you do with the oil syphoned from the engine? A small but important cost of the oil change at a garage is for disposal of the oil.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BQ08QO:no_way:conifer
+</unique_id>
+<asin>
+B000BQ08QO
+</asin>
+<product_name>
+Spectre 5971 Easy Access Oil Change Kit: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+35 of 52
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+no way
+</title>
+<date>
+September 13, 2006
+</date>
+<reviewer>
+Conifer
+</reviewer>
+<reviewer_location>
+Los Altos Hills, CA
+</reviewer_location>
+<review_text>
+gimmick.
+There are a number of rerouting oil change kits available. Why subject your engine to serious damage and loss of oil with the addition of rubber hoses and hose clamps that may crack or fail? The oil filter seals itself very well on most engines. While it can be a nuissance to remove on some vehicles, I wouldn't risk hose failure for a little convenience. On my Toyota truck I discovered reaching through the engine from the hood is the fastest way to get to the filter. I'm not sure that many people even change their own oil. It's cheaper to take it to the Toyota dealer, 29.95 and they even rotate the tires.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BQ08QO:not_the_best_way_to_drain_your_oil:orion_"orionca"
+</unique_id>
+<asin>
+B000BQ08QO
+</asin>
+<product_name>
+Spectre 5971 Easy Access Oil Change Kit: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+64 of 78
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Not the best way to drain your oil
+</title>
+<date>
+August 31, 2006
+</date>
+<reviewer>
+Orion "orionca"
+</reviewer>
+<reviewer_location>
+Riverside, CA USA
+</reviewer_location>
+<review_text>
+Sediment and metal particles settle in the bottom of your drain pan and these kits can't siphon all that out.  Most "quickie-lube" stations that pioneered this process have abandoned it because they were getting sued for damaging the engine.  
+
+The right way to change your oil is to run your engine until hot and and drain from the bottom; that does a much better job of removing the sludge
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BQMMC2:got_time_to_wait:c._johnson
+</unique_id>
+<asin>
+B000BQMMC2
+</asin>
+<product_name>
+12 V Coffee Maker: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Got time to wait
+</title>
+<date>
+April 12, 2007
+</date>
+<reviewer>
+C. Johnson
+</reviewer>
+<reviewer_location>
+Sunnyvale, CA USA
+</reviewer_location>
+<review_text>
+I purchased two of these, both coffee makers arrived without an instruction manual, not that you really need one.   The outside of the box says have coffee in a few minutes, I guess it depends who defines a few minutes.   Both makers took 20 minutes to heat just one cup of water.  To make a pot, that would be 100 minutes.   I am returning as I am definitely disappointed
+</review_text>
+</review>
+<review>
+<unique_id>
+B000FLF4T6:indoor_outdoor_thermometer:robert_askey
+</unique_id>
+<asin>
+B000FLF4T6
+</asin>
+<product_name>
+Roadpro Indoor/Outdoor Thermometer / Clock w/ Ice Alert Thermometer/Clock,In/Out,Ice Alert: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+indoor outdoor thermometer
+</title>
+<date>
+November 24, 2006
+</date>
+<reviewer>
+Robert Askey
+</reviewer>
+<reviewer_location>
+Nashville, TN
+</reviewer_location>
+<review_text>
+It was not as advertised. It did not come with the lighter power cord. I am returning it because that is why I bought it. I need a back lit display so that I can see it at night. This will not stay on because it is battery powered only
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002UQATS:doesn't_perform_as_advertised:drc
+</unique_id>
+<asin>
+B0002UQATS
+</asin>
+<product_name>
+Meguiar's G-12718 NXT Generation Tech Wax (18-Ounce Liquid): Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+7 of 11
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Doesn't perform as advertised
+</title>
+<date>
+October 25, 2005
+</date>
+<reviewer>
+DRC
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I own a black '02 Jetta TDI and am anal about maintenance, including the exterior. I'm always looking for the one wax product that best suits a black car, and have found some that work well. The NXT Gen Tech Wax isn't one of them. One requirement for me is a wax that doesn't leave a white residue to clean up and detail out. The NXT box clearly states that it leaves no white residue, but I'll attest to the fact that it certainly does. In that respect, it's no better than any other wax that leaves a residue. But the worst is the film it left on my car's finish. I waxed my car with NXT, then went on a 150 mi trip to visit relatives. I went in and spent some time with them, then we decided to go eat and take my car. The sun was shining, and as soon as I walked outside and looked at my car, I could immediately see a haze on the hood, top, and trunk lid. I did plenty of polishing after waxing, so it shouldn't have done that. I borrowed a towel and wiped it off, but it returned. When I got back home, I used alchol to remove the NXT, returned the NXT to the store, got some Eagle One Nanowax, rewaxed, and it's gorgeous....with no haze or swirl marks and absolutely no white residue. Good riddance to NXT
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EJV5N8:horribly_built,_don't_buy!:t._dorau
+</unique_id>
+<asin>
+B000EJV5N8
+</asin>
+<product_name>
+Black and Decker VEC012CBD 450 AMP JUMP STARTER: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+14 of 16
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Horribly built, DON'T BUY!
+</title>
+<date>
+June 28, 2006
+</date>
+<reviewer>
+T. Dorau
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+This piece of equipment worked really well as far as juicing up the battery when it's dead, and it's really easy to charge and use. Problem is, after I had used it a couple times, the cheapo plastic clamps BOTH SNAPPED. Now they can't grip on the battery terminals. Under warranty, but so expensive to ship (shipping not covered by warranty) that it isn't worth it. Great idea, shoddy construction. ALL VECTOR have these same plastic clamps, so try to find one with metal clamps.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006O2S0U:gauge_shows_lower_than_actual_pressure:kenneth_d._byington
+</unique_id>
+<asin>
+B0006O2S0U
+</asin>
+<product_name>
+Accu-gage Tire Pressure Guage - 60 PSI Range Straight Angle: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Gauge shows lower than actual pressure
+</title>
+<date>
+November 9, 2006
+</date>
+<reviewer>
+Kenneth D. Byington
+</reviewer>
+<reviewer_location>
+Michigan
+</reviewer_location>
+<review_text>
+This is the second Accu-Gauge tire pressure gauge I have purchased.  The first had very good accuracy and lasted about 3 years.  This one, when compared to three other digital gauges, always shows about 3-4 lbs. less pressure.
+
+</review_text>
+</review>
+<review>
+<unique_id>
+B000IDYKNC:paranoid_androids:j._vainner
+</unique_id>
+<asin>
+B000IDYKNC
+</asin>
+<product_name>
+ResQMe, The Keychain Version of the Original LifeHammer (Royal Blue): Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 18
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Paranoid Androids
+</title>
+<date>
+March 1, 2007
+</date>
+<reviewer>
+J. Vainner
+</reviewer>
+<reviewer_location>
+Bronxville, NY
+</reviewer_location>
+<review_text>
+This product preys on the paranoia created by sensationalist newscasts and talk shows.  TV convinces you there's a real chance you might find yourself underwater in your car, and now whoever manufactures this makes a killing.  I'll put it in a drawer with my SARS facemask, my whole life insurance policy, and that replacement plan Best Buy just tried to sell me on a twenty-dollar pair of headphones.  I'm sure this thing works as advertised, and I'm just as sure you'll never need to find out.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CIADL6:product_deficient,_poor_quality_and_no_warranty:l._brooks
+</unique_id>
+<asin>
+B000CIADL6
+</asin>
+<product_name>
+Sunforce 81090 Solar Shed Light: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Product deficient, poor quality and no warranty
+</title>
+<date>
+March 7, 2007
+</date>
+<reviewer>
+L. Brooks
+</reviewer>
+<reviewer_location>
+Panhandle Florida
+</reviewer_location>
+<review_text>
+Having read reviews that the fluorescent bulb was dim, I was careful to purchase the LED model.  However, it is also dim.  Barely produces enough light to keep me from tripping in my shed, not enough to distinguish tools and definitely not a work light.  Very disappointing.  After several days of charging I turned it on and only 4 of the 5 LEDs lit.  I did not purchase from Amazon.  Went in round and round discussions with retailer and manufacturer about warranty replacement.  Retailer would only replace if whole unit returned within 30 days, but after all the trouble to mount solar panel on roof I didn't want to take that down.  Turns out there is no warranty.  Product guide says to consult retailer for warranty service, retailer says they don't do it.  Finally got a replacement but was not refunded shipping and insurance.  If you do purchase this product, my advice is to charge it up before mounting anything to test it
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CIADL6:needs_better_quality_control:rob_d
+</unique_id>
+<asin>
+B000CIADL6
+</asin>
+<product_name>
+Sunforce 81090 Solar Shed Light: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+needs better quality control
+</title>
+<date>
+February 20, 2007
+</date>
+<reviewer>
+Rob D
+</reviewer>
+<reviewer_location>
+Fresh Meadows NY
+</reviewer_location>
+<review_text>
+after carefully mounting the solar panel outside my shed, in plain view of the sun, the shed light worked twice and has never lit up again. After the effort I put in carefully mounting the unit I'm very disappointed and don't feel like rolling the dice and seeing if the replacement will work.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CIADL6:don't_bother...:a._keeney
+</unique_id>
+<asin>
+B000CIADL6
+</asin>
+<product_name>
+Sunforce 81090 Solar Shed Light: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+9 of 9
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't bother...
+</title>
+<date>
+November 9, 2006
+</date>
+<reviewer>
+A. Keeney
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Forget using this in a shed as the light is hardly bright enough to see your hand in front of your face.  
+
+It doesn't hold a charge for longer than a few hours (the unit I received stayed on for about one hour and the box stated three hours).  This information was no where to be found on the website.
+
+I purchased this item to use in my chicken coop and had anticipated that I would be able to leave it turned on at all times.  My plan was that it would recharge during the day and stay illuminated during the night.  Not possible with this unit as it can't charge the battery at all if it's left turned on.  In addition the unit I received had been previously used and returned by someone else (obvious from the packaging that it had been used before)... so I'm not the only one who thought this was worthless.
+
+Save your money and try a different product
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CIADL6:should_have_kept_looking:harks
+</unique_id>
+<asin>
+B000CIADL6
+</asin>
+<product_name>
+Sunforce 81090 Solar Shed Light: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+13 of 13
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+should have kept looking
+</title>
+<date>
+August 17, 2006
+</date>
+<reviewer>
+Harks
+</reviewer>
+<reviewer_location>
+New Jersey
+</reviewer_location>
+<review_text>
+I was looking for something like this for months.  It was a new product on Amazon when I did a Froogle search.  Installed immediately the batteries charged right up and when I turned on the light I was disappointed.  My 8x10 shed was dimly lit, lots of shadows, certainly not enough to work by. Not much more light than what my lawn lights put out.  During the past two months I've used the light 4 or 5 times for a few minutes each time.  After being used no more than an hour over a two month period the bulb died.  I haven't even begun to look for a new one.  Very disappointe
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CIADL6:great_idea,_defective_product:igor_osatuke
+</unique_id>
+<asin>
+B000CIADL6
+</asin>
+<product_name>
+Sunforce 81090 Solar Shed Light: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+19 of 19
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Great idea, defective product
+</title>
+<date>
+July 11, 2006
+</date>
+<reviewer>
+Igor Osatuke
+</reviewer>
+<reviewer_location>
+Oxford, Ohio USA
+</reviewer_location>
+<review_text>
+When the factory-charged batteries ran out the solar panel would not charge the light.  This was a fluorescent version.  The replacement unit- quickly sent by Amazon -was LED.  The same case and everything but with bright LEDs inside.  I liked it much better than the fluorescent one.    
+The second unit charged and worked very well until the charge was depleted.  Then the LEDs would start blinking.  Like an emergency light.  Sunforce said that this was not normal behavior.  I returned it as well.  The light will stay up for around two hours, charge quickly but the blinking made it unfit for continuous use.  A nice product but quallity needs to be improved
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E3AP5I:rips_so_easily!!:shaya_malekoshoarai_"s&#60;3"
+</unique_id>
+<asin>
+B000E3AP5I
+</asin>
+<product_name>
+Amy Brown Moonsprite Bucket Seatcover: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Rips so easily!!
+</title>
+<date>
+March 23, 2007
+</date>
+<reviewer>
+Shaya Malekoshoarai "S&#60;3"
+</reviewer>
+<reviewer_location>
+CA, USA
+</reviewer_location>
+<review_text>
+Well i bought two of these... i put it in my car in less then a week both of them ripped in the middle area... i expected it to last a little longer??-_- i guess ill try sewing it back together or somethin
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E3AP5I:re:_to_poor_quality:h._miller
+</unique_id>
+<asin>
+B000E3AP5I
+</asin>
+<product_name>
+Amy Brown Moonsprite Bucket Seatcover: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+re: to poor quality
+</title>
+<date>
+February 18, 2007
+</date>
+<reviewer>
+H. Miller
+</reviewer>
+<reviewer_location>
+Grantsville, UT USA
+</reviewer_location>
+<review_text>
+I received these seat covers as a birthday gift and one of them did rip at the seam (also shortly after they were installed). I came on here to order another and after reading that someone else had the same problem I know not to waste my money. They are very unique and I do like the looks of them but only wish they were better quality
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CP10D4:why_on_earth_would_i_buy_this...:eric_s._leyva
+</unique_id>
+<asin>
+B000CP10D4
+</asin>
+<product_name>
+Tinker Bell "Perfect Little Flirt" Enamel Key Chain: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+0 of 13
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Why on earth would I buy this...
+</title>
+<date>
+December 9, 2005
+</date>
+<reviewer>
+Eric S. Leyva
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+...if I can see what I'm buying?
+
+Please, add a picture
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002AT3AQ:don't_be_fooled!!!:g._sanford_"ges"
+</unique_id>
+<asin>
+B0002AT3AQ
+</asin>
+<product_name>
+Midwest Homes For Pets 12 Vehicle Pet Barrier, Tubular Barrier Extension: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't be fooled!!!
+</title>
+<date>
+February 22, 2007
+</date>
+<reviewer>
+G. Sanford "GES"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+This is a single extension.  The product description is completely misleading
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009P5GPU:nothing_like_on_tv...:a._lane_"a._lane"
+</unique_id>
+<asin>
+B0009P5GPU
+</asin>
+<product_name>
+Mothers Power Ball and PowerBall Metal Polish plus one 16x16 Microfiber Towel Combo Pack: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Nothing like on TV...
+</title>
+<date>
+March 8, 2007
+</date>
+<reviewer>
+A. Lane "A. Lane"
+</reviewer>
+<reviewer_location>
+Western Massachusetts
+</reviewer_location>
+<review_text>
+Very dissapointing.  The inexpensive foam of the ball just disintigrates in certain rims
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E7YPAK:not_worth_32.00:robert_n._lako
+</unique_id>
+<asin>
+B000E7YPAK
+</asin>
+<product_name>
+Highland 9211000 Ratchet Tie Down and Bungee Cord Assortment - 35 Piece Set: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+NOT WORTH 32.00
+</title>
+<date>
+February 10, 2007
+</date>
+<reviewer>
+Robert N. Lako
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+THE TIE DOWN STRAPS ARE FOR MY HARLEY,YOU GET 2 5 INCH RUBBER CORDS,AND 4 FLEXIBLE 1 FT CORDS AND 25 PLASTIC 5 INCH HOSE CLAMPS........WHAT DO YOU USE THEM FOR,I CAN GET 1000 OF THEM FOR 5 BUCKS AT BARGAIN CORNER,IM SENDIN MY PACKAGE BACK,NOT WORTH THE MONEY........YOU MIGHT USE THE PLASTIC CASE FOR FISHIN ,THATS ALL
+                                                       R.LAKO PITTSBURGH PA
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002JM69W:not_what_i_thought_it_would_be...:g._pettit
+</unique_id>
+<asin>
+B0002JM69W
+</asin>
+<product_name>
+Allison Arctic Cool King Size Seat Cushion: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not what I thought it would be...
+</title>
+<date>
+January 18, 2007
+</date>
+<reviewer>
+G. Pettit
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+We were expecting MORE of a cushion-feel to this seat, but all its really made of is a mesh fabric with little wires inside it to keep air flow moving.  It would be okay to keep your butt cool maybe, but for a cushion, its flat and cheap feeling.  As for "king size" it barely covers our car's seat...we ended up returning them...not worth it..
+</review_text>
+</review>
+<review>
+<unique_id>
+B00004X13X:leaky_drain_pan:m._mccullough_"mdmccullough2"
+</unique_id>
+<asin>
+B00004X13X
+</asin>
+<product_name>
+Blitz 11837 10 Quart Oil Drain: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Leaky drain pan
+</title>
+<date>
+July 14, 2006
+</date>
+<reviewer>
+M. Mccullough "mdmccullough2"
+</reviewer>
+<reviewer_location>
+Midwest
+</reviewer_location>
+<review_text>
+I'd give this a zero if allowed. Easily leaks from both twist caps. Any money I saved by changing my oil was spent on degreaser and paper towels cleaning my garage floor
+</review_text>
+</review>
+<review>
+<unique_id>
+B00004X13X:half_my_oil_on_the_garage_floor:p._gornick
+</unique_id>
+<asin>
+B00004X13X
+</asin>
+<product_name>
+Blitz 11837 10 Quart Oil Drain: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Half My Oil on the Garage Floor
+</title>
+<date>
+December 28, 2005
+</date>
+<reviewer>
+P. Gornick
+</reviewer>
+<reviewer_location>
+Portland OR
+</reviewer_location>
+<review_text>
+This product works great for draining your car's crankcase oil. It has a screen to catch the drain plug. HOWEVER, the large diameter plastic lid that seals the unit after draining is a PIECE OF CRAP. You are supposed to tighten it down, then open the small plug to drain the oil into another container for disposal. The large lid has a single thread that if you turn a half-inch too far makes no seal at all. It falls off when you tip the unit to drain, emptying two to three quarts of used oil on to your garage floor. This is a product that needs a bit more engineering to work well
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUPEJG:fraud:harvey_henkelman
+</unique_id>
+<asin>
+B000GUPEJG
+</asin>
+<product_name>
+AUTO COOL Solar Powered Ventilation System: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Fraud
+</title>
+<date>
+March 13, 2007
+</date>
+<reviewer>
+Harvey Henkelman
+</reviewer>
+<reviewer_location>
+Brandon, FL USA
+</reviewer_location>
+<review_text>
+Whoever is marketing this should be whipped with razor wire. Do not buy, unless you enjoy wasting your money
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUPEJG:absolutely_worthless_auto_cool_system:timothy_j._curtiss
+</unique_id>
+<asin>
+B000GUPEJG
+</asin>
+<product_name>
+AUTO COOL Solar Powered Ventilation System: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+5 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Absolutely worthless AUTO COOL System
+</title>
+<date>
+November 9, 2006
+</date>
+<reviewer>
+Timothy J. Curtiss
+</reviewer>
+<reviewer_location>
+Little Elm, TX United States
+</reviewer_location>
+<review_text>
+This product is absolutely worthless, especially in the hot Texas summer.  The pitifully weak fan does not cool the car one bit.  It is still blazing hot when you get inside.  Don't waste your money on this over-hyped piece of garbage.  Better to leave your windows down or park under a tree
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUPEJG:waste_of_money:c._johnson_"avid_shopper"
+</unique_id>
+<asin>
+B000GUPEJG
+</asin>
+<product_name>
+AUTO COOL Solar Powered Ventilation System: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+5 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Waste of Money
+</title>
+<date>
+November 5, 2006
+</date>
+<reviewer>
+C. Johnson "Avid Shopper"
+</reviewer>
+<reviewer_location>
+Maryland United States
+</reviewer_location>
+<review_text>
+This product is not worth the money.  It does not keep the car cool and was a waste of my money.  Beware of products that only make money for the inventor
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUPEJG:auto_cool_solar_powered_ventilation_system??:carolina_girl_"imbak"
+</unique_id>
+<asin>
+B000GUPEJG
+</asin>
+<product_name>
+AUTO COOL Solar Powered Ventilation System: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Auto Cool Solar Powered Ventilation System??
+</title>
+<date>
+October 28, 2006
+</date>
+<reviewer>
+Carolina Girl "imbak"
+</reviewer>
+<reviewer_location>
+Raleigh NC
+</reviewer_location>
+<review_text>
+Too hard to follow the instructions . I bought it for my mom who said she could not tell the difference. I am not sure she followed the instructions.I am just assuming  (she is an English Professor )it didnt work too well.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUPEJG:auto_vent_system:the_old_soldier_"colonel"
+</unique_id>
+<asin>
+B000GUPEJG
+</asin>
+<product_name>
+AUTO COOL Solar Powered Ventilation System: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+15 of 15
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Auto Vent system
+</title>
+<date>
+August 16, 2006
+</date>
+<reviewer>
+The Old Soldier "Colonel"
+</reviewer>
+<reviewer_location>
+Florence AL USA
+</reviewer_location>
+<review_text>
+Must be in the window with direct sun. Cheaply made, very low air pull.
+Best advertising campaign since salad shooter and chia pet. It will not perform to the expectations that the TV ad promises.
+Glad that I did not buy more than one of them
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GUPEJG:they_should_call_it_auto_hot!:lena_l._west
+</unique_id>
+<asin>
+B000GUPEJG
+</asin>
+<product_name>
+AUTO COOL Solar Powered Ventilation System: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+34 of 35
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+They should call it Auto HOT!
+</title>
+<date>
+August 6, 2006
+</date>
+<reviewer>
+Lena L. West
+</reviewer>
+<reviewer_location>
+New York, NY
+</reviewer_location>
+<review_text>
+I suggest that you do a search on this product on infomercial scams dot com.
+
+Take a look at this review from Channel 2 (KDKA) in Pittsburgh, PA:
+
+You've probably seen the ad on TV for auto cool - it's supposed to keep your parked car cooler.
+
+But does it really do that? 
+
+Wouldn't it be great if there was a way to keep your parked car cool?
+
+Diane Black knows all too well the misery of climbing into a hot car. 
+
+"I am a visiting nurse. I'm in and out of the car all day," Black said. "I hate using the air conditioning because it uses up all my gas. So I thought this little gadget for $14.99 would be the perfect thing."
+
+After shipping and handling, $23 for Auto Cool as seen on TV. 
+
+The same sun that makes your car unbearably hot will keep it cool and comfortable thanks to a solar powered fan that blows the hot air out of your parked car. 
+
+But does it really do that?
+
+On a hot day last week, we decided to find out. Inside the Auto Cool box, we get our solar powered fan and some weather stripping.
+
+The only thing you need is a pair of scissors.
+
+Now they tell you to check either the front or back window - whichever is getting the most sun.
+
+We choose the back window and we're going to put the window down four or five inches.
+
+The solar powered fan starts working the second the sun's rays hit it. No problem there. We hang it on the window, fan side in.
+
+Next comes the weather stripping.
+
+So we've installed Auto Cool. Now we are going to go inside, wait about an hour and check it and see if it's any less than 110 degrees.
+
+While we are away, the thermometer slowly moves - in the wrong direction.
+
+One hour later, it's 118 degrees inside that car.
+
+We are stunned that auto cool didn't work at all. It just got hotter inside. 
+
+But just to be fair, we test one more car.
+
+We make sure to start off the car is relatively cool. This time, it's 80 degrees.
+
+We quickly install auto cool. By now, the temperature is 90 degrees. 
+
+While Diane is off doing hers, a patient visits. She says it will take about 20 minutes. 
+
+In the meantime, that solar powered fan is working we can even feel the hot air blowing out of the car.
+
+Will it work this time? 
+
+Twenty minutes later - it's 110 degrees.
+
+Maybe if we hadn't used Auto Cool, our car would have been 111 degrees instead of 110, but that high up, we don't care. 
+
+Not only does it not do that, this is the worst product we've tested so far.
+
+Don't waste your money on this one. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002HLY9M:no_go:noname_"no"
+</unique_id>
+<asin>
+B0002HLY9M
+</asin>
+<product_name>
+Bulldog Security 2010 Do It Yourself Security Alarm w/Mini-Siren: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+no go
+</title>
+<date>
+January 11, 2007
+</date>
+<reviewer>
+noname "no"
+</reviewer>
+<reviewer_location>
+usa, america
+</reviewer_location>
+<review_text>
+very excited to get an alarm at a good deal with free shipping but that all changed when i tried installing two beeps and then nothing i have spent over an hour of tring to get this to work and i tried new fuses but "no go" to sum it up the two orginal beeps is all i got from this product besides stress. NO GO
+</review_text>
+</review>
+<review>
+<unique_id>
+B000ESLD9U:power_ball:e._olm
+</unique_id>
+<asin>
+B000ESLD9U
+</asin>
+<product_name>
+Mothers Mini Power Ball and PowerBall Metal Polish plus one 16x16 Microfiber Towel Combo Pack: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+power ball
+</title>
+<date>
+November 4, 2006
+</date>
+<reviewer>
+E. Olm
+</reviewer>
+<reviewer_location>
+Hatfield, PA
+</reviewer_location>
+<review_text>
+This product works well if you want to strip paint.  Do not use this product if you have any paint on your wheels that you want to keep ther
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002JMEEE:no_good_in_the_winter.:manwithnoname
+</unique_id>
+<asin>
+B0002JMEEE
+</asin>
+<product_name>
+Fix-A-Flat Tire Inflator with Hose 16 oz.: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+No good in the winter.
+</title>
+<date>
+February 1, 2007
+</date>
+<reviewer>
+manwithnoname
+</reviewer>
+<reviewer_location>
+Stoneham, MA United States
+</reviewer_location>
+<review_text>
+If you, like myself, live in world where there is "weather", then you'll understand why I hate this product.  You see, there are times when the temperature of my car, and everything in it, becomes amazingly cold.  We call it "winter".  You've never heard of it, you say? Well, apparently neither have the people who dreamed up this stuff.  I've had a can of this in my car for over a year now.  Went out to my car one FREEZING morning (it gets like that during the "winter" I mentioned before), and saw I had a flat!  "No problem" thinks I, "I do believe I have been carrying a solution to this very problem right here in the trunk!".  Open the trunk, pull out the "Fix a Flat" (HA!) only to find it FROZEN SOLID.  Now, what use does something like this have, whereby you keep it in your car for an emergency only to have it completely useless when you need it most!?  Cost me time + $ to put on my spare, haul it to a shop, and have my tire repaired.  This stuff was a waste of money. If you live somewhere where there's actual WEATHER, don't kid yourself with this nonsense
+</review_text>
+</review>
+<review>
+<unique_id>
+B000K3KVYM:dont_waste_your_$$$:ari_m._"ari"
+</unique_id>
+<asin>
+B000K3KVYM
+</asin>
+<product_name>
+In-Mirror Digital Compass: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+6 of 6
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Dont waste your $$$
+</title>
+<date>
+December 14, 2006
+</date>
+<reviewer>
+Ari M. "Ari"
+</reviewer>
+<reviewer_location>
+Colorado
+</reviewer_location>
+<review_text>
+It was cheap so I figured what they hey, bad idea. It only worked when it wanted to, showed the wrong direction most of the time, and being cheaply made, fell apart
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:appreciate_your_honesty:doglover
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+2 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+appreciate your honesty
+</title>
+<date>
+March 31, 2007
+</date>
+<reviewer>
+doglover
+</reviewer>
+<reviewer_location>
+media, pa
+</reviewer_location>
+<review_text>
+I thank goodness did not buy this product, but was very tempted.  I want to thank all the honest people for their reviews.. It saved me money and time.  Thank you
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:fraud:harvey_henkelman
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+1 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Fraud
+</title>
+<date>
+March 13, 2007
+</date>
+<reviewer>
+Harvey Henkelman
+</reviewer>
+<reviewer_location>
+Brandon, FL USA
+</reviewer_location>
+<review_text>
+Whoever is marketing this should be whipped with razor wire. Do not buy, unless you enjoy wasting your money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:solar_rip_off:john_eagen_"woodworker"
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+solar rip off
+</title>
+<date>
+August 10, 2006
+</date>
+<reviewer>
+John Eagen "Woodworker"
+</reviewer>
+<reviewer_location>
+Hamburg, NY
+</reviewer_location>
+<review_text>
+this product does work, BUT it has to face the sun, so if you put it in the window that faces east it will work in the morning, not in the afternoon, it needs to be put in a window that faces southwest to work the way they claim in the TV ad.
+Also they are hard to place with powered windows
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:didn't_work_at_all:scott_k._miller_"midwest_fire_guy"
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+35 of 36
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Didn't Work AT ALL
+</title>
+<date>
+July 20, 2006
+</date>
+<reviewer>
+Scott K. Miller "midwest fire guy"
+</reviewer>
+<reviewer_location>
+Pekin, IN  USA
+</reviewer_location>
+<review_text>
+This device is nothing but a high priced gimmick that looks good in advertising, but does ABSOLUTELY NOTHING IT SAYS IT DOES.  The unit is hard to install, for beginners. It is too much to mess with every time you get out of your car in hot weather. If there is low sunlight, or you have the least amount of tinting on your windows, even factory shading, IT DOES NOT WORK. You must point it directly to the sun in order for it to activate the venting fan in it, and how many times is your car tipped and pointed so the unit will look directly at the sun??
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:television_ads_overstate_effectiveness.:gullible_consumer
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+50 of 54
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Television ads overstate effectiveness.
+</title>
+<date>
+June 23, 2006
+</date>
+<reviewer>
+Gullible Consumer
+</reviewer>
+<reviewer_location>
+NJ, USA
+</reviewer_location>
+<review_text>
+This product does not cool down the car.  It is too small.  I would not use this on an expensive car because the weatherstrips that you need to install the product can be easily cut with a razor blade allowing for easy access to your car locks.  If you buy this, PLEASE DO NOT LEAVE YOUR PETS OR KIDS IN THE CAR and think that it is safe
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:does_not_work_if_you_have_tinted_glass!:richard_m._taylor_"wyatt"
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+48 of 50
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Does not work if you have tinted glass!
+</title>
+<date>
+June 21, 2006
+</date>
+<reviewer>
+Richard M. Taylor "Wyatt"
+</reviewer>
+<reviewer_location>
+Las Vegas Nevada
+</reviewer_location>
+<review_text>
+If you have tinted windows this product does not work
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:waste_of_time_and_money_:fahad_alrshid
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+50 of 52
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+waste of time and money 
+</title>
+<date>
+April 13, 2006
+</date>
+<reviewer>
+FAHAD ALRSHID
+</reviewer>
+<reviewer_location>
+Kuwait, South Suurah
+</reviewer_location>
+<review_text>
+it does not work and when it arrive i found it broken !! made from cheap materials ,and i can rate it with a half sta
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:waste_of_money:nirma_"nirma"
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+47 of 49
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Waste of money
+</title>
+<date>
+March 9, 2006
+</date>
+<reviewer>
+nirma "nirma"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+It does not work unless sunrays fall directly on it. I wouldn't suggest this product
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007LXTN2:returned_it:robert_l._campbell
+</unique_id>
+<asin>
+B0007LXTN2
+</asin>
+<product_name>
+Trillium Worldwide TWI-7001 AutoVent Solar-Powered Ventilator: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+74 of 75
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Returned it
+</title>
+<date>
+December 29, 2005
+</date>
+<reviewer>
+Robert L. Campbell
+</reviewer>
+<reviewer_location>
+Alabama
+</reviewer_location>
+<review_text>
+This thing does not install in seconds as suggested,it comes with goofy plastic pieces that you're supposed to put in the window with it. Who want's to fool with that everytime? It also says to not use with tinted windows, something that could have been mentioned here
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009IK8AU:installation_not_as_diy_as_it_should_be:r._johnson
+</unique_id>
+<asin>
+B0009IK8AU
+</asin>
+<product_name>
+Bosch 40919 19-Inch Excel Micro Edge Wiper Blade: Automotive
+</product_name>
+<product_type>
+automotive
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Installation not as DIY as it should be
+</title>
+<date>
+March 26, 2007
+</date>
+<reviewer>
+R. Johnson
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Installation of these blades is not straightforward--three adapter pieces and a pin are included, which might work well enough, but the instructions provided with the product could not be more of a joke. I'll be returning to the store and asking one of their employees (at Kragen) to install all three blades (they're nice enough there, if you're willing to wait). In the future, I won't be buying this product when I need new blades. I don't mind a bit of complication in installing stuff like this, but the instructions should be adequate to the task, and they're really not
+</review_text>
+</review>
