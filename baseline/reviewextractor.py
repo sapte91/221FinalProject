@@ -136,6 +136,8 @@ class ReviewExtractor:
                 classifiedData.append('positive')
             else:
                 classifiedData.append('negative')
+
+
       #  print classifiedData
         return classifiedData
 
@@ -157,6 +159,8 @@ def main(argv):
 
     posScore = 0.0
     negScore = 0.0
+    numPosReviews =0
+    numNegReviews = 0
     reviewExtractor = ReviewExtractor()
 
     totalPosClass = []
@@ -164,6 +168,7 @@ def main(argv):
         posData = reviewExtractor.readData(posFile)
         posClass = reviewExtractor.classifyData(posData)
         totalPosClass.append(posClass)
+        numPosReviews += len(posClass)
 
     posScore = reviewExtractor.scoreClassification(totalPosClass, 'positive')
     print "POSITIVE SCORE: ", posScore
@@ -173,10 +178,19 @@ def main(argv):
         negData = reviewExtractor.readData(negFile)
         negClass = reviewExtractor.classifyData(negData)
         totalNegClass.append(negClass)
+        numNegReviews += len(negClass)
 
     negScore = reviewExtractor.scoreClassification(totalNegClass, 'negative')
     print "NEGATIVE SCORE: ", negScore
-
+    print "\n"
+    print "NUMERICAL DATA"
+    print "--------------"
+    numReviews = numPosReviews + numNegReviews
+    print "NUMBER OF POS REVIEWS: ", numPosReviews
+    print "NUMBER OF NEG REVIEWS: ", numNegReviews
+    print "TOTAL NUMBER OF REVEIWS: ", numReviews
+    print "NUM POS WORDS: ", len(posWordSet)
+    print "NUM NEG WORDS: ", len(negWordSet)
 
     # add the features
  #   trainDataWithFeatures = reviewExtractor.setFeaturesTrain(trainData);
