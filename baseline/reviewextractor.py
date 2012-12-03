@@ -136,6 +136,8 @@ class ReviewExtractor:
                 classifiedData.append('positive')
             else:
                 classifiedData.append('negative')
+
+
       #  print classifiedData
         return classifiedData
 
