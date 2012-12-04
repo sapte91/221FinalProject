@@ -1,14 +1,5 @@
-#<product_type>, <helpful>, <rating>, <title>, <review_text>
-
-#search for things btw <review> </review>
-
-#extract above features
-
-#array of reviews: # pos, # neg
-
 import sys
 
-stopWordSet = set(line.split()[0].lower() for line in open("stop-words.txt").readlines())
 posWordSet = set(line.split()[0].lower() for line in open("pos-words.txt").readlines())
 negWordSet = set(line.split()[0].lower() for line in open("neg-words.txt").readlines())
 neutWordSet = set(line.split()[0].lower() for line in open("neut-words.txt").readlines())
@@ -16,90 +7,6 @@ negFilesSet = set(line.split()[0].lower() for line in open("negative-files-list.
 posFilesSet = set(line.split()[0].lower() for line in open("positive-files-list.txt").readlines())
 
 class ReviewExtractor:
-    """
-    Words is a list of the words in the sentence, previousLabel is the label
-    for position-1 (or O if it's the start of a new sentence), and position
-    is the word you are adding features for.
-    """
-
-    def computeFeatures(self, words, previousLabel, position):
-        features = []
-        currentWord = words[position]
-        lowerWord = currentWord.lower()
-        previousWord = words[position-1].lower()
-        # if all letters in word aren't either alpha or common name symbol
-        for letter in currentWord:
-            if letter.lower() not in alphabet and letter != "." and letter != "'" and letter != "-":
-                features.append("wordNotNameChar")
-                return features
-
-        # original features
-        features.append("word=" + currentWord);
-        features.append("prevLabel=" + previousLabel);
-        features.append("word=" + currentWord + ", prevLabel=" + previousLabel);
-
-        return features
-
-    def setFeaturesTrain(self, data):
-        newData = []
-        words = []
-
-        for datum in data:
-            words.append(datum.word)
-
-        ## This is so that the feature factory code doesn't
-        ## accidentally use the true label info
-        previousLabel = "O"
-        for i in range(0, len(data)):
-            datum = data[i]
-
-            newDatum = Datum(datum.word, datum.label)
-            newDatum.features = self.computeFeatures(words, previousLabel, i)
-            newDatum.previousLabel = previousLabel
-            newData.append(newDatum)
-
-            previousLabel = datum.label
-
-        return newData
-
-    """
-    Compute the features for all possible previous labels
-    """
-    def setFeaturesTest(self, data):
-        newData = []
-        words = []
-        labels = []
-        labelIndex = {}
-
-        for datum in data:
-            words.append(datum.word)
-            if not labelIndex.has_key(datum.label):
-                labelIndex[datum.label] = len(labels)
-                labels.append(datum.label)
-
-        ## This is so that the feature factory code doesn't
-        ## accidentally use the true label info
-        for i in range(0, len(data)):
-            datum = data[i]
-
-            if i == 0:
-                previousLabel = "O"
-                datum.features = self.computeFeatures(words, previousLabel, i)
-
-                newDatum = Datum(datum.word, datum.label)
-                newDatum.features = self.computeFeatures(words, previousLabel, i)
-                newDatum.previousLabel = previousLabel
-                newData.append(newDatum)
-            else:
-                for previousLabel in labels:
-                    datum.features = self.computeFeatures(words, previousLabel, i)
-
-                    newDatum = Datum(datum.word, datum.label)
-                    newDatum.features = self.computeFeatures(words, previousLabel, i)
-                    newDatum.previousLabel = previousLabel
-                    newData.append(newDatum)
-
-        return newData
 
     # read in review text, return list of lists: each index has list of # pos/neg words
     def readData(self, filename):
@@ -159,13 +66,15 @@ def main(argv):
 
     posScore = 0.0
     negScore = 0.0
-    numPosReviews =0
+    numPosReviews = 0
     numNegReviews = 0
     reviewExtractor = ReviewExtractor()
 
     totalPosClass = []
+    # loop thru positive reviews
     for posFile in posFilesSet:
         posData = reviewExtractor.readData(posFile)
+        # array of classifications for each text file
         posClass = reviewExtractor.classifyData(posData)
         totalPosClass.append(posClass)
         numPosReviews += len(posClass)
@@ -174,6 +83,7 @@ def main(argv):
     print "POSITIVE SCORE: ", posScore
 
     totalNegClass= []
+    # loop thru negative reviews
     for negFile in negFilesSet:
         negData = reviewExtractor.readData(negFile)
         negClass = reviewExtractor.classifyData(negData)
@@ -192,13 +102,7 @@ def main(argv):
     print "NUM POS WORDS: ", len(posWordSet)
     print "NUM NEG WORDS: ", len(negWordSet)
 
-    # add the features
- #   trainDataWithFeatures = reviewExtractor.setFeaturesTrain(trainData);
- #   testDataWithFeatures = reviewExtractor.setFeaturesTest(testData);
 
-    # write the updated data into JSON files
-   # reviewExtractor.writeData(trainDataWithFeatures, "trainWithFeatures");
-    #reviewExtractor.writeData(testDataWithFeatures, "testWithFeatures");
 
 if __name__ == '__main__':
     main(sys.argv[1:])
