@@ -29,21 +29,31 @@ class FeaturesCreator:
 		        	lastIndex += 1
 	   	# original features
 	   	return features
-	"""
-	def featureVector(self, featuresSet):
-		feature_value = []
+	
+	def createFeatureVector(self, review, featuresSet, type):
+		feature_value = {}
 		for item in featuresSet:
-			feature_value.append(item,0)
-		feature_value.append()
-		feature_value
-	"""
+			feature_value[item] = 0
+		if type == 0:
+			feature_value["type"] = 0
+		else:
+			feature_value["type"] = 1
+		wordList = review.split()[0].lower().strip('.,/\(\)!? ')
+		lastIndex = 0
+		for i in range(len(wordList)):
+			if i != 0:
+				if (wordList[lastIndex],wordList[i]) in featuresSet:
+					feature_value[(wordList[lastIndex],wordList[i])] = 1
+		    	lastIndex += 1
+
+		return feature_value
+	
 
 def main(argv):
 	dataSeparator = DataSeparator()
 
 	posReviews = dataSeparator.readData(posFilesSet)
 	negReviews = dataSeparator.readData(negFilesSet)
-	print
 
 	train_test_pos = dataSeparator.separateReviews(posReviews)
 	train_test_neg = dataSeparator.separateReviews(negReviews)
@@ -52,8 +62,12 @@ def main(argv):
 	allFeatures = set()
 	allFeatures = featuresCreator.computeFeatures(train_test_pos[0],allFeatures)
 	allFeatures = featuresCreator.computeFeatures(train_test_neg[0],allFeatures)
-	print allFeatures
-
+	
+	train_data = []
+	for review in train_test_pos[0]:
+		train_data.append(featuresCreator.createFeatureVector(review,allFeatures,1))
+	for review in train_test_neg[0]:
+		train_data.append(featuresCreator.createFeatureVector(review,allFeatures,0))
 
 
 if __name__ == '__main__':
