@@ -1,0 +1,578 @@
+<review>
+<unique_id>
+B0000224OG:don't_waste_your_money:tool_junkie
+</unique_id>
+<unique_id>
+177346
+</unique_id>
+<asin>
+B0000224OG
+</asin>
+<product_name>
+Goldblatt Trowel Trade Tools GB15264  Drywall Stripper: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't waste your money
+</title>
+<date>
+February 11, 2006
+</date>
+<reviewer>
+Tool Junkie
+</reviewer>
+<reviewer_location>
+Floral Park, NY
+</reviewer_location>
+<review_text>
+The others summed it up.  Cheap parts, difficult to adjust. Put your money towards the EZ Rip instead. Costs more but much better results
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000224OG:drywall_stripper:"mikerrcno0108"
+</unique_id>
+<unique_id>
+177347
+</unique_id>
+<asin>
+B0000224OG
+</asin>
+<product_name>
+Goldblatt Trowel Trade Tools GB15264  Drywall Stripper: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+19 of 19
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+drywall stripper
+</title>
+<date>
+January 3, 2001
+</date>
+<reviewer>
+"mikerrcno0108"
+</reviewer>
+<reviewer_location>
+Evansville, IN. USA
+</reviewer_location>
+<review_text>
+I bought this item with the idea of saving time it worked great until I dropped it, which was about three hours into the day, the cheaply made star wheels that score the paper bent over now as you can imagine it leaves a wavy line instead of a nice straight one, I am very disapointed with the quality of this product and would not buy another on
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000224OG:good_idea,_bad_execution:dennis_l._wright
+</unique_id>
+<unique_id>
+177348
+</unique_id>
+<asin>
+B0000224OG
+</asin>
+<product_name>
+Goldblatt Trowel Trade Tools GB15264  Drywall Stripper: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+28 of 28
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Good idea, bad execution
+</title>
+<date>
+July 22, 2000
+</date>
+<reviewer>
+Dennis L. Wright
+</reviewer>
+<reviewer_location>
+Haven, KS USA
+</reviewer_location>
+<review_text>
+I was really looking forward to getting this tool and saving some time.  It sorely disappointed me.  It was very hard to adjust to the right depth of cut, and instead of using a razor to cut the paper, it uses a pair of  very cheap star wheels to perforate. Even when finally set to the right  depth of cut, the wheels wobbled all over the place, leaving a wavy cut.   It seems like a good idea, but I guess I'll have to make my own to get it  to work right
+</review_text>
+</review>
+<review>
+<unique_id>
+B00079YN4I:are_you_sure_it_is_what_you_want?:jon_morrill
+</unique_id>
+<unique_id>
+198819
+</unique_id>
+<asin>
+B00079YN4I
+</asin>
+<product_name>
+DeWalt DW303 Heavy-Duty 6.5 Amp Reciprocating Saw: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Are you sure it is what you want?
+</title>
+<date>
+March 13, 2006
+</date>
+<reviewer>
+Jon Morrill
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The saw does not come with a case and you have to use a allen wrench to change the blades.  For a little more money you could get a saw with a case and quick release to change the blades
+</review_text>
+</review>
+<review>
+<unique_id>
+B00005V7KX:didn't_last_too_long_:(:a._isaicu
+</unique_id>
+<unique_id>
+243767
+</unique_id>
+<asin>
+B00005V7KX
+</asin>
+<product_name>
+Toro 51598 Ultra Electric Blower/Vac: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Didn't last too long :(
+</title>
+<date>
+November 10, 2006
+</date>
+<reviewer>
+A. Isaicu
+</reviewer>
+<reviewer_location>
+Centreville, VA
+</reviewer_location>
+<review_text>
+I used it about 10 times in 2 years and it did the job well. Used it as blower and mulcher and was pretty happy with the results. Unfortunately now it smells like burnt everytime i use it. I opened it up the other day and it looks the like motor collectors are giving up. Not an expesive tool but it should have lasted more than 2 years of light use
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002ST948:so_far_so_useless:z._zhou_"e&e_maven"
+</unique_id>
+<unique_id>
+296060
+</unique_id>
+<asin>
+B0002ST948
+</asin>
+<product_name>
+Toro Power Shovel Plus 7.5 Amp Electric Broom/Snow Thrower #38360: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+5 of 38
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+so far so useless
+</title>
+<date>
+November 1, 2006
+</date>
+<reviewer>
+Z. Zhou "E&E maven"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Didn't snow yet so I don't know hw it would work for snow shovelling but for sweeping dirts from my deck and driveway, it's totaly useless. Now I have to buy a traditional broom to do that job.
+Generally speaking, this is a bulky, hard to install hard to maneuver tool that do much less job than expected. 
+Highly not recommended
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002ST948:great_exercise_machine:ga
+</unique_id>
+<unique_id>
+296067
+</unique_id>
+<asin>
+B0002ST948
+</asin>
+<product_name>
+Toro Power Shovel Plus 7.5 Amp Electric Broom/Snow Thrower #38360: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+23 of 30
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Great exercise machine
+</title>
+<date>
+January 19, 2006
+</date>
+<reviewer>
+GA
+</reviewer>
+<reviewer_location>
+Massachusetts, USA
+</reviewer_location>
+<review_text>
+I'm not mistaking the product I'm reviewing here.  Use this shovel 20 minutes every day and you'll beat Bowflex.  It's much worse than my trusty $8 plastic shovel.  Incredibly awkward design -- you'd think the handle should be tilted back while you push the shovel forward (almost effortlessly I hoped).  WRONG.  The handle needs to stay vertical so that the moving parts -- below the cover -- can get in touch with the snow and shovel it.  You can't push when the handle is vertical, instead there is a side handle provided which you're supposed to use to actually PULL the shovel forward.  That is, you're standing BEHIND the shovel (because it throws forward), holding the vertical handle with one hand, and pulling the other handle forward and away from you!!!.  Extremely awkward.  In addition to really working your upper body, you'll feel pain in your wrist, neck, and shoulder joints, not to mention the lower back.  The snow throwing action itself is very clumsy and erratic.  A little wind will blow the fine snow powder in your face.  To add to the mess, this thing throws forward, not to the sides, and I'll leave it up to you to imagine the implications of that
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000224OG:don't_waste_your_money:tool_junkie
+</unique_id>
+<unique_id>
+415315
+</unique_id>
+<asin>
+B0000224OG
+</asin>
+<product_name>
+Goldblatt Trowel Trade Tools GB15264  Drywall Stripper: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't waste your money
+</title>
+<date>
+February 11, 2006
+</date>
+<reviewer>
+Tool Junkie
+</reviewer>
+<reviewer_location>
+Floral Park, NY
+</reviewer_location>
+<review_text>
+The others summed it up.  Cheap parts, difficult to adjust. Put your money towards the EZ Rip instead. Costs more but much better results
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000224OG:drywall_stripper:"mikerrcno0108"
+</unique_id>
+<unique_id>
+415316
+</unique_id>
+<asin>
+B0000224OG
+</asin>
+<product_name>
+Goldblatt Trowel Trade Tools GB15264  Drywall Stripper: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+19 of 19
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+drywall stripper
+</title>
+<date>
+January 3, 2001
+</date>
+<reviewer>
+"mikerrcno0108"
+</reviewer>
+<reviewer_location>
+Evansville, IN. USA
+</reviewer_location>
+<review_text>
+I bought this item with the idea of saving time it worked great until I dropped it, which was about three hours into the day, the cheaply made star wheels that score the paper bent over now as you can imagine it leaves a wavy line instead of a nice straight one, I am very disapointed with the quality of this product and would not buy another on
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000224OG:good_idea,_bad_execution:dennis_l._wright
+</unique_id>
+<unique_id>
+415317
+</unique_id>
+<asin>
+B0000224OG
+</asin>
+<product_name>
+Goldblatt Trowel Trade Tools GB15264  Drywall Stripper: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+28 of 28
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Good idea, bad execution
+</title>
+<date>
+July 22, 2000
+</date>
+<reviewer>
+Dennis L. Wright
+</reviewer>
+<reviewer_location>
+Haven, KS USA
+</reviewer_location>
+<review_text>
+I was really looking forward to getting this tool and saving some time.  It sorely disappointed me.  It was very hard to adjust to the right depth of cut, and instead of using a razor to cut the paper, it uses a pair of  very cheap star wheels to perforate. Even when finally set to the right  depth of cut, the wheels wobbled all over the place, leaving a wavy cut.   It seems like a good idea, but I guess I'll have to make my own to get it  to work right
+</review_text>
+</review>
+<review>
+<unique_id>
+B00079YN4I:are_you_sure_it_is_what_you_want?:jon_morrill
+</unique_id>
+<unique_id>
+447868
+</unique_id>
+<asin>
+B00079YN4I
+</asin>
+<product_name>
+DeWalt DW303 Heavy-Duty 6.5 Amp Reciprocating Saw: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Are you sure it is what you want?
+</title>
+<date>
+March 13, 2006
+</date>
+<reviewer>
+Jon Morrill
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The saw does not come with a case and you have to use a allen wrench to change the blades.  For a little more money you could get a saw with a case and quick release to change the blades
+</review_text>
+</review>
+<review>
+<unique_id>
+B00005V7KX:didn't_last_too_long_:(:a._isaicu
+</unique_id>
+<unique_id>
+516029
+</unique_id>
+<asin>
+B00005V7KX
+</asin>
+<product_name>
+Toro 51598 Ultra Electric Blower/Vac: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Didn't last too long :(
+</title>
+<date>
+November 10, 2006
+</date>
+<reviewer>
+A. Isaicu
+</reviewer>
+<reviewer_location>
+Centreville, VA
+</reviewer_location>
+<review_text>
+I used it about 10 times in 2 years and it did the job well. Used it as blower and mulcher and was pretty happy with the results. Unfortunately now it smells like burnt everytime i use it. I opened it up the other day and it looks the like motor collectors are giving up. Not an expesive tool but it should have lasted more than 2 years of light use
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002ST948:so_far_so_useless:z._zhou_"e&e_maven"
+</unique_id>
+<unique_id>
+595316
+</unique_id>
+<asin>
+B0002ST948
+</asin>
+<product_name>
+Toro Power Shovel 7.5 Amp Snow Thrower/Electric Broom #38360: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+6 of 51
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+so far so useless
+</title>
+<date>
+November 1, 2006
+</date>
+<reviewer>
+Z. Zhou "E&E maven"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Didn't snow yet so I don't know hw it would work for snow shovelling but for sweeping dirts from my deck and driveway, it's totaly useless. Now I have to buy a traditional broom to do that job.
+Generally speaking, this is a bulky, hard to install hard to maneuver tool that do much less job than expected. 
+Highly not recommended
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002ST948:great_exercise_machine:ga
+</unique_id>
+<unique_id>
+595323
+</unique_id>
+<asin>
+B0002ST948
+</asin>
+<product_name>
+Toro Power Shovel 7.5 Amp Snow Thrower/Electric Broom #38360: Tools & Hardware
+</product_name>
+<product_type>
+tools & hardware
+</product_type>
+<product_type>
+tools & hardware
+</product_type>
+<helpful>
+26 of 33
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Great exercise machine
+</title>
+<date>
+January 19, 2006
+</date>
+<reviewer>
+GA
+</reviewer>
+<reviewer_location>
+Massachusetts, USA
+</reviewer_location>
+<review_text>
+I'm not mistaking the product I'm reviewing here.  Use this shovel 20 minutes every day and you'll beat Bowflex.  It's much worse than my trusty $8 plastic shovel.  Incredibly awkward design -- you'd think the handle should be tilted back while you push the shovel forward (almost effortlessly I hoped).  WRONG.  The handle needs to stay vertical so that the moving parts -- below the cover -- can get in touch with the snow and shovel it.  You can't push when the handle is vertical, instead there is a side handle provided which you're supposed to use to actually PULL the shovel forward.  That is, you're standing BEHIND the shovel (because it throws forward), holding the vertical handle with one hand, and pulling the other handle forward and away from you!!!.  Extremely awkward.  In addition to really working your upper body, you'll feel pain in your wrist, neck, and shoulder joints, not to mention the lower back.  The snow throwing action itself is very clumsy and erratic.  A little wind will blow the fine snow powder in your face.  To add to the mess, this thing throws forward, not to the sides, and I'll leave it up to you to imagine the implications of that
+</review_text>
+</review>

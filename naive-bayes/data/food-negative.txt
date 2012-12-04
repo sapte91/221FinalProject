@@ -1,0 +1,7631 @@
+<review>
+<unique_id>
+B0000D9MZM:horrible_service:ian_hamilton
+</unique_id>
+<unique_id>
+40773
+</unique_id>
+<asin>
+B0000D9MZM
+</asin>
+<product_name>
+French Cheese Assortment (2 Pound) by igourmet.com: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 12
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Horrible service
+</title>
+<date>
+December 30, 2004
+</date>
+<reviewer>
+Ian Hamilton
+</reviewer>
+<reviewer_location>
+Chicago, USA
+</reviewer_location>
+<review_text>
+The actual cheese is GREAT, if you can get them to ship to you.  Ordered items as gifts - took over a week to ship.  For timely gifts you would be better off going around the corner.  Otherwise a great deal
+</review_text>
+</review>
+<review>
+<unique_id>
+B00020VHWS:marshmallow_cream__not!!:l._owens_"pudding_98"
+</unique_id>
+<unique_id>
+97889
+</unique_id>
+<asin>
+B00020VHWS
+</asin>
+<product_name>
+Sugar Free Marshmallow Cream - Carb Free: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 2
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Marshmallow Cream  NOT!!
+</title>
+<date>
+October 9, 2006
+</date>
+<reviewer>
+L. Owens "pudding 98"
+</reviewer>
+<reviewer_location>
+St.Peters, Mo USA
+</reviewer_location>
+<review_text>
+I was very disappointed. It has a definite after taste. I was surprised at the small container size. After tasting I was glad it was small. Would I order it again? Yuck!
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EVOSE4:tasty_rubber:saltpeanuts
+</unique_id>
+<unique_id>
+121218
+</unique_id>
+<asin>
+B000EVOSE4
+</asin>
+<product_name>
+Haribo Gummi Candy, Gold-Bears, 5-Pound Bag: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Tasty Rubber
+</title>
+<date>
+October 26, 2006
+</date>
+<reviewer>
+saltpeanuts
+</reviewer>
+<reviewer_location>
+NYC
+</reviewer_location>
+<review_text>
+I expected something softer in texture, but these are like chewing on rubber with flavor.  Much too hard for my 3 y/old child.  If you're looking for something tasty & softer in texture, try Kasugai Gummy Candies
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQJRWG:not_quite_a_pasta/_noodle_substitute:a._wilson
+</unique_id>
+<unique_id>
+140376
+</unique_id>
+<asin>
+B000AQJRWG
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Noodle Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+NOT quite a Pasta/ Noodle Substitute
+</title>
+<date>
+October 16, 2006
+</date>
+<reviewer>
+A. Wilson
+</reviewer>
+<reviewer_location>
+MD, USA
+</reviewer_location>
+<review_text>
+After reading a number a positive reviews on the product, I wanted to try it.  I am glad I just went to my local Whole Foods Supermarket, instead of paying excessive ship/g costs when ordering online.  Basically, I do Not like it...don't like the taste or texture; I am not really bothered by the smell once it is rinsed.  
+
+I eat Tofu products regularly and I also eat pasta occasionally and would rather eat my whole wheat pasta 1-2x/mth than eat this tofu-noodle regularly.  However, everyone has different tastes. So if you want to try it, get it from your local grocer (if they carry it), otherwise don't waste your money on ship/g
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQJRWG:absolutely_disgusting:kelsey
+</unique_id>
+<unique_id>
+140381
+</unique_id>
+<asin>
+B000AQJRWG
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Noodle Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+absolutely disgusting
+</title>
+<date>
+June 18, 2006
+</date>
+<reviewer>
+Kelsey
+</reviewer>
+<reviewer_location>
+Chicago, Illinois
+</reviewer_location>
+<review_text>
+This small package of noodles came to me in a huge box, which I thought was a huge waste and completely unnessecary.  And, when I opened the box, a small melted ice pack failed to keep the noodles cold, so they were hot and smelled terrible.  I had to throw them in the trash outside right away because of the smell, and called Gristedes and left an upset, yet polite message.  It has been almost a week and I have not heard from them.  Don't waste your money on this supposedly "great deal."  It's not worth it
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQJRWG:worst_tofu_product_ever:sarah_m.
+</unique_id>
+<unique_id>
+140383
+</unique_id>
+<asin>
+B000AQJRWG
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Noodle Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Worst tofu product ever
+</title>
+<date>
+May 10, 2006
+</date>
+<reviewer>
+Sarah M.
+</reviewer>
+<reviewer_location>
+Boston, MA
+</reviewer_location>
+<review_text>
+As a vegan, I have tried just about every tofu product on the market, and nothing ever came close to the terrible texture of these noodles.
+
+The smell when you opened the bag was not pleasant, but if you wash them off and parboil, that goes away, but is replaced with a slightly sweet smell that I disliked almost as much.
+
+But I kept an open mind, cooked the noodles for a few minutes, added my favorite sauce and fresh ground pepper with some soy cheese grated on top.  Whoever said it was like eating rubber bands was exactly on target, they are incredibly chewy and just don't taste that great either. Even as a low calorie food, it seems like a waste to spend 40 calories on these noodles.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002L3BYE:j._w.:j._whitacre_"j.w."
+</unique_id>
+<unique_id>
+248629
+</unique_id>
+<asin>
+B0002L3BYE
+</asin>
+<product_name>
+Walden Farms Sugar Free Marshmallow Dip: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+J. W.
+</title>
+<date>
+July 29, 2006
+</date>
+<reviewer>
+J. Whitacre "J.W."
+</reviewer>
+<reviewer_location>
+Covina, CA
+</reviewer_location>
+<review_text>
+This was the most disgusting diet product I've tried.  I love marshmallow dip, and this wasn't even close to tasting like it.  It has a chemical taste, like you're eating spun plastic, and makes you actually scared to eat it.  Why even bother eating it.  I'll stick with fat free whipped topping -- at least it has flavor
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002L3BYE:nasty_stuff:steven_grimm
+</unique_id>
+<unique_id>
+248634
+</unique_id>
+<asin>
+B0002L3BYE
+</asin>
+<product_name>
+Walden Farms Sugar Free Marshmallow Dip: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Nasty stuff
+</title>
+<date>
+February 15, 2006
+</date>
+<reviewer>
+Steven Grimm
+</reviewer>
+<reviewer_location>
+Sunnyvale, CA USA
+</reviewer_location>
+<review_text>
+I like some of the other Walden Farms products -- I gave their chocolate dip 4 stars -- but this one is not very good. I tried dipping different kinds of fruit into it, tried it in combination with the chocolate dip, and finally gave up and threw the rest of it away. The cellulose gel Walden Farms uses to give its sauces body seems to have a slight spicy/sour "bite" to it; it doesn't bother me in the chocolate dip or in most of their dressings, but here it ruins the flavor
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002L3BYE:horribly_disgusting:vacachico_"vacachico"
+</unique_id>
+<unique_id>
+248635
+</unique_id>
+<asin>
+B0002L3BYE
+</asin>
+<product_name>
+Walden Farms Sugar Free Marshmallow Dip: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Horribly disgusting
+</title>
+<date>
+August 18, 2005
+</date>
+<reviewer>
+VacaChico "vacachico"
+</reviewer>
+<reviewer_location>
+United States
+</reviewer_location>
+<review_text>
+I absolutely would recommend avoiding this item. It has a vile aftertaste - even if you can stomach artificial sweetener, this product's flavor is so blatantly unnatural. If you can get past the sweetener and the frightening list of ingredients, the texture isn't particularly appealing, what with the tiny granules floating throughout. I know this dessert sounds too good to be true, and it is
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002L3BYE:all_the_goodness_every_body_needs:mr_picky
+</unique_id>
+<unique_id>
+248636
+</unique_id>
+<asin>
+B0002L3BYE
+</asin>
+<product_name>
+Walden Farms Sugar Free Marshmallow Dip: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+All the goodness every body needs
+</title>
+<date>
+April 13, 2005
+</date>
+<reviewer>
+Mr Picky
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Cellulose Gel, Lactic Acid, Sucralose, Titanium Dioxide, Salt, Xanthan Gum, and Potassium Sorbate.....yum can't wait to get me some more titanium dioxide in me...how great does that sound!
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQFQC6:if_it_seems_to_good_to_be_true,_it_is!:l._jordan
+</unique_id>
+<unique_id>
+277050
+</unique_id>
+<asin>
+B000AQFQC6
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Fettuccini Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+17 of 20
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+If it seems to good to be true, IT IS!
+</title>
+<date>
+June 7, 2006
+</date>
+<reviewer>
+L. Jordan
+</reviewer>
+<reviewer_location>
+NY
+</reviewer_location>
+<review_text>
+I was dying to get my hands on these after reading such wonderful endorsements.  I had nothing but high hopes.  I was totally open minded.  I thought it seemed too good to be true (low cal no carb noodles!) but hey, I'm an optimist.  Guess what? It is too good to be true!  I read about washing them and drying them.  I did.  No problem.  I added sauce.  I put them in my mouth.  The taste was not the problem it was the texture.  It was seriously like chewing rubber bands.  No noodle resemblence whatsoever.  I honestly can't understand those who rave about these, but, hey, to each his own
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQFQC6:ew.:heather_l._hurd_"bibliophile_extraordinaire"
+</unique_id>
+<unique_id>
+277052
+</unique_id>
+<asin>
+B000AQFQC6
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Fettuccini Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+9 of 13
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Ew.
+</title>
+<date>
+April 17, 2006
+</date>
+<reviewer>
+Heather L. Hurd "Bibliophile Extraordinaire"
+</reviewer>
+<reviewer_location>
+Annapolis, Maryland United States
+</reviewer_location>
+<review_text>
+These noodles have a terrible, squidy texture and a wholly unpleasant smell.  They cook strangely and taste odd
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EVOSE4:tasty_rubber:saltpeanuts
+</unique_id>
+<unique_id>
+331022
+</unique_id>
+<asin>
+B000EVOSE4
+</asin>
+<product_name>
+Haribo Gummi Candy, Gold-Bears, 5-Pound Bag: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Tasty Rubber
+</title>
+<date>
+October 26, 2006
+</date>
+<reviewer>
+saltpeanuts
+</reviewer>
+<reviewer_location>
+NYC
+</reviewer_location>
+<review_text>
+I expected something softer in texture, but these are like chewing on rubber with flavor.  Much too hard for my 3 y/old child.  If you're looking for something tasty & softer in texture, try Kasugai Gummy Candies
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQJRWG:not_quite_a_pasta/_noodle_substitute:a._wilson
+</unique_id>
+<unique_id>
+360238
+</unique_id>
+<asin>
+B000AQJRWG
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Noodle Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+NOT quite a Pasta/ Noodle Substitute
+</title>
+<date>
+October 16, 2006
+</date>
+<reviewer>
+A. Wilson
+</reviewer>
+<reviewer_location>
+MD, USA
+</reviewer_location>
+<review_text>
+After reading a number a positive reviews on the product, I wanted to try it.  I am glad I just went to my local Whole Foods Supermarket, instead of paying excessive ship/g costs when ordering online.  Basically, I do Not like it...don't like the taste or texture; I am not really bothered by the smell once it is rinsed.  
+
+I eat Tofu products regularly and I also eat pasta occasionally and would rather eat my whole wheat pasta 1-2x/mth than eat this tofu-noodle regularly.  However, everyone has different tastes. So if you want to try it, get it from your local grocer (if they carry it), otherwise don't waste your money on ship/g
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQJRWG:absolutely_disgusting:kelsey
+</unique_id>
+<unique_id>
+360243
+</unique_id>
+<asin>
+B000AQJRWG
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Noodle Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+absolutely disgusting
+</title>
+<date>
+June 18, 2006
+</date>
+<reviewer>
+Kelsey
+</reviewer>
+<reviewer_location>
+Chicago, Illinois
+</reviewer_location>
+<review_text>
+This small package of noodles came to me in a huge box, which I thought was a huge waste and completely unnessecary.  And, when I opened the box, a small melted ice pack failed to keep the noodles cold, so they were hot and smelled terrible.  I had to throw them in the trash outside right away because of the smell, and called Gristedes and left an upset, yet polite message.  It has been almost a week and I have not heard from them.  Don't waste your money on this supposedly "great deal."  It's not worth it
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQJRWG:worst_tofu_product_ever:sarah_m.
+</unique_id>
+<unique_id>
+360245
+</unique_id>
+<asin>
+B000AQJRWG
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Noodle Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Worst tofu product ever
+</title>
+<date>
+May 10, 2006
+</date>
+<reviewer>
+Sarah M.
+</reviewer>
+<reviewer_location>
+Boston, MA
+</reviewer_location>
+<review_text>
+As a vegan, I have tried just about every tofu product on the market, and nothing ever came close to the terrible texture of these noodles.
+
+The smell when you opened the bag was not pleasant, but if you wash them off and parboil, that goes away, but is replaced with a slightly sweet smell that I disliked almost as much.
+
+But I kept an open mind, cooked the noodles for a few minutes, added my favorite sauce and fresh ground pepper with some soy cheese grated on top.  Whoever said it was like eating rubber bands was exactly on target, they are incredibly chewy and just don't taste that great either. Even as a low calorie food, it seems like a waste to spend 40 calories on these noodles.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000D9MZM:horrible_service:ian_hamilton
+</unique_id>
+<unique_id>
+487233
+</unique_id>
+<asin>
+B0000D9MZM
+</asin>
+<product_name>
+French Cheese Assortment (2 Pound) by igourmet.com: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 12
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Horrible service
+</title>
+<date>
+December 30, 2004
+</date>
+<reviewer>
+Ian Hamilton
+</reviewer>
+<reviewer_location>
+Chicago, USA
+</reviewer_location>
+<review_text>
+The actual cheese is GREAT, if you can get them to ship to you.  Ordered items as gifts - took over a week to ship.  For timely gifts you would be better off going around the corner.  Otherwise a great deal
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002L3BYE:j._w.:j._whitacre_"j.w."
+</unique_id>
+<unique_id>
+523187
+</unique_id>
+<asin>
+B0002L3BYE
+</asin>
+<product_name>
+Walden Farms Sugar Free Marshmallow Dip: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+J. W.
+</title>
+<date>
+July 29, 2006
+</date>
+<reviewer>
+J. Whitacre "J.W."
+</reviewer>
+<reviewer_location>
+Covina, CA
+</reviewer_location>
+<review_text>
+This was the most disgusting diet product I've tried.  I love marshmallow dip, and this wasn't even close to tasting like it.  It has a chemical taste, like you're eating spun plastic, and makes you actually scared to eat it.  Why even bother eating it.  I'll stick with fat free whipped topping -- at least it has flavor
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002L3BYE:nasty_stuff:steven_grimm
+</unique_id>
+<unique_id>
+523192
+</unique_id>
+<asin>
+B0002L3BYE
+</asin>
+<product_name>
+Walden Farms Sugar Free Marshmallow Dip: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Nasty stuff
+</title>
+<date>
+February 15, 2006
+</date>
+<reviewer>
+Steven Grimm
+</reviewer>
+<reviewer_location>
+Sunnyvale, CA USA
+</reviewer_location>
+<review_text>
+I like some of the other Walden Farms products -- I gave their chocolate dip 4 stars -- but this one is not very good. I tried dipping different kinds of fruit into it, tried it in combination with the chocolate dip, and finally gave up and threw the rest of it away. The cellulose gel Walden Farms uses to give its sauces body seems to have a slight spicy/sour "bite" to it; it doesn't bother me in the chocolate dip or in most of their dressings, but here it ruins the flavor
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002L3BYE:horribly_disgusting:vacachico_"vacachico"
+</unique_id>
+<unique_id>
+523193
+</unique_id>
+<asin>
+B0002L3BYE
+</asin>
+<product_name>
+Walden Farms Sugar Free Marshmallow Dip: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Horribly disgusting
+</title>
+<date>
+August 18, 2005
+</date>
+<reviewer>
+VacaChico "vacachico"
+</reviewer>
+<reviewer_location>
+United States
+</reviewer_location>
+<review_text>
+I absolutely would recommend avoiding this item. It has a vile aftertaste - even if you can stomach artificial sweetener, this product's flavor is so blatantly unnatural. If you can get past the sweetener and the frightening list of ingredients, the texture isn't particularly appealing, what with the tiny granules floating throughout. I know this dessert sounds too good to be true, and it is
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002L3BYE:all_the_goodness_every_body_needs:mr_picky
+</unique_id>
+<unique_id>
+523194
+</unique_id>
+<asin>
+B0002L3BYE
+</asin>
+<product_name>
+Walden Farms Sugar Free Marshmallow Dip: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+All the goodness every body needs
+</title>
+<date>
+April 13, 2005
+</date>
+<reviewer>
+Mr Picky
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Cellulose Gel, Lactic Acid, Sucralose, Titanium Dioxide, Salt, Xanthan Gum, and Potassium Sorbate.....yum can't wait to get me some more titanium dioxide in me...how great does that sound!
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQFQC6:if_it_seems_to_good_to_be_true,_it_is!:l._jordan
+</unique_id>
+<unique_id>
+566448
+</unique_id>
+<asin>
+B000AQFQC6
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Fettuccini Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+17 of 20
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+If it seems to good to be true, IT IS!
+</title>
+<date>
+June 7, 2006
+</date>
+<reviewer>
+L. Jordan
+</reviewer>
+<reviewer_location>
+NY
+</reviewer_location>
+<review_text>
+I was dying to get my hands on these after reading such wonderful endorsements.  I had nothing but high hopes.  I was totally open minded.  I thought it seemed too good to be true (low cal no carb noodles!) but hey, I'm an optimist.  Guess what? It is too good to be true!  I read about washing them and drying them.  I did.  No problem.  I added sauce.  I put them in my mouth.  The taste was not the problem it was the texture.  It was seriously like chewing rubber bands.  No noodle resemblence whatsoever.  I honestly can't understand those who rave about these, but, hey, to each his own
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQFQC6:ew.:heather_l._hurd_"bibliophile_extraordinaire"
+</unique_id>
+<unique_id>
+566450
+</unique_id>
+<asin>
+B000AQFQC6
+</asin>
+<product_name>
+House Foods America Corporation Tofu Shirataki, Fettuccini Shaped Tofu, 8.00 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+9 of 13
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Ew.
+</title>
+<date>
+April 17, 2006
+</date>
+<reviewer>
+Heather L. Hurd "Bibliophile Extraordinaire"
+</reviewer>
+<reviewer_location>
+Annapolis, Maryland United States
+</reviewer_location>
+<review_text>
+These noodles have a terrible, squidy texture and a wholly unpleasant smell.  They cook strangely and taste odd
+</review_text>
+</review>
+<review>
+<unique_id>
+B00020VHWS:marshmallow_cream__not!!:l._owens_"pudding_98"
+</unique_id>
+<unique_id>
+604957
+</unique_id>
+<asin>
+B00020VHWS
+</asin>
+<product_name>
+Sugar Free Marshmallow Cream - Carb Free: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 2
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Marshmallow Cream  NOT!!
+</title>
+<date>
+October 9, 2006
+</date>
+<reviewer>
+L. Owens "pudding 98"
+</reviewer>
+<reviewer_location>
+St.Peters, Mo USA
+</reviewer_location>
+<review_text>
+I was very disappointed. It has a definite after taste. I was surprised at the small container size. After tasting I was glad it was small. Would I order it again? Yuck!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000CERYN:not_what_i_was_looking_for......:an_avid_speed_reader_"rbp"
+</unique_id>
+<asin>
+B0000CERYN
+</asin>
+<product_name>
+Oolong Teas Sampler, 4 tins: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not what I was looking for......
+</title>
+<date>
+March 16, 2007
+</date>
+<reviewer>
+An avid speed reader "RBP"
+</reviewer>
+<reviewer_location>
+NH United States
+</reviewer_location>
+<review_text>
+I was on a search to find a great oolong tea.  This set contained one somewhat weak black tea, two green teas, and a VERY strong jasmine. I much prefer black teas so tried one cup of each and then gave these away. Perhaps if you have a more exotic tea taste, this would be a better choice for you than it was for me. So far, the very inexpensive Bigelow oolong has come closest to a true oolong black cup of tea.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00017LF24:not_popcorn_salt,_just_regular_salt_at_twice_the_price:marshall_l._kiker_"mkiker2089"
+</unique_id>
+<asin>
+B00017LF24
+</asin>
+<product_name>
+Popcorn Salt: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+not popcorn salt, just regular salt at twice the price
+</title>
+<date>
+April 14, 2007
+</date>
+<reviewer>
+Marshall L. Kiker "mkiker2089"
+</reviewer>
+<reviewer_location>
+Kannapolis, NC USA
+</reviewer_location>
+<review_text>
+Fine cut, diamond texture whatever, it's missing the thing vital to really be popcorn salt and that is the flavor that true popcorn salt has. Slightly buttery, very strong, and always good. There;s a trend lately to re-lable regular salt as popcorn salt, this trend needs to stop
+</review_text>
+</review>
+<review>
+<unique_id>
+B0008D6TF4:disappointing:michelle_moyer
+</unique_id>
+<asin>
+B0008D6TF4
+</asin>
+<product_name>
+Multi Color Edible Glitter: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Disappointing
+</title>
+<date>
+January 25, 2007
+</date>
+<reviewer>
+Michelle Moyer
+</reviewer>
+<reviewer_location>
+Bartlett, TN United States
+</reviewer_location>
+<review_text>
+Glitter was pretty on my pastries but I was under the impression it would be flavorless and it actually had a yucky aftertaste
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DH98W:go_to_your_butcher:d._jandreau_"frnchydanno"
+</unique_id>
+<asin>
+B0000DH98W
+</asin>
+<product_name>
+Omaha Steaks Filet Mignons, (16) 4 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Go to your butcher
+</title>
+<date>
+May 1, 2006
+</date>
+<reviewer>
+D. Jandreau "frnchydanno"
+</reviewer>
+<reviewer_location>
+Salem, NH United States
+</reviewer_location>
+<review_text>
+I used to give Omaha Steaks as gifts, thinking i'm giving a good gift. Recently, I ordered these for myself and was embarassed.  
+These steaks are yummy but are tiny, don't let the pictures fool you. They are small to begin with & after cooking are laughably tiny. Add the cost for the expensive shipping and handling, I could have done much better at my local butcher/supermarket. Save your money.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000JNYRCK:misleading_product_photo:nick_stewart
+</unique_id>
+<asin>
+B000JNYRCK
+</asin>
+<product_name>
+Ultimate Dark Hot Drinking Chocolate: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Misleading product photo
+</title>
+<date>
+February 24, 2007
+</date>
+<reviewer>
+Nick Stewart
+</reviewer>
+<reviewer_location>
+Houston, TX
+</reviewer_location>
+<review_text>
+The photo shows four containers, each 9oz.  The product is actually only one 9oz. container.  Very misleading, possibly intentionally so.  Also, shipping costs $10 for a $9 product?  Give me a break!  On top of it all the chocolate is nothing special, you can get 16oz containers of Ghiradelli drinking chocolate in specialty shops for $10 which tastes better
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DBN1Q:should_make_bigger_boxes:mister_quickly_"amazon_epicurean"
+</unique_id>
+<asin>
+B0000DBN1Q
+</asin>
+<product_name>
+Tazo Green Ginger Tea, 24 Tea Bags: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+6 of 12
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+should make bigger boxes
+</title>
+<date>
+December 12, 2004
+</date>
+<reviewer>
+Mister Quickly "Amazon epicurean"
+</reviewer>
+<reviewer_location>
+Victoria, BC Canada
+</reviewer_location>
+<review_text>
+24 teabags isn't even enough for one pot. Perhaps my tastes run contrary to the mainstream, but I like my tea very strong.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DBN1Q:no_sir,_i_don't_like_it!:l._crocker_"rocky_horror_fan"
+</unique_id>
+<asin>
+B0000DBN1Q
+</asin>
+<product_name>
+Tazo Green Ginger Tea, 24 Tea Bags: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+No sir, I don't like it!
+</title>
+<date>
+August 13, 2004
+</date>
+<reviewer>
+L. Crocker "Rocky Horror fan"
+</reviewer>
+<reviewer_location>
+Amarillo, TX  USA
+</reviewer_location>
+<review_text>
+This tea is very bitter.  It is very aromatic.  It does smell nice and exotic, but it was just too much for my simple tastebuds
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009K3R1A:threw_it_away:emily_g._miller
+</unique_id>
+<asin>
+B0009K3R1A
+</asin>
+<product_name>
+Thick French/African Hot Chocolate - European style: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+threw it away
+</title>
+<date>
+February 23, 2007
+</date>
+<reviewer>
+Emily G. Miller
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+This was a bomb. It was guilt inducing because I had to throw it away. I got two of them,like an idiot.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000WEV58:tazo_-_how_did_this_stuff_ever_catch_on?:i._j_zelo
+</unique_id>
+<asin>
+B0000WEV58
+</asin>
+<product_name>
+Tazo Awake Tea Bags 48-pc.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Tazo - how did this stuff ever catch on?
+</title>
+<date>
+December 2, 2005
+</date>
+<reviewer>
+I. J Zelo
+</reviewer>
+<reviewer_location>
+Seattle, WA
+</reviewer_location>
+<review_text>
+Good black tea is not hard to find - just hard to find in your grocery store.  
+
+The honest truth is that Tazo really does not make many, if any really good teas.  This, in particular, is one of their worst.  It is bitter and leaves a bad taste in your mouth immediately.
+
+Every time i get stuck in a starbucks with friends i am faced with the choice - tea, chai or steamed milk.  Every time i cave in and give Tazo another chance it disappoints me.  If you want a good black tea look for a local tea shop and let them brew you a few cups.  Try a keemun, a lapsang and maybe golden dianhong and see how it goes.  If you really want to kick it up a notch look for a 
+Cameroonian black.
+
+take it from someone who really loves tea, this stuff is not worth your time.  and when you get good tea, please don't brew it in your coffee maker
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ873:very_dissapointed:heather
+</unique_id>
+<asin>
+B0000DJ873
+</asin>
+<product_name>
+Omaha Steaks Top Sirloins, (6) 6 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+21 of 27
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+very dissapointed
+</title>
+<date>
+September 12, 2005
+</date>
+<reviewer>
+heather
+</reviewer>
+<reviewer_location>
+frisco, texas
+</reviewer_location>
+<review_text>
+We were  really looking forward to having some Omaha Steaks again. Unfortunately, every steak had grissle and was very tuff. The flavor was not what we remebered either, they were very bland. I could have gotten a better steak at the supermarket and saved myself alot of money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000GH6WY:not_very_sexy:austin_glenn
+</unique_id>
+<asin>
+B0000GH6WY
+</asin>
+<product_name>
+Nido Powder Milk, 360 grms: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 17
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+not very sexy
+</title>
+<date>
+August 5, 2006
+</date>
+<reviewer>
+austin glenn
+</reviewer>
+<reviewer_location>
+Rock and Roll, texas United States
+</reviewer_location>
+<review_text>
+I proceeded to open the container then pour it all over myself, in front of my girlfriend. Imagine my embarassment with poweder all over myself.
+
+Needless to say the evening did not go as planned.
+
+Though I did take a bath, and the water did taste an awfully lot like milk.
+
+My fault though, for thinking the company was Nido Powde
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001AV4RC:personal_preference:b._cohn_"booklust"
+</unique_id>
+<asin>
+B0001AV4RC
+</asin>
+<product_name>
+Illy Decaffeinated Whole Bean Coffee 8.8-oz.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Personal preference
+</title>
+<date>
+January 30, 2007
+</date>
+<reviewer>
+B. Cohn "booklust"
+</reviewer>
+<reviewer_location>
+Montana
+</reviewer_location>
+<review_text>
+I think coffee taste is more of a personal preference, but I was not fond of this decaf coffee.  I always drink my coffee black and I didn't get the rich coffee taste that I like with the Don Francisco brand.  Illy has a great reputation so I am guessing their non-decaf coffee is outstanding, they just need a little work with the decaf
+</review_text>
+</review>
+<review>
+<unique_id>
+B00013C2WK:worst_shipping:s._yoon_"unhappy_customer"
+</unique_id>
+<asin>
+B00013C2WK
+</asin>
+<product_name>
+Starbucks Assortment: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Worst shipping
+</title>
+<date>
+January 4, 2007
+</date>
+<reviewer>
+S. Yoon "unhappy customer"
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+I ordered this item on December 13, but it's not deilivered yet as of Jan 3. HORRIBLE SHIPPING!!
+</review_text>
+</review>
+<review>
+<unique_id>
+B00013C2WK:beautiful_basket_but_horrible_shipping:anonymous
+</unique_id>
+<asin>
+B00013C2WK
+</asin>
+<product_name>
+Starbucks Assortment: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+12 of 15
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Beautiful basket but horrible shipping
+</title>
+<date>
+December 22, 2004
+</date>
+<reviewer>
+anonymous
+</reviewer>
+<reviewer_location>
+United States
+</reviewer_location>
+<review_text>
+I ordered this item in late November, got a shipping notice on December 4th, and it took until December 22 for it to arrive to it's destination.  Customer service blamed problems with FEDEX, FEDEX blamed the company.  I would NOT order from this company.  I got the runaround for 2 weeks and item arrived 1 week later than what it was promised
+</review_text>
+</review>
+<review>
+<unique_id>
+B00017LEXE:shipping_is_insane!!!:keith_alan_shepard_"anime_nutjob"
+</unique_id>
+<asin>
+B00017LEXE
+</asin>
+<product_name>
+Amish Country Baby White Popcorn - 2lb.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Shipping is INSANE!!!
+</title>
+<date>
+January 26, 2007
+</date>
+<reviewer>
+Keith Alan Shepard "anime nutjob"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I love the popcorn, but the shipping costs are INSANE!! A total rip off. Wabash Valley Farms or Amazon or whoever is charging the shipping is out of their mind. 5 Stars for the popcorn. Minus 4 stars for the terrible cost associated with shipping. Argh...Yes, the popcorn is tender and luscious, and it melts in your mouth like you're eating cooked grasshoppers, but come on!!! Can't you ship this product for less?
+
+Shipping the 6 pound bag is even worse. *sigh* Too bad really
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032AKBY:uht_milk_better_and_cheaper_in_uk,_not_considered_a_gourmet_food:milk_man
+</unique_id>
+<asin>
+B00032AKBY
+</asin>
+<product_name>
+Parmalat Long Life Whole Milk, 3 - 8 fl oz Boxes, 24 fl oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+UHT milk better and cheaper in UK, not considered a gourmet food
+</title>
+<date>
+January 5, 2007
+</date>
+<reviewer>
+milk man
+</reviewer>
+<reviewer_location>
+USA New Jersey
+</reviewer_location>
+<review_text>
+I can't believe that this is considered a "Gourmet Food". In the UK long life UHT milk is an excellent standby when you run out of fresh milk, and it tastes much better than this Parmalat. OK, brands differ and taste is a matter of preference and there are mixed opinions as to whether the UK UHT milk tastes as good as pasturised, but many are just as happy with it as fresh. There is no way that the Parmalat could be mistaken for fresh milk.
+
+And how expensive. Just add Gourmet to the title and up the price! In the UK it is similar or cheaper than fresh milk.
+
+I can't understand why it is not more available in the USA.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032AKBY:pramalat:joyce_m._gandelman
+</unique_id>
+<asin>
+B00032AKBY
+</asin>
+<product_name>
+Parmalat Long Life Whole Milk, 3 - 8 fl oz Boxes, 24 fl oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Pramalat
+</title>
+<date>
+March 13, 2006
+</date>
+<reviewer>
+Joyce M. Gandelman
+</reviewer>
+<reviewer_location>
+Stockton, California
+</reviewer_location>
+<review_text>
+I expected Parmalat brand milk but received a different brand altogether. I also excpected this to have a long shelf life, not just a few months. I thought the product was overpriced for what I received
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000TL5Y6:kind_folks,_lousy_product:nicholas_moore
+</unique_id>
+<asin>
+B0000TL5Y6
+</asin>
+<product_name>
+Melissa's Spring Roll Wrappers/Rice Papers, 3 Packages (12 Oz): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+5 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+kind folks, lousy product
+</title>
+<date>
+March 1, 2006
+</date>
+<reviewer>
+Nicholas Moore
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+first I was sent strange spring roll wrappers that were totally moldy - Melissa responded quickly and kindly - and proceeded to send me wrappers that were totally stale, dry and were crubling out of the not so air tight plastic wrapping - just dreadfu
+</review_text>
+</review>
+<review>
+<unique_id>
+B00025A70G:no_usda_grade_to_their_meat:a._lupher
+</unique_id>
+<asin>
+B00025A70G
+</asin>
+<product_name>
+Omaha Steaks The Terrific Twosome: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+no USDA grade to their meat
+</title>
+<date>
+April 12, 2007
+</date>
+<reviewer>
+A. Lupher
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Omaha doesn't grade their meat - consequently you don't know if you are purchasing Prime, Choice, Select or worse and from what we have sampled I doubt that it is any better then Select and maybe not that as we've had some skunked steaks
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007UXIW0:shoumei_white_tea_is_okay:xenia_f._woods
+</unique_id>
+<asin>
+B0007UXIW0
+</asin>
+<product_name>
+FooJoy Shoumei White Tea - 100 Individually Wrapped Tea Bags (7.0 Oz): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+5 of 7
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Shoumei White Tea is okay
+</title>
+<date>
+September 12, 2005
+</date>
+<reviewer>
+Xenia F. Woods
+</reviewer>
+<reviewer_location>
+Eureka, CA United States
+</reviewer_location>
+<review_text>
+I really prefer the Shoumei Green Tea which is one of the only green teas I can find that isn't bitter. The white tea doesn't have any sweetness to it and isn't much fun to drink. I only drink it because it's good for me.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DH98Z:tough_steaks:john_chauvin_"john"
+</unique_id>
+<asin>
+B0000DH98Z
+</asin>
+<product_name>
+Omaha Steaks Filet Mignons, (4) 6 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+tough steaks
+</title>
+<date>
+January 18, 2007
+</date>
+<reviewer>
+John Chauvin "John"
+</reviewer>
+<reviewer_location>
+Nashville, Tn
+</reviewer_location>
+<review_text>
+I was thoroughly disappointed with the product.  They were not all that tender and certainly not worth what I paid for the produc
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DH98Z:the_harlem_globetrotters_would_have_a_field_day_with_this:kirk_davis
+</unique_id>
+<asin>
+B0000DH98Z
+</asin>
+<product_name>
+Omaha Steaks Filet Mignons, (4) 6 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+9 of 80
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+The Harlem Globetrotters would have a field day with this
+</title>
+<date>
+June 7, 2005
+</date>
+<reviewer>
+Kirk Davis
+</reviewer>
+<reviewer_location>
+Oslo
+</reviewer_location>
+<review_text>
+These steaks dribble like a basketball and shoot like a dream. They should include a backboard, rim, and net with these. And some cheerleaders wouldn't hurt, either
+</review_text>
+</review>
+<review>
+<unique_id>
+B000HIE69Q:product_was_cheaper_at_northgate:j._bush_"anomy"
+</unique_id>
+<asin>
+B000HIE69Q
+</asin>
+<product_name>
+Godiba Chocolate: Milk Chocolate Lover's Gift Basket: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+product was cheaper at Northgate
+</title>
+<date>
+January 18, 2007
+</date>
+<reviewer>
+J. bush "anomy"
+</reviewer>
+<reviewer_location>
+seattle wa usa
+</reviewer_location>
+<review_text>
+paying 25% for shipping and handeling was a bit much. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328MWI:wait_a_couple_days_before_you_review.....:paul
+</unique_id>
+<asin>
+B000328MWI
+</asin>
+<product_name>
+California Green Seedless Grapes, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+9 of 13
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Wait a couple days before you review.....
+</title>
+<date>
+October 14, 2006
+</date>
+<reviewer>
+paul
+</reviewer>
+<reviewer_location>
+los angeles
+</reviewer_location>
+<review_text>
+I have multiple concerns with this product. Out of the box, they really do look fresh and plump like they do in the picture. 
+
+However, you soon notice the lack of instructions. None. The only documentation at all is a "California" sticker... with no reference to a web site. Nada.
+
+My grapes broke quickly. When I received them they looked just like the picture. But in a couple days I started noticing they weren't as plump and were shriveling. Withing a week, many were brown and certainly lacked freshness. It was so bad, that I was in shock, and I kept holding up the picture next to them to compare because I couldn't believe it. It was like they were deteriorating right before my eyes.
+
+Within a month they looked awful. They looked like moldy raisins. Really Moldy.
+
+Not recommended
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328MWI:concerns:hosen_gepinkelt_"itchy_cook"
+</unique_id>
+<asin>
+B000328MWI
+</asin>
+<product_name>
+California Green Seedless Grapes, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 8
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Concerns
+</title>
+<date>
+September 2, 2006
+</date>
+<reviewer>
+Hosen Gepinkelt "itchy cook"
+</reviewer>
+<reviewer_location>
+Appenzell, Switzerland
+</reviewer_location>
+<review_text>
+frankly, it was a bit grapey.  wouldn't dare try stuffing it into any orifice, probably too fragile
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CRZ84O:foojoy_lungching...i_missed_the_"joy"_part:lokeedone_"lokeed4life"
+</unique_id>
+<asin>
+B000CRZ84O
+</asin>
+<product_name>
+Foojoy Lungching (Dragonwell) Green Tea - 100 Individually Wrapped Tea Bags (7.0 Oz): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 7
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+FOOJOY LUNGCHING...I MISSED THE "JOY" PART
+</title>
+<date>
+September 24, 2005
+</date>
+<reviewer>
+lokeedone "lokeed4life"
+</reviewer>
+<reviewer_location>
+Rockford, Illinois United States
+</reviewer_location>
+<review_text>
+I thought that I would try out this product, since i've tried a number of green teas, and after trying this I was not at all impressed with it by any means.  I don't recommend this product...there was no kind of "flavor" to this to me, and i've been all over the orients.  Just my opinion, but hope someone else enjoys it better than I did
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328PLQ:ripoff!:food_maven
+</unique_id>
+<asin>
+B000328PLQ
+</asin>
+<product_name>
+Fresh Vine Ripe Tomatoes, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+18 of 24
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Ripoff!
+</title>
+<date>
+August 10, 2006
+</date>
+<reviewer>
+Food Maven
+</reviewer>
+<reviewer_location>
+Tuscaloosa, Hell (Seventh Circle
+</reviewer_location>
+<review_text>
+I thought my Fresh Vine Ripe Tomatoes would come whole.  Instead, as you can see from the graphic, I received five whole tomatoes and one that had already been cut in half.  Yes, half a tomato.  The half-tomato in my package had dripped on the other ones and made quite a mess.  In fact, the resulting tomato juice ate a hole through the box they arrived in, making a puddle on the floor that was small, but big enough to trip the UPS guy.  He fell and fractured his spine, and now he's paralyzed.  His wife and nine children are destitute, all thanks to these vine-ripened tomatoes.
+
+In conclusion, I think this packaging is just a bad idea
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328PLQ:i_just_cannot_say_enough_bad_things_about_tomatoes:jason_jackson_"jason_lee_jackson"
+</unique_id>
+<asin>
+B000328PLQ
+</asin>
+<product_name>
+Fresh Vine Ripe Tomatoes, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+6 of 17
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+I just cannot say enough bad things about tomatoes
+</title>
+<date>
+August 5, 2006
+</date>
+<reviewer>
+Jason Jackson "jason_lee_jackson"
+</reviewer>
+<reviewer_location>
+Austin, TX United States
+</reviewer_location>
+<review_text>
+So really, how important is this fruit, err vegetable, err fruit?  I mean, I like salsa, and a hamburger just would not be the same without catsup, err ketchup.  Come to think of it, spaghetti would not be the same either.  But eating these things plain is just silly.  The taste is not so bad, but the consistency is all messed up.
+
+In conclusion, if you must have some tomato in your diet, please purchase tomato related products and not the tomato itself.  And why the heck isn't it spelled "tomatoe"?  Why is the "e" added for the plural form?  What gives
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328PLQ:you_say_tomato,_i_say_murder!:mark_twain
+</unique_id>
+<asin>
+B000328PLQ
+</asin>
+<product_name>
+Fresh Vine Ripe Tomatoes, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+22 of 29
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+You say tomato, I say murder!
+</title>
+<date>
+June 20, 2006
+</date>
+<reviewer>
+Mark Twain
+</reviewer>
+<reviewer_location>
+Heaven
+</reviewer_location>
+<review_text>
+I have mixed feelings about tomatoes.
+
+One time a tomato ate both of my parents. On the other hand, they can be made into apple pies.
+
+In conclusion, I am a tomato
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328PLQ:meh:general_zombie
+</unique_id>
+<asin>
+B000328PLQ
+</asin>
+<product_name>
+Fresh Vine Ripe Tomatoes, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+11 of 22
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Meh
+</title>
+<date>
+April 10, 2006
+</date>
+<reviewer>
+General Zombie
+</reviewer>
+<reviewer_location>
+the West
+</reviewer_location>
+<review_text>
+I find tomatoes to be overrated.  They're an important ingredient in many things, obviously, but as an item themselves they're of limited use.  They taste alright, but their texture is too screwed up.  The only time I ever really eat raw tomatoes is on hamburgers and sandwiches, and usually prefer not to have them, as they destablilize the whole sandwich so that it all falls apart.  Obnoxious, that is
+</review_text>
+</review>
+<review>
+<unique_id>
+B00012182G:very_disappointed...:timcd
+</unique_id>
+<asin>
+B00012182G
+</asin>
+<product_name>
+Fresh Whole Rabbit: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+46 of 62
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+very disappointed...
+</title>
+<date>
+February 14, 2007
+</date>
+<reviewer>
+timcd
+</reviewer>
+<reviewer_location>
+Germantown, MD
+</reviewer_location>
+<review_text>
+Thought it would make a cute Easter gift, no one else thought so, kids are in counselling now. Apparently I'm the only one with a sense of humor in this family.
+ At least it's a hit with the dog, one extra star for that. I'm way too scared to even try to take it away from him, he loves it so much. 'Heh, OK SirFluffles,' I say to him, 'it's YOUR fresh whole rabbit.' 
+</review_text>
+</review>
+<review>
+<unique_id>
+B00012182G:disgusting_picture_of_a_dead_rabbit:helen_m._thomas
+</unique_id>
+<asin>
+B00012182G
+</asin>
+<product_name>
+Fresh Whole Rabbit: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 59
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Disgusting Picture of a Dead Rabbit
+</title>
+<date>
+February 6, 2007
+</date>
+<reviewer>
+Helen M. Thomas
+</reviewer>
+<reviewer_location>
+Edgecliff Village, TX, USA
+</reviewer_location>
+<review_text>
+What is wrong with you?  This is not something I want to see a picture of, let alone buy.  (With or without its head and feet.) My actual rating is zero or negative stars, but my comments couldn't be posted without a star
+</review_text>
+</review>
+<review>
+<unique_id>
+B00012182G:this_is_how_they_get_you:t._castle
+</unique_id>
+<asin>
+B00012182G
+</asin>
+<product_name>
+Fresh Whole Rabbit: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+58 of 71
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+This is how they get you
+</title>
+<date>
+January 3, 2007
+</date>
+<reviewer>
+T. Castle
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+These big internet companies are so good at screwing their companies. Do you see how this scam works??? They sell "FRESH WHOLE RABBIT" but when I order it, there's no head or skin! Can you believe?!
+
+Uh, excuse me, do you think a headless rabbit missing its entire skin is "WHOLE"???
+
+This is totally misleading. I have contacted Amazon 3 times asking them to please send me the skin, feet, and head so I have the complete set and they have ignored me or sent me autoresponder emails that don't specifically address the missing head and so on.
+
+What they do, I'm guessing, is then resell rabbit heads, rabbit feet, and bloody rabbit scalps on another part of this website, and it's all pure profit. What a CROCK
+</review_text>
+</review>
+<review>
+<unique_id>
+B0005ZIC1O:the_white_woman_has_an_opinion:spookychick
+</unique_id>
+<asin>
+B0005ZIC1O
+</asin>
+<product_name>
+Hostess Twinkies, 15 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 7
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+The white woman has an opinion
+</title>
+<date>
+June 3, 2006
+</date>
+<reviewer>
+SpookyChick
+</reviewer>
+<reviewer_location>
+in tha' world!
+</reviewer_location>
+<review_text>
+Listen up, I'm a big-boned gal who has yo-yoed in weight over the years. Thankfully I'm currently on a downswing, and I hope it stays that way.  Which brings me to Hostess Twinkies which are very overrated.  This is one of my least favorite Hostess snacks, if you want the truth.  The sponge cake is stinky
+</review_text>
+</review>
+<review>
+<unique_id>
+B0005ZIC1O:yuck:tall_paul
+</unique_id>
+<asin>
+B0005ZIC1O
+</asin>
+<product_name>
+Hostess Twinkies, 15 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Yuck
+</title>
+<date>
+March 9, 2006
+</date>
+<reviewer>
+Tall Paul
+</reviewer>
+<reviewer_location>
+San Diego, CA United States
+</reviewer_location>
+<review_text>
+Twinkies were once great but once they sold out to the big corporation, the quality went down the drain. It's too artificial tasting to be considered food. There are a ton of chemicals and additives added. You call this cake
+</review_text>
+</review>
+<review>
+<unique_id>
+B0005ZIC1O:not_in_our_house!:rob_ralston
+</unique_id>
+<asin>
+B0005ZIC1O
+</asin>
+<product_name>
+Hostess Twinkies, 15 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 13
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not in our house!
+</title>
+<date>
+November 7, 2005
+</date>
+<reviewer>
+Rob Ralston
+</reviewer>
+<reviewer_location>
+South West of Center
+</reviewer_location>
+<review_text>
+Come on, this is 2005. Twinkies aren't "food" anymore than Cheez Whiz is. Twinkies were invented back in the 30s before science understood the impact of the product on our bodies. Consider that in those days doctors were used to advertise cigarettes in magazines. Everyone needs a sugar fix every once in a while - I'm just as guilty of that - but eating Twinkies is practically self-mutilation. Look at the ingredients list and do some reading. Yikes! Everyone's family deserves tasty snacks that happen to be healthy too. Sorry Hostess, that definitely does not include Twinkies
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CSOZME:very_disappointed:chef_"at_home_chef"
+</unique_id>
+<asin>
+B000CSOZME
+</asin>
+<product_name>
+Premium Bourbon-Madagascar Vanilla Beans - 7 beans - FREE SHIPPING on Vanilla Beans: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+5 of 8
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Very Disappointed
+</title>
+<date>
+March 14, 2007
+</date>
+<reviewer>
+Chef "At Home Chef"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I placed an order for these beans on March 4th. On the 14th march, I did not receive them as yet. Since the occasion that I needed them for has passed, I sent an email to JR to find out the problem. When he said they were not shipped as yet, I send 2 e-mails requesting cancellation-i sent 2 to make sure they got it and stopped the mailing of my item!
+He responded VERY hastily, as used sarcastic comments in his reply.The tone of his reply made me feel as if I did not know anything!!
+
+ I am very disappointed with this whole ordeal!
+</review_text>
+</review>
+<review>
+<unique_id>
+B000JSO76Q:no_spices_???:ginger
+</unique_id>
+<asin>
+B000JSO76Q
+</asin>
+<product_name>
+Stainless Steel Masala Dabba (Traditional Indian Spice Box): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 2
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+No Spices ???
+</title>
+<date>
+November 14, 2006
+</date>
+<reviewer>
+Ginger
+</reviewer>
+<reviewer_location>
+Texas
+</reviewer_location>
+<review_text>
+Where does it say "does not include spices"?  I was under the impression that the "Traditional Spice Box" would come with the traditional spices.  Very disappointed.  Even thought the stainless steel container is nice. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B00025A7O2:cooks_up_to_a_lousy_burger:dwight
+</unique_id>
+<asin>
+B00025A7O2
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (8) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+cooks up to a lousy burger
+</title>
+<date>
+September 12, 2006
+</date>
+<reviewer>
+Dwight
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+These are thin solid and dark patties that cook up tasteless, juiceless and unburgerlike in texture.  Completely unlike their advertising and unlike the regular beef patties sold at the supermarket.  I will never buy Omaha Steak products again.
+
+Omaha Steaks' customer representatives are very nice however.  I wrote to them telling them about my experience and they said I could dump the scary meat and they would credit my card.  Thank you very much.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00025A7O2:these_have_gone_way_downhill_in_quality:rko_"radiopictures"
+</unique_id>
+<asin>
+B00025A7O2
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (8) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+These have gone way downhill in quality
+</title>
+<date>
+May 8, 2005
+</date>
+<reviewer>
+RKO "radiopictures"
+</reviewer>
+<reviewer_location>
+Los Angeles, Ca USA
+</reviewer_location>
+<review_text>
+Years ago, these really were ground steak burgers with a very special flavor.  The most recent shipment I had was tastless with an unusually chewy texture.  Not recommended
+</review_text>
+</review>
+<review>
+<unique_id>
+B00025A7O2:eh....:steven_t._moore_"zerostar39"
+</unique_id>
+<asin>
+B00025A7O2
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (8) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+15 of 17
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+eh....
+</title>
+<date>
+June 18, 2004
+</date>
+<reviewer>
+Steven T. Moore "zerostar39"
+</reviewer>
+<reviewer_location>
+Harrisburg, PA United States
+</reviewer_location>
+<review_text>
+These were good burgers...BUT I did not find anything special about them. I could go to the supermarket near my house and get some ground beef and make my own for  A LOT less money, and they would taste just as good. These are good, but not worth the extra money
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AQFQ8U:terrible_hot_pockets:dora_l._linder
+</unique_id>
+<asin>
+B000AQFQ8U
+</asin>
+<product_name>
+Hot Pockets Sausage Egg & Cheese, Breakfast Pastries Ready in 1 minute, 4.00 ct: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+TERRIBLE HOT POCKETS
+</title>
+<date>
+April 14, 2006
+</date>
+<reviewer>
+Dora L. Linder
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I USUALLY LOVE HOT POCKETS, BUT TRIED THIS TWO WEEKS AGO. TERRILE!!!!!!!!!!!!!!! I WAS GOING TO RATE IT O STARS. THEY TASTE TERRIBLE. THE PACKAGING IS DECEIVING. THERE IS TOO MUCH CHEESE WITH SPRINKLES OF SAUSAGE AND EGG. NASTY!!!!!!!!!!!
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032BPXQ:a_grossses!:e._hopson_"dinosaur_harness_maker"
+</unique_id>
+<asin>
+B00032BPXQ
+</asin>
+<product_name>
+Dole USA # 1 Iceberg Lettuce, 1 ct: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+A grossses!
+</title>
+<date>
+January 23, 2007
+</date>
+<reviewer>
+E. Hopson "Dinosaur Harness Maker"
+</reviewer>
+<reviewer_location>
+Land!
+</reviewer_location>
+<review_text>
+When eating a lattuce is not a meat! Bad of the eating for if meat is better! Chew like paper and green grossing bleck! Lacking blood with tendons is a meal very not proper for a dinosaur meal.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032BPXQ:oh,_jesus.:clarence
+</unique_id>
+<asin>
+B00032BPXQ
+</asin>
+<product_name>
+Dole USA # 1 Iceberg Lettuce, 1 ct: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+oh, jesus.
+</title>
+<date>
+December 1, 2006
+</date>
+<reviewer>
+Clarence
+</reviewer>
+<reviewer_location>
+Flowerland, Japan
+</reviewer_location>
+<review_text>
+After Tuesday, no more lettuce. Never again.
+
+I can still see that lady's eyes..
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032BPXQ:why_do_we_have_to_buy_this_new?:s._herman_"wingnut25"
+</unique_id>
+<asin>
+B00032BPXQ
+</asin>
+<product_name>
+Dole USA # 1 Iceberg Lettuce, 1 ct: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+9 of 15
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Why do we have to buy this new?
+</title>
+<date>
+August 11, 2006
+</date>
+<reviewer>
+S. Herman "wingnut25"
+</reviewer>
+<reviewer_location>
+Detroit
+</reviewer_location>
+<review_text>
+Why doesn't Amazon allow people to sell *used* lettuce? I bought "To Kill a Mockingbird" used last week via amazon and saved about 90% off the original price. I don't think it's fair that they are not allowing us to sell it used via Paypal.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000IDOB5Y:don't_buy_as_a_gift!!:paul_stone
+</unique_id>
+<asin>
+B000IDOB5Y
+</asin>
+<product_name>
+Elk Carcass: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+20 of 35
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Don't buy as a gift!!
+</title>
+<date>
+September 21, 2006
+</date>
+<reviewer>
+Paul Stone
+</reviewer>
+<reviewer_location>
+bay area, CA USA
+</reviewer_location>
+<review_text>
+I know of many people who would love to have an elk carcass for their holiday.  Birthdays, Christmas, Hanukkah, Martin Luther King Jr.'s Birthday Observed, Grandparent's Day, etc. are all holidays where a big piece of elk meat could brighten someone's day.  But watch out!!! I have often used Amazon in order to buy gifts, and with this elk carcass GIFT WRAPPING IS NOT AN OPTION.  I would think that half the fun of giving a huge elk carcass would be watching the look on your loved one's face as he or she unwrapped the slab of meat.  Unfortunately, Amazon does not think this is so.  With the weight of the product, I think it is going to be difficult to wrap this on my own.  Sorry Uncle Tino, no elk carcass for Columbus Day this year! 
+</review_text>
+</review>
+<review>
+<unique_id>
+B00013C2QQ:disappointed_with_the_gift_basket:mary_anne
+</unique_id>
+<asin>
+B00013C2QQ
+</asin>
+<product_name>
+The Newporter: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Disappointed with the gift basket
+</title>
+<date>
+July 26, 2005
+</date>
+<reviewer>
+Mary Anne
+</reviewer>
+<reviewer_location>
+Florida
+</reviewer_location>
+<review_text>
+I'm very disappointed with this gift basket. The contents that I received were far less than as pictured and described in the web page. The price of $85.90 is very expensive for this item and definitely not worth it. I ordered 4 items from Wine Country Gift Baskets totalling over $230 and had to return all items due to unsatisfactory products/contents. I spent almost $30 in shipping charges which they refused to reimburse me. I would never order or recommend Wine Country Gift Basket to anyone
+</review_text>
+</review>
+<review>
+<unique_id>
+B0005YLTJW:best_is_now_worst:mcrumi
+</unique_id>
+<asin>
+B0005YLTJW
+</asin>
+<product_name>
+King Oscar Brisling Sardines In Olive Oil, 4 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Best is now worst
+</title>
+<date>
+April 9, 2007
+</date>
+<reviewer>
+McRumi
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+These used to be the best sardines before Bumble Bee bought King Oscar. 16-24 delectable Brisling sardines in excellent Olive Oil. Couldn't find better. Now, instead of the advertised small 16-24 Brislings, you will find 8-11 large bony and un-appetizing sardines. Crap
+</review_text>
+</review>
+<review>
+<unique_id>
+B000B6FKB2:bait_&_switch!!:james_ferrenburg_"coffee_lover"
+</unique_id>
+<asin>
+B000B6FKB2
+</asin>
+<product_name>
+Philips Killarney Pods for Senseo Coffee Maker 00356: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Bait & Switch!!
+</title>
+<date>
+April 15, 2007
+</date>
+<reviewer>
+James Ferrenburg "Coffee lover"
+</reviewer>
+<reviewer_location>
+Newman Lake, WA
+</reviewer_location>
+<review_text>
+Product ad states 64 pods but they only shipped 16! When I called all they would refund was shipping, then I complained and they said $8 refund. So I asked for a return shipping lable and FULL refund. The CSR Amy was kind but her options from J&R were unacceptable
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DBN1G:not_my_favorite_red_bush_tea:c._harry
+</unique_id>
+<asin>
+B0000DBN1G
+</asin>
+<product_name>
+Tazo African Red Bush Tea, 24 Tea Bags: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+6 of 10
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Not my favorite red bush tea
+</title>
+<date>
+November 10, 2005
+</date>
+<reviewer>
+C. Harry
+</reviewer>
+<reviewer_location>
+California
+</reviewer_location>
+<review_text>
+Personally, I didn't like Tazo's Red Bush Tea very much.  I've had three different kinds of roiboos teas so far and this was my least favorite.  It seems like the flavor of roiboos itself is pretty mild, and in the case of Tazo's tea, the flavors they add completely overwhelm it.  I found that I had to remove the tea bag very quickly lest the cup become overwhelmingly lemony and acidic.  Perhaps other pallettes will appreciate the strength of those flavors.  Personally, I couldn't wait to finish off the box so that I could find a better flavor.
+
+The other roiboos teas I have tried have had a milder mix of flavors, to a much better overall effect.  My personal choice right now is Trader Joe's Orange Spice Roiboos, which apparently can be bought in some, but not all of their stores.  The orange flavor is much less up front than the lemon & citrus flavors in the tazo tea, and the overall effect of the other spices is very nice.  The tea smells a lot like other spiced foods (pumpkin pie comes to mind) and is very nice on a gloomy afternoon.  Also unlike the Tazo version, the flavor of this tea gets nicer and richer the longer you let the tea bag steep, although even just pouring the water over the bag and leaving it for a few seconds is usually enough for a nice cup.  Admittedly, there are a lot of other roiboos teas I have not tried, but this one has been a hit with me because of its good flavor and local availability.
+
+Keep in mind this is not the opinion of a tea expert, and I have never had roiboos tea in Africa so I don't know what it is supposed to taste like in its authentic presentation.  Just my personal taste
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EVMNLY:i_learned_my_lesson...:b._lin_"crazeegui"
+</unique_id>
+<asin>
+B000EVMNLY
+</asin>
+<product_name>
+Haribo Gummi Candy, Super Cola Bottles, 5-Pound Bag: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 2
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+i learned my lesson...
+</title>
+<date>
+January 30, 2007
+</date>
+<reviewer>
+B. Lin "crazeegui"
+</reviewer>
+<reviewer_location>
+Plano, TX USA
+</reviewer_location>
+<review_text>
+i bought this 5 pound bag of candy because the reviews were all beaming about how good these are and i've bought the gummy frogs in the past and liked those so i thought i'd give this a try. These are gross... not only that, but they're huge. i recommend the gummi frogs as a better alternative. Now i know to try out the candy in a smaller portion first,before investing in my next 5 pound bag. 2 stars because well it's not fair to people who like these to say they are absolutely terrible, but still, now i have a 5 pound bag of candy i have to get rid of
+</review_text>
+</review>
+<review>
+<unique_id>
+B000K1CBTC:save_your_money_for_something_better:marmar_"bargain_hunter"
+</unique_id>
+<asin>
+B000K1CBTC
+</asin>
+<product_name>
+Sugar-Free Chocolate Walnut Fudge 1 lb. - Wisconsin Cheeseman: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+save your money for something better
+</title>
+<date>
+March 9, 2007
+</date>
+<reviewer>
+marmar "bargain hunter"
+</reviewer>
+<reviewer_location>
+cold northland
+</reviewer_location>
+<review_text>
+I use a variety of sugar free products including others by Wisconsin Cheeseman.  How they missed so badly on this product amazes me.  Normally I like the items from thier list but this fudge sent me into a severe bout of bathroom time after eating 2 small pieces.  Don't know if it was a batch with the ingredient mix off but once was enough to have me tossing the rest of the package in the trash.  No way would I recommend this for ANYONE.  Try the cherry cordials or the peanut butter cups but leave this off your list. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B000J23ZN8:this_is_not_a_donut!:donutsnyc_"donut_lover"
+</unique_id>
+<asin>
+B000J23ZN8
+</asin>
+<product_name>
+Sugar-Free Gourmet Doughnuts-Assorted 6 pk.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+this is not a donut!
+</title>
+<date>
+March 16, 2007
+</date>
+<reviewer>
+donutsnyc "donut lover"
+</reviewer>
+<reviewer_location>
+nyc
+</reviewer_location>
+<review_text>
+Okay,i just got my UPS delivery.
+1) these are half the size of a real donut.
+2) dry,overpriced and just terrible
+3) no flavor and horrible presentation
+4) totally overpriced and not worth the money
+
+I recently bought the low fat donuts recommended in the oct issue of "Every Day With Rachael Ray" Holey Donuts Ultra Low Fat Gourmet Donuts and these low fat donuts are full size,packed and shipped in a frozen cooler and oh my god they have REAL cinnamon buns that have 3 grams of fat,double the size and yes they cost more but everything arrives frozen ,thaws soft and moist and just blows this way
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001UK0C2:not_a_light_roast:kate_shanahan
+</unique_id>
+<asin>
+B0001UK0C2
+</asin>
+<product_name>
+Costa Rica Light Roast Whole Bean Gourmet Coffee: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 3
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Not a light roast
+</title>
+<date>
+July 8, 2006
+</date>
+<reviewer>
+Kate Shanahan
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+This was disappointing.  Someone should define light roast or standardize the roasting process.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328MQY:a_lot_of_waste.:right_face_"concerned_citizen"
+</unique_id>
+<asin>
+B000328MQY
+</asin>
+<product_name>
+Fresh Spanish Onions, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+A lot of waste.
+</title>
+<date>
+April 2, 2007
+</date>
+<reviewer>
+Right Face "concerned citizen"
+</reviewer>
+<reviewer_location>
+Florida
+</reviewer_location>
+<review_text>
+At first glance the price sounds reasonable, but wait until you peel these things. Strip off the peel and there's another one. Peel that off and there's another one underneath. I removed the third one and, you guessed it, another one beneath that. Frustrated, I kept peeling and peeling and finally, right at the center, was this tiny little sliver. After peeling the whole bag I was left with only about an ounce of this pungent vegetable. Talk about a ripoff
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328MQY:worst_mp3_player_ever:francisco_arteaga
+</unique_id>
+<asin>
+B000328MQY
+</asin>
+<product_name>
+Fresh Spanish Onions, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Worst mp3 player ever
+</title>
+<date>
+March 3, 2007
+</date>
+<reviewer>
+Francisco Arteaga
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I tried changing the setting to English but it only had Spanish and French. Every time I plug in my headphones the shell peeled off. Changing the music sucked and it only gave me 3 hours of battery life. I was better of with an ipod or even a cheesy zune. Beware buyers this product sucks
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328MQY:it's_a_sham:the_great_frederico_bananapants
+</unique_id>
+<asin>
+B000328MQY
+</asin>
+<product_name>
+Fresh Spanish Onions, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+14 of 18
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+IT'S A SHAM
+</title>
+<date>
+August 6, 2006
+</date>
+<reviewer>
+The Great Frederico Bananapants
+</reviewer>
+<reviewer_location>
+Happytown, U.S.A.
+</reviewer_location>
+<review_text>
+Two weeks ago I saw these onions out behind the Denny's on 81st. They were speaking perfect English. Not a hint of a Spanish accent. Then just yesterday I was at a rendition of Cat on a Hot Tin Roof and I saw one of them pretending to be German. It's all a SHAM!!! These are simple American onions trying to be pretentious and pass themselves off as something exotic. Don't believe the hype
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328MQY:what_wrong_with_white_onions?:joe_blow_"blow,_joe"
+</unique_id>
+<asin>
+B000328MQY
+</asin>
+<product_name>
+Fresh Spanish Onions, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+11 of 15
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+What wrong with White Onions?
+</title>
+<date>
+August 6, 2006
+</date>
+<reviewer>
+Joe Blow "Blow, Joe"
+</reviewer>
+<reviewer_location>
+Chicago
+</reviewer_location>
+<review_text>
+Boycott these onions! They are taking away all the jobs from perfectly good white onions!
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328MQY:stephen_garcia_must_have_really_doo_doo_skunky_breath:ronnie_clay_"r.c."
+</unique_id>
+<asin>
+B000328MQY
+</asin>
+<product_name>
+Fresh Spanish Onions, 1 lbs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 18
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Stephen Garcia must have really doo doo skunky breath
+</title>
+<date>
+November 20, 2005
+</date>
+<reviewer>
+Ronnie Clay "R.C."
+</reviewer>
+<reviewer_location>
+Winnsboro, Louisiana
+</reviewer_location>
+<review_text>
+I hate all kinds of onions I don't want to have stank breath. The taste of those vegtables don't even taste right. I wish God never made onions
+</review_text>
+</review>
+<review>
+<unique_id>
+B00013C2OI:takes_forever!:s._hochman
+</unique_id>
+<asin>
+B00013C2OI
+</asin>
+<product_name>
+Ultimate Office Party: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Takes Forever!
+</title>
+<date>
+January 5, 2007
+</date>
+<reviewer>
+S. Hochman
+</reviewer>
+<reviewer_location>
+Boca Raton, FL United States
+</reviewer_location>
+<review_text>
+We were happy with the gift baskets that were delivered. However the company only has one distribution center in California, which is obviously not efficient to deliver to the East Coast. 
+Despite the company's ambitions to become a national company, they are not willing to pony up the money to get additional distribution facilities outside of California. 
+This maybe great if you live in California. However I live in Florida and I ordered on December 22 and my basket did not arrive until January 4th. I think that would be unacceptable in anyone's view, espescially since giving a gift basket can be time-sensitive. 
+Until this company gets with the program and gets other distribution facilities I would stay away unless you want to wait two weeks for a simple basket to be delivered.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032G1S0:beware!:e._johnson
+</unique_id>
+<asin>
+B00032G1S0
+</asin>
+<product_name>
+Tuscan Whole Milk, 1 Gallon, 128 fl oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+5 of 6
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Beware!
+</title>
+<date>
+April 13, 2007
+</date>
+<reviewer>
+E. Johnson
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I must write quickly, for soon, soon, the Milk will awake within me again.  And it will know, but you will have been warned.  The Milk will punish me, but it knows it must have a host, so I will survive - tormented and trapped within myself, but I will continue to exist, though I live in nightmare now.
+
+Beware!  Beware the Milk!  For the Milk lives.  I too was once tempted by the smooth, sweet creaminess of Tuscan Milk, 1 Gallon, 128 Fl Oz.  I too read the odes written to its greatness, not knowing that the Milk was forcing it's hosts to speak of the goodness of the Milk that the Milk might spread, that it might acquire new hosts in which to live, and to spread, to spread, to spread.
+
+Beware the sweet seduction of the Milk!  Ah - the bittersweet memories of that first gallon.  How smooth, how creamy, how exhilarating, uplifting, fulfilling and enlightening!  How free it made me feel!  But then came that terrible moment when in my home town supermarket, I reached for a gallon of store brand milk, and felt the pain.  Oh, the pain the Milk can give!  Equal in intensity to the first joy that the Milk can give, but pain!  Terrible pain!  Words alone cannot describe it!
+
+And now, I live in fear of the Milk, a Slave to the joy and the pain it can give.  Oh, the shame I feel that I must come to the Milk like a supplicant, begging for the pleasure it can give.  And the cowardice that I feel, knowing that I cannot face the pain it can inflict.
+
+Beware!  Do not let this be your fate!
+
+And now, I must go... the Milk stirs inside me, and it will be angry.  But perhaps, perhaps, it is not too late for you...
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032G1S0:better_idea:a._filer
+</unique_id>
+<asin>
+B00032G1S0
+</asin>
+<product_name>
+Tuscan Whole Milk, 1 Gallon, 128 fl oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 9
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Better Idea
+</title>
+<date>
+March 27, 2007
+</date>
+<reviewer>
+A. Filer
+</reviewer>
+<reviewer_location>
+Sacramento, CA USA
+</reviewer_location>
+<review_text>
+Try saving your money and buying ordinary half and half, mix it with some whole milk and pour in a tiny bit of sugar. MMMMMMMmmmmm. How do you know all these reviews weren't planted
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007NCH56:do_not_use_in_senseo:jennifer_lynn_hull_"4_under_5"
+</unique_id>
+<asin>
+B0007NCH56
+</asin>
+<product_name>
+15 French Vanilla Flavored Java Podz Individually-Wrapped Gourmet Coffee Pods (packed in a practical easy-zipper ziploc ® bag): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 3
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Do not use in Senseo
+</title>
+<date>
+May 25, 2005
+</date>
+<reviewer>
+Jennifer Lynn Hull "4 under 5"
+</reviewer>
+<reviewer_location>
+Mariposa, CA, USA
+</reviewer_location>
+<review_text>
+We bought these for the Senseo- the ad says it is compatable but its not! Buyers beware- I almost broke my Senseo trying to use them- The Senseo got stuck closed and I had to wait for it to let go of the vacuum. I think its because there is more coffee in these.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007NCH56:very_weak:deb_"debbie"
+</unique_id>
+<asin>
+B0007NCH56
+</asin>
+<product_name>
+15 French Vanilla Flavored Java Podz Individually-Wrapped Gourmet Coffee Pods (packed in a practical easy-zipper ziploc ® bag): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Very Weak
+</title>
+<date>
+May 3, 2005
+</date>
+<reviewer>
+Deb "Debbie"
+</reviewer>
+<reviewer_location>
+Orange, California
+</reviewer_location>
+<review_text>
+The Java Podz coffee pads do not fit well in the Senseo coffee maker. One pad fits in the two cup holder. It makes a very weak cup of coffee. I ordered a large supply and will probably throw them out
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006TN01G:this_is_a_spice_mix,_not_actual_harissa:theappleguy
+</unique_id>
+<asin>
+B0006TN01G
+</asin>
+<product_name>
+Tunisian Harissa: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+this is a spice mix, not actual harissa
+</title>
+<date>
+March 18, 2007
+</date>
+<reviewer>
+theappleguy
+</reviewer>
+<reviewer_location>
+Vancouver, BC, Canada
+</reviewer_location>
+<review_text>
+beware  - this is a spice mixture only, not actual harissa
+
+Not what I intended to order, but the ad wasn't clear. 
+
+Harissa as I ate it in North Africa was a pulpy mash of peppers and spices, some oil. Fantastic stuff.
+
+I recommend Mustapha's Moroccan Harissa - it was terrific.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0004M14OA:yankee_doodles_do_not_hold_their_weight_in_the_snack_food_world:andrew_arpin_"snack_cake_expert"
+</unique_id>
+<asin>
+B0004M14OA
+</asin>
+<product_name>
+Drake's Yankee Doodles, 12 In A Box, 11 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Yankee Doodles do not hold their weight in the snack food world
+</title>
+<date>
+December 29, 2006
+</date>
+<reviewer>
+Andrew Arpin "Snack Cake Expert"
+</reviewer>
+<reviewer_location>
+Moosup, CT
+</reviewer_location>
+<review_text>
++ Creme Filling
+
++ I suppose they taste alright if you can prevent them from falling apart all over the floor.
+
+- You cannot prevent them from falling apart all over the floor.
+
+- They are unbelievably dry
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001K5KRC:4-star_taste,_2-star_ingredients:h._touhy
+</unique_id>
+<asin>
+B0001K5KRC
+</asin>
+<product_name>
+Old World Italian Cocoa Mixes By Bellagio: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 2
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+4-star taste, 2-star ingredients
+</title>
+<date>
+February 19, 2006
+</date>
+<reviewer>
+H. Touhy
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+This stuff is tasty but caveat emptor: it's glorified non-dairy creamer, which is the first ingredient. Enjoy this with artificially flavored vanilla sandwich cookies
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DZBLD:credit_card_charged_for_items_not_in_stock:mark_guzowski
+</unique_id>
+<asin>
+B0000DZBLD
+</asin>
+<product_name>
+Azteca D'oro 1519 Mexican Spiced Cocoa, 3-pack of 14oz Cans: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+9 of 20
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Credit card charged for items not in stock
+</title>
+<date>
+March 9, 2004
+</date>
+<reviewer>
+Mark Guzowski
+</reviewer>
+<reviewer_location>
+Idaho Falls, Idaho USA
+</reviewer_location>
+<review_text>
+Amazon's site made no mention of the products not being in stock, charged my cc, and then mocafe held the order without mentioning that shipment was backordered.  My first call to mocafe received a nebulous response along with an offer to leave a voice mail for someone else, and my second call (upon not receiving a return call) revealed the real facts.  Having a credit card charged for items not in stock is *not* cool.  Beware
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009V618U:whoa!?!_does_anyone_realize_how_inexpensive_hot_sauce_is???:james_roche_"cooljames"
+</unique_id>
+<asin>
+B0009V618U
+</asin>
+<product_name>
+Hot Sauce of the Month Club - 6 Months Subscription: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 4
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Whoa!?! Does anyone realize how inexpensive hot sauce is???
+</title>
+<date>
+September 26, 2006
+</date>
+<reviewer>
+James Roche "cooljames"
+</reviewer>
+<reviewer_location>
+Seattle, WA United States
+</reviewer_location>
+<review_text>
+How can the vendor justify this kind of pricing? It must be all shipping. Do yourself a favor. Go out of your house and hunt for hot sauces. While it would be too simple to say "they're all the same", there's definitely not a lot of difference within the same manufacturer. I'd get this for a gift for someone, but for myself I'd rather enjoy the hunt.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032DVP6:tastes_like_someone_had_a_heavy_hand_with_the_pizza_seasonings!:
+</unique_id>
+<asin>
+B00032DVP6
+</asin>
+<product_name>
+Hot Pockets Four Cheese Pizza, 2 Count Frozen Food, 9 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Tastes Like Someone Had A Heavy Hand With The Pizza Seasonings!
+</title>
+<date>
+March 11, 2006
+</date>
+<reviewer>
+
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I have liked other Hot Pockets, like the ham and cheese is not bad if you spread some mustard on them but I think they over spiced the Pizza Hot Pockets. They taste kind of strong and weird
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E5GJRY:a_disappointment:merovins_"raewyn_tonner"
+</unique_id>
+<asin>
+B000E5GJRY
+</asin>
+<product_name>
+Tasty Bite Green Curry Vegetables & Jasmine Rice, 12-Ounce Boxes (Pack of 6): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+A disappointment
+</title>
+<date>
+January 19, 2007
+</date>
+<reviewer>
+Merovins "Raewyn Tonner"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I am a huge fan of most of the Tasty Bite meals. I'd tried almost all of the Indian flavors and had never been let down. I ordered the Green Curry meal without ever having tried it before based on the good reviews here and my past experiance. Unfortuantly, I found it to be nearly inedible. The rice is clumpy and unpleasant and the spicing was just... wrong. I love Thai Green Curry, and this tasted nothing like it. I still recommend the Indian Tasy Bite Meals, but track a box of this down and sample it before you commit to a pack of 6.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EVMNOQ:not_like_other_haribo_gummis:dm_"dm"
+</unique_id>
+<asin>
+B000EVMNOQ
+</asin>
+<product_name>
+Haribo Gummi Candy, Raspberries, 5.0-Ounce Bags (Pack of 12): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not like other Haribo gummis
+</title>
+<date>
+April 4, 2007
+</date>
+<reviewer>
+DM "dm"
+</reviewer>
+<reviewer_location>
+Natick, MA
+</reviewer_location>
+<review_text>
+Don't order a case of these if you've never had them.  I love all the other Haribo gummies I've had (bears, cokes, burgers, etc), but found these weird and didn't enjoy them.  I'm probably just not used to crunchy things on my gummies, but I gave the rest of the case away
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EVMNOQ:stale_candy:susan_r._boldrey
+</unique_id>
+<asin>
+B000EVMNOQ
+</asin>
+<product_name>
+Haribo Gummi Candy, Raspberries, 5.0-Ounce Bags (Pack of 12): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+stale candy
+</title>
+<date>
+January 10, 2007
+</date>
+<reviewer>
+Susan R. Boldrey
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I really like these and was excited I found them online although after receiving them they were to stale and hard to eat
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006VBIFY:great_design,_poor_quality:norm_s
+</unique_id>
+<asin>
+B0006VBIFY
+</asin>
+<product_name>
+Bodum Vacuum Travel Flask: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+10 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Great Design, Poor Quality
+</title>
+<date>
+June 27, 2006
+</date>
+<reviewer>
+Norm S
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+This carafe was initially perfect.  The design is attractive and simple, and it fits well in my bag in the mornings.  The problem then began that keeping liquids boiling hot would cause it to explode after being jostled in on my morning commute.  
+
+I attempted to remedy this by cooling my morning coffee or tea in the morning, although I felt this was partially defeating the purpose of bringing in my own coffee or tea.  Then it became an issue that the liquid would either leak or shoot out of the carafe after being turned the slightest direction other than straight up.  I'd suggest saving yourself the trouble and tea stained clothes by buying a different carafe altogether
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006VBIFY:disappointed:deedub_"deedub"
+</unique_id>
+<asin>
+B0006VBIFY
+</asin>
+<product_name>
+Bodum Vacuum Travel Flask: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+11 of 11
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Disappointed
+</title>
+<date>
+April 28, 2006
+</date>
+<reviewer>
+deedub "deedub"
+</reviewer>
+<reviewer_location>
+Los Angeles, CA
+</reviewer_location>
+<review_text>
+My flask leaks when I carry it in my bag to work.  I am very disappointed with it.  I am shopping for a new one and will look for another brand
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032G1XK:arrive_by_christmas?:they_call_me_kitty_cat
+</unique_id>
+<asin>
+B00032G1XK
+</asin>
+<product_name>
+Tuscan 2% Low Fat Milk, 1 Gallon, 128 fl oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+5 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Arrive by Christmas?
+</title>
+<date>
+January 6, 2007
+</date>
+<reviewer>
+They Call Me Kitty Cat
+</reviewer>
+<reviewer_location>
+Seattle WA
+</reviewer_location>
+<review_text>
+My daughters (ages 6 and 8) pleaded with me for Tuscan 2% Milk for Christmas.  I ordered two gallons nearly a week ago and they did not arrive on time.  The girls were heartbroken.
+
+And how embarrassing to have to leave a cup of water and cookies for Santa. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032G1XK:buy_american!:s._herman_"wingnut25"
+</unique_id>
+<asin>
+B00032G1XK
+</asin>
+<product_name>
+Tuscan 2% Low Fat Milk, 1 Gallon, 128 fl oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Buy American!
+</title>
+<date>
+October 30, 2006
+</date>
+<reviewer>
+S. Herman "wingnut25"
+</reviewer>
+<reviewer_location>
+Detroit
+</reviewer_location>
+<review_text>
+I know that American milk has been suffering from quality issues for the past few decades. Many american milks are catching up in initial quality and now have better warranties than foreign milks. Yes, union wages and pensions have driven up the cost of American milk, but hey, we're talking about cows jobs here people! Buy American!
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032G1XK:cease_and_desist:_
+</unique_id>
+<asin>
+B00032G1XK
+</asin>
+<product_name>
+Tuscan 2% Low Fat Milk, 1 Gallon, 128 fl oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Cease and Desist
+</title>
+<date>
+October 8, 2006
+</date>
+<reviewer>
+_
+</reviewer>
+<reviewer_location>
+California
+</reviewer_location>
+<review_text>
+This is Guido Sarduci from the Royal Tuscan Office of Copyrights and Internets and I must insist that you cease any and all sales of theese so called "Tuscan Whole Milks" immediately or I will have to come there and beat you up and then my mom came upstairs and saw me fighting and she got scared and said "You're moving with your auntie and uncle in Bel Air!" I whistled for a cab and when it came near, the license plate said "FRESH" and it had dice in the mirror. If anything I could said that this cab was rare, but I though "Nah, forget it. Yo home, to Bel Air!" I pulled up to the house about 7 or 8 and I said to the cabbie "Yo home, smell ya later!" Looked at my kindom, I was finally there, I could sit on my throne as the prince of Bel Air.   Love me sum Tuscan
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001Z888A:warning:_contains_msg:s._bartell_"abiding_dude"
+</unique_id>
+<asin>
+B0001Z888A
+</asin>
+<product_name>
+Smoked Salmon Jerky, 2 pounds: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+WARNING: CONTAINS MSG
+</title>
+<date>
+December 15, 2005
+</date>
+<reviewer>
+S. Bartell "abiding dude"
+</reviewer>
+<reviewer_location>
+Atlanta, GA USA
+</reviewer_location>
+<review_text>
+I love salmon and was very excited about having salmon jerky to keep at the office and take camping and skiing... until I got my order and found out that both flavors contain MSG, which gives some people (like me) whopping headaches.  My wife thinks this jerky is okay apart from the processed texture and our dogs love it, but I won't be trying it.  To be fair, you might like this product if you aren't sensitive to MSG, but the seller should have noted that it contains a modern ingredient that causes adverse reactions in some people instead of describing it as being "made the old fashioned way."  On the plus side, shipping was very quick.  
+   
+</review_text>
+</review>
+<review>
+<unique_id>
+B00012175O:be_careful!:t._smith
+</unique_id>
+<asin>
+B00012175O
+</asin>
+<product_name>
+Blood Sausage - 4 Links: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 14
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Be careful!
+</title>
+<date>
+January 4, 2007
+</date>
+<reviewer>
+T. Smith
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I must admit, the first one that I ate was indeed tasty though slightly undercooked.  However, the second one was much less cooked and when I went to cut it, blood from the sausage squirted into my eye.  Now I am beside myself because I remembered my wife going on one night about blood- borne diseases.  I am scared that I might have unwittingly acquired Hepatitus or AIDS.  My wife told me not to worry because the animals the sausages are made from do not carry these diseases.  I refuse to take any chances because my wife and I are having problems.  I still await the results from the blood tests my doctor ordered.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ80B:cooks_up_to_a_lousy_burger:dwight
+</unique_id>
+<asin>
+B0000DJ80B
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (16) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+cooks up to a lousy burger
+</title>
+<date>
+September 12, 2006
+</date>
+<reviewer>
+Dwight
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+These are thin solid and dark patties that cook up tasteless, juiceless and unburgerlike in texture.  Completely unlike their advertising and unlike the regular beef patties sold at the supermarket.  I will never buy Omaha Steak products again.
+
+Omaha Steaks' customer representatives are very nice however.  I wrote to them telling them about my experience and they said I could dump the scary meat and they would credit my card.  Thank you very much.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ80B:these_have_gone_way_downhill_in_quality:rko_"radiopictures"
+</unique_id>
+<asin>
+B0000DJ80B
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (16) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+These have gone way downhill in quality
+</title>
+<date>
+May 8, 2005
+</date>
+<reviewer>
+RKO "radiopictures"
+</reviewer>
+<reviewer_location>
+Los Angeles, Ca USA
+</reviewer_location>
+<review_text>
+Years ago, these really were ground steak burgers with a very special flavor.  The most recent shipment I had was tastless with an unusually chewy texture.  Not recommended
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ80B:eh....:steven_t._moore_"zerostar39"
+</unique_id>
+<asin>
+B0000DJ80B
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (16) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+15 of 17
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+eh....
+</title>
+<date>
+June 18, 2004
+</date>
+<reviewer>
+Steven T. Moore "zerostar39"
+</reviewer>
+<reviewer_location>
+Harrisburg, PA United States
+</reviewer_location>
+<review_text>
+These were good burgers...BUT I did not find anything special about them. I could go to the supermarket near my house and get some ground beef and make my own for  A LOT less money, and they would taste just as good. These are good, but not worth the extra money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000ET07E:tastes_awful!!!!!!!!!!!:cfb
+</unique_id>
+<asin>
+B0000ET07E
+</asin>
+<product_name>
+Johnny's Popcorn Salt 4.75 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Tastes awful!!!!!!!!!!!
+</title>
+<date>
+January 19, 2007
+</date>
+<reviewer>
+CFB
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+We do not like this product.  My whole family thinks it tastes awful.  Granted, we've never used flavored popcorn salt of any brand before. We all agree that we prefer plain salt on our popcorn.  And, if we want butter, we melt butter.  This product just taste like chemicals
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006ZN50Q:not_my_cup_of_tea...:j._webb
+</unique_id>
+<asin>
+B0006ZN50Q
+</asin>
+<product_name>
+Freeze Dried Peaches - 8 Ounce Can: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not My Cup of Tea...
+</title>
+<date>
+November 4, 2006
+</date>
+<reviewer>
+J. Webb
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I got a bad batch and was sent another to try out. It was better but still not what I expected. On both, the pieces were very small for some reason. I was looking for some like the ones in MREs, which are excellent. These may be OK for cooking, but not what I wanted. This company's customer service is top notch though
+</review_text>
+</review>
+<review>
+<unique_id>
+B000ITLPW0:nice_gift_basket_but_inferior_quality_control.:sml
+</unique_id>
+<asin>
+B000ITLPW0
+</asin>
+<product_name>
+Starbucks Sonata: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Nice gift basket but inferior quality control.
+</title>
+<date>
+January 15, 2007
+</date>
+<reviewer>
+SML
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Purchased as a gift to client. The gift basket arrived on time and the recipient commented on how nice the basket was. But one of the cups was chipped. They could not find the chipped piece so we don't know whether or not the break occurred during shipping or not. Either way better care could have been used to insure that the cups are in perfect condition upon arrival. I'm very disappointed especially since this was sent as a gift to an important client. Starbucks coffee and mugs are great corporate gifts but I would choose another company to handle the gift baskets. Will not use them again
+</review_text>
+</review>
+<review>
+<unique_id>
+B000ITLPW0:worst_shipping:s._yoon_"unhappy_customer"
+</unique_id>
+<asin>
+B000ITLPW0
+</asin>
+<product_name>
+Starbucks Sonata: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+WORST SHIPPING
+</title>
+<date>
+January 4, 2007
+</date>
+<reviewer>
+S. Yoon "unhappy customer"
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+I ordered this item on December 13, but it's not deilivered yet as of Jan 3. HORRIBLE SHIPPING!!!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000SWYS8:too_little_for_too_much_!:stephen_d._everman
+</unique_id>
+<asin>
+B0000SWYS8
+</asin>
+<product_name>
+Sugar Free Jelly Belly Jelly Beans Assorted: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Too little for too much !
+</title>
+<date>
+September 24, 2006
+</date>
+<reviewer>
+Stephen D. Everman
+</reviewer>
+<reviewer_location>
+Sunnyvale, California United States
+</reviewer_location>
+<review_text>
+I ordered this product expecting at least a pound of candy.  There is no information on the bag to tell you the amount you are getting but it is not near a pound.
+
+Each jelly bean is separately wrapped to make it look like more and when you get in at them they do not taste good.  You are probably used to Jelly Bellies, but these are not Jelly Bellies.  There flavor is medium at best.  I would not buy this product again
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000SWYS8:overpriced?:wendy_in_rochester_ny
+</unique_id>
+<asin>
+B0000SWYS8
+</asin>
+<product_name>
+Sugar Free Jelly Belly Jelly Beans Assorted: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+11 of 11
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Overpriced?
+</title>
+<date>
+February 27, 2006
+</date>
+<reviewer>
+Wendy in Rochester NY
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I just purchased this product from a high-end, specialty gift shop for $6.00.  It was the exact same item
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000SWYS8:lack_of_information.............:neva_white_"catherine_white"
+</unique_id>
+<asin>
+B0000SWYS8
+</asin>
+<product_name>
+Sugar Free Jelly Belly Jelly Beans Assorted: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+23 of 25
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Lack of Information.............
+</title>
+<date>
+December 2, 2005
+</date>
+<reviewer>
+Neva White "Catherine White"
+</reviewer>
+<reviewer_location>
+Yuma, AZ
+</reviewer_location>
+<review_text>
+What is the weight of this product?  Am I paying for one ounce or one pound?
+
+It's frustrating to be about to place an order and find vital info is missing.
+
+Catherine in Yuma, A
+</review_text>
+</review>
+<review>
+<unique_id>
+B00014VTNW:oh_you_limeys_!:brian_m._somma_"brian_somma"
+</unique_id>
+<asin>
+B00014VTNW
+</asin>
+<product_name>
+Marmite 125g: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 18
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Oh you limeys !
+</title>
+<date>
+November 12, 2006
+</date>
+<reviewer>
+Brian M. Somma "Brian Somma"
+</reviewer>
+<reviewer_location>
+Yuba City, CA
+</reviewer_location>
+<review_text>
+It never ceases to amaze me that you Brits eat this horrific dog food-paste. 
+
+No wonder you lost the revolutionary war.  
+
+It's clear from you eating Marmite and Vegamite that you never deserved those colonies anyway
+</review_text>
+</review>
+<review>
+<unique_id>
+B000328N5Y:horrible_experience_ever:francisco_arteaga
+</unique_id>
+<asin>
+B000328N5Y
+</asin>
+<product_name>
+Fresh Super Select Cucumbers, 2 pack: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Horrible experience ever
+</title>
+<date>
+March 5, 2007
+</date>
+<reviewer>
+Francisco Arteaga
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I bought this to give my love life some spice.  This product is horrible Amazon lies; it does not support AA batteries. It only takes triple A and it only has one setting
+</review_text>
+</review>
+<review>
+<unique_id>
+B000KJMIFG:plastic_popcorn_bowl:michael_crowell
+</unique_id>
+<asin>
+B000KJMIFG
+</asin>
+<product_name>
+Popcorn Bowl - Golden Rod: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+PLASTIC popcorn bowl
+</title>
+<date>
+December 4, 2006
+</date>
+<reviewer>
+Michael Crowell
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I just paid $15 dollars (after shipping) for this cheap looking plastic popcorn bowl that was supposed to be a gift for my sister. Bah Humbug!!! Did I mention it is plastic. IT'S PLASTIC!!!!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007Y4ZTG:no_thanks...:daniel_stout
+</unique_id>
+<asin>
+B0007Y4ZTG
+</asin>
+<product_name>
+15 Brownie Toffee Crunch Flavored Java Podz Individually-Wrapped Gourmet Coffee Pods (packed in a practical easy-zipper ziploc ® bag): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+No thanks...
+</title>
+<date>
+November 15, 2006
+</date>
+<reviewer>
+Daniel Stout
+</reviewer>
+<reviewer_location>
+Kingsport, TN
+</reviewer_location>
+<review_text>
+These are definitely not my thing.  The chocolate and toffee flavor is WAY too strong; if I'd have wanted hot cocoa I would have ordered it!  However, if you're a big fan of gas-station cappuccinos - these may appeal to you
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007Y4ZTG:no_flavor,_nice_smell:j._faye_abbott_"leo's_mom"
+</unique_id>
+<asin>
+B0007Y4ZTG
+</asin>
+<product_name>
+15 Brownie Toffee Crunch Flavored Java Podz Individually-Wrapped Gourmet Coffee Pods (packed in a practical easy-zipper ziploc ® bag): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+no flavor, nice smell
+</title>
+<date>
+September 17, 2005
+</date>
+<reviewer>
+J. Faye Abbott "Leo's Mom"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+VERY weak, in fact it was the last hope I had for my machine, which I am selling next week in a yard sale.  It was the color of tea.  Very bad. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007V1Q7I:foojoy_lungching...i_missed_the_"joy"_part:lokeedone_"lokeed4life"
+</unique_id>
+<asin>
+B0007V1Q7I
+</asin>
+<product_name>
+Foojoy Lungching (Dragonwell) Green Tea - 100 Individually Wrapped Tea Bags (7.0 Oz): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 7
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+FOOJOY LUNGCHING...I MISSED THE "JOY" PART
+</title>
+<date>
+September 24, 2005
+</date>
+<reviewer>
+lokeedone "lokeed4life"
+</reviewer>
+<reviewer_location>
+Rockford, Illinois United States
+</reviewer_location>
+<review_text>
+I thought that I would try out this product, since i've tried a number of green teas, and after trying this I was not at all impressed with it by any means.  I don't recommend this product...there was no kind of "flavor" to this to me, and i've been all over the orients.  Just my opinion, but hope someone else enjoys it better than I did
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ80Y:no_usda_grade_to_their_meat:a._lupher
+</unique_id>
+<asin>
+B0000DJ80Y
+</asin>
+<product_name>
+Omaha Steaks The Terrific Twosome: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+no USDA grade to their meat
+</title>
+<date>
+April 12, 2007
+</date>
+<reviewer>
+A. Lupher
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+Omaha doesn't grade their meat - consequently you don't know if you are purchasing Prime, Choice, Select or worse and from what we have sampled I doubt that it is any better then Select and maybe not that as we've had some skunked steaks
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002TA77A:first_excited,_then_disappointed....:lb
+</unique_id>
+<asin>
+B0002TA77A
+</asin>
+<product_name>
+Dark Roast 100% Kona Coffee Pods - Two-Cup style brews 48 cups - For Senseo, Home Cafe, Bunn: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+10 of 10
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+First excited, then disappointed....
+</title>
+<date>
+January 20, 2005
+</date>
+<reviewer>
+LB
+</reviewer>
+<reviewer_location>
+Manchester, MO USA
+</reviewer_location>
+<review_text>
+I really do like my Senseo coffee maker.  I, like others who have reviewed the Kona Pods here, was always searching for a better tasting coffee pod to use in the machine. I was excited to see that Kona now made pods and was also happy to see that they had a pod that was a '2 cup style'.  I have not found it to be a huge deal to use 2 smaller '1 cup' size pods, but it sounded nice to be able to just put one large pod in the machine instead of 2 smaller one.  
+
+After reading some of the reviews here, I could not figure out what some of the reviewers meant by the Kona pods making different amount of coffee per cup each time or how the coffee could be strange and undrinkable.  It just didn't make sense.  Well, it still doesn't make sense, but it certainly happened with the coffee I made using the Kona pods also.  
+
+My results were overall poor and it was very disappointing as the Kona pods cost a lot more than Folgers or other pod brands that I can buy locally. The first thing I noticed was that the coffee in the 2 cup sized Kona pods is packed in much more tightly than in any other pod I have ever used in my Senseo.  The instructions for the Kona pods say to wiggle the pods to break up the coffee before inserting into the machine.  The Kona pods feel very hard when taken out of their package.  I always  wiggled and jiggled the pods for about 10 seconds before putting them in the Senseo. After my problems with the Kona pods, my husband decided that I was not 'wiggling' them enough.  He promptly wiggled one to the point that it broke open.  So, there is just so much that can be done to the pod before putting it in the machine. 
+
+The first thing that I noticed was that the amount of coffee brewed when using the Kona pod was quite a bit less than when using 2 smaller pods.  That did not make much sense, but after several cups of Kona, it was obvious that there was never the amount of coffee coming out as before when using 2 small one cup pods.  The best I can figure out is that the Kona pods themselves seem to 'hold' a lot more water.  There is more water that remains in the pod itself after the brewing is done.  The pod itself is heavier when I take it out to throw it away.  So, I believe the reason that there is less actual coffee using Kona pods is that the pods themselves retain a lot more water and it cannot pass through into the coffee cup.  
+
+Then, as others have mentioned, there is the problem that happens to me about 1/2 the time when using the Kona pods.  The problem is that for whatever reason, the water does not actually go through and penetrate the Kona pods during the brewing cycle. The 'coffee' that is supposed to be coming out of the spout is just water!  This problem is one that I still cannot really figure out.  The Kona pods are a little smaller in diameter than all the other pods I have tried.  So, I guess that somehow the water has enough room to 'go around' the actual pod and come out of the spout without 'going through' the pod to brew coffee.  I also wonder if the paper filter of the Kona pods is different than other pods and for some reason the Kona paper is more difficult for water to penetrate.  I have tried wetting the Kona pod paper filter right before starting to brew the coffee thinking that perhaps it would help the water to penetrate the paper and pod.  But, that has not worked for me.  
+
+So, it is back to regular more reasonably priced coffee pods for me.  I have wasted too many expensive Kona pods trying to get a proper cup of coffee from them. Even when the Kona pods brew a cup of coffee, it is not as large of an amount of coffee as I get using other brands.  So, adding the cost of the Kona pods to the fact that it brews a smaller amount of coffee equals a product that is way too expensive when it does actually work. 
+
+I have been reading of a product called an EcoPod.  It is a refillable pod for these type of coffeemakers.  It might be the next thing I try. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002TA77A:senseo_machine_jammed:louis_leclerc_"crazy_canuck"
+</unique_id>
+<asin>
+B0002TA77A
+</asin>
+<product_name>
+Dark Roast 100% Kona Coffee Pods - Two-Cup style brews 48 cups - For Senseo, Home Cafe, Bunn: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Senseo machine jammed
+</title>
+<date>
+December 26, 2004
+</date>
+<reviewer>
+Louis Leclerc "Crazy Canuck"
+</reviewer>
+<reviewer_location>
+Smyrna, GA USA
+</reviewer_location>
+<review_text>
+Echoing other reviews, performance is not consistant.  One time we did get excellent coffee, this morning it jammed the Senseo machine with a steam lock and there is not telling when we will be able to re-open it.  Considering the price of these pods, even only one bad pod makes it impossible to recommend the product
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002TA77A:messed_up_my_senseo:richard_c._lynch_"coffee_lover"
+</unique_id>
+<asin>
+B0002TA77A
+</asin>
+<product_name>
+Dark Roast 100% Kona Coffee Pods - Two-Cup style brews 48 cups - For Senseo, Home Cafe, Bunn: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Messed up my senseo
+</title>
+<date>
+September 11, 2004
+</date>
+<reviewer>
+Richard C. Lynch "Coffee Lover"
+</reviewer>
+<reviewer_location>
+Morton Grove, Il. United States
+</reviewer_location>
+<review_text>
+I have to agree with the guy who complained about consistency.  I have wasted two very expensive pods so far.  The first time I used a Kona pod the machine jammed and I could not open it for 24 hours,(caused a steam lock), about 5 tablespoons of undrinkable crap came out of my senseo.  The next time I tried a Kona pod I got a quarter amount of what should have been a two cup try. I am not very impressed so far.  I am now afraid to try again.
+</review_text>
+</review>
+<review>
+<unique_id>
+B00025A6VG:screwed_up_gift_card:drharv
+</unique_id>
+<asin>
+B00025A6VG
+</asin>
+<product_name>
+Omaha Steaks Bacon-Wrapped Filets, (4) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Screwed up gift card
+</title>
+<date>
+January 12, 2007
+</date>
+<reviewer>
+DrHarv
+</reviewer>
+<reviewer_location>
+LosAngeles
+</reviewer_location>
+<review_text>
+Imagine giving a fairly expensive gift and no one knows you gave it.  That's what happened with this one.  completed the order, wrote a nice note and the note never arrived.  Maybe I should be greatful they actually sent the product.  Omaha Steaks is off my vendor list. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ7W2:five_stars_for_the_steaks_--_one_star_for_the_follow-up:j._reynolds
+</unique_id>
+<asin>
+B0000DJ7W2
+</asin>
+<product_name>
+Omaha Steaks The Family Pack: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+17 of 17
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Five Stars For The Steaks -- One Star For The Follow-Up
+</title>
+<date>
+December 5, 2006
+</date>
+<reviewer>
+J. Reynolds
+</reviewer>
+<reviewer_location>
+Houston, TX United States
+</reviewer_location>
+<review_text>
+These steaks are terrific -- but let me tell you, buddy, these people are never going to stop phoning you, once you have bought anything from them.  They repeatedly ask whether you enjoyed your order, and then drop a pitch for you to buy more from them:  AND THEY NEVER STOP CALLING BACK.  Sometimes as often as twice a week, they'll call wanting to sell you more, and this goes on for months and months and months.
+
+Consider yourself duly informed
+</review_text>
+</review>
+<review>
+<unique_id>
+B00013C2L6:if_only_i_knew_what_was_in_it.....:michael_s._parrill
+</unique_id>
+<asin>
+B00013C2L6
+</asin>
+<product_name>
+Rocky Mountain Chocolate Tower: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+20 of 41
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+If only I knew what was in it.....
+</title>
+<date>
+November 17, 2004
+</date>
+<reviewer>
+Michael S. Parrill
+</reviewer>
+<reviewer_location>
+Wilson, NC United States
+</reviewer_location>
+<review_text>
+I would like to buy one of these products from Wine Country Gift Baskets but I cannot find a description of what is actually in each one
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BVITNS:not_the_best_tasting...:v._moss
+</unique_id>
+<asin>
+B000BVITNS
+</asin>
+<product_name>
+Vita Life Matcha (Green Tea Powder) - 10.58 Oz -- Buy 3 Get a Free Bag of Kasugai Lychee Hard Candy!: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not the best tasting...
+</title>
+<date>
+February 15, 2007
+</date>
+<reviewer>
+V. Moss
+</reviewer>
+<reviewer_location>
+Denver, CO
+</reviewer_location>
+<review_text>
+But just add a little Spenda and cream and it is mmm, mmm, good. I can actually feel a slight boost of energy and think more clearly on the days that I drink this tea. Also, I haven't had the slightest inkling of a cold or flu. This year has been an especially bad cold and flu season for this area and I have been exposed to all of it but, knock on wood, I've been the healthiest one in the family and at work (and the only one drinking this stuff). So go figure? There are too many things good about this tea to not try it
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EVSYI0:not_haribo_quality--this_stuff_is_horrible!:my_two_cents
+</unique_id>
+<asin>
+B000EVSYI0
+</asin>
+<product_name>
+Haribo Gummi Candy, Strawberry Licorice Wheels, 5-Pound Bag: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+NOT Haribo quality--this stuff is horrible!
+</title>
+<date>
+January 8, 2007
+</date>
+<reviewer>
+My Two Cents
+</reviewer>
+<reviewer_location>
+NM
+</reviewer_location>
+<review_text>
+I agree completely with the previous reviewer--this licorice does not even come close to the usual quality of
+Haribo candy.  This stuff is dry and hard, and it leaves your hands sticky with waxy grease.  And the flavor--what little there is--is just weird: kind of a fake floral.  NOT recommended
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EVSYI0:not_real_haribo!:gummy-lover
+</unique_id>
+<asin>
+B000EVSYI0
+</asin>
+<product_name>
+Haribo Gummi Candy, Strawberry Licorice Wheels, 5-Pound Bag: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not real Haribo!
+</title>
+<date>
+December 28, 2006
+</date>
+<reviewer>
+Gummy-lover
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I bought these because I love Haribo gummy products.  However, I was disappointed to see that they are made by Haribo France, i.e. not really German Haribo.  And believe me, there is a HUGE difference.  These ones are very, very greasy, not soft and have almost no strawberry flavor.  Don't waste your money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006ZN538:great_deal,_good_flavor,_but_beware_celiacs!:tonya_lee
+</unique_id>
+<asin>
+B0006ZN538
+</asin>
+<product_name>
+Blanched Almond Meal Flour - 5 Pound Bag: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+great deal, good flavor, but BEWARE CELIACS!
+</title>
+<date>
+February 3, 2007
+</date>
+<reviewer>
+Tonya Lee
+</reviewer>
+<reviewer_location>
+United States
+</reviewer_location>
+<review_text>
+I purchased this flour a few weeks ago and just baked with it the first time yesterday. I was very satisfied with the taste and texture of it. However, I cannot tolerate gluten or rice and after eating some of what I had baked, I had an allergic reaction. I called the company and they could not tell me anything in regards to their mills nor if there could be any cross-contamination. The lady on the phone seemed to think that the mills are shared equipment and that no precautions are taken to avoid cross-contamination. If you're buying it for low-carb prep only, it should be a good flour at a great deal. Please beware if you are using it to avoid gluten or other allergenic grains
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ7RP:not_good!:sammy_squirrel
+</unique_id>
+<asin>
+B0000DJ7RP
+</asin>
+<product_name>
+Omaha Steaks Prime Rib Slices, (4) 8 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not good!
+</title>
+<date>
+March 5, 2007
+</date>
+<reviewer>
+Sammy Squirrel
+</reviewer>
+<reviewer_location>
+Earth, Milky Way Galaxy
+</reviewer_location>
+<review_text>
+These "steaks" are only distantly related to real Prime Rib.  They are tasteless (other than being overly salted), have a texture reminiscent of congealed soy protein, and look even worse.  Omaha Steaks are at the bottom of the barrel when it comes to mail order meats, do yourself a favor and look elsewhere
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ7RP:bad_experience:a._sadek_"ahs"
+</unique_id>
+<asin>
+B0000DJ7RP
+</asin>
+<product_name>
+Omaha Steaks Prime Rib Slices, (4) 8 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+bad experience
+</title>
+<date>
+October 21, 2006
+</date>
+<reviewer>
+A. Sadek "AHS"
+</reviewer>
+<reviewer_location>
+Nebraska, USA
+</reviewer_location>
+<review_text>
+I was very disappointed at quality of this steak.  It lacked any flavor, taste or texture.  Omaha steak should review this item
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ7RP:the_pre-cooked_ones:revgalen
+</unique_id>
+<asin>
+B0000DJ7RP
+</asin>
+<product_name>
+Omaha Steaks Prime Rib Slices, (4) 8 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+10 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+The Pre-Cooked Ones
+</title>
+<date>
+February 5, 2005
+</date>
+<reviewer>
+RevGalen
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The prime rib slices I had were pre-cooked and they are terrible. Nothing like what you would expect from a good restaurant or make at home. They lack in both flavor and texture. The remaining slices I have will probably be sliced up and used in tacos
+</review_text>
+</review>
+<review>
+<unique_id>
+B00083BHUG:poor_quality_control:gary_webb
+</unique_id>
+<asin>
+B00083BHUG
+</asin>
+<product_name>
+Lava Java Dark Roast - Kona-Hawaiian Coffee Pods - 18 KONA-PODS: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Poor quality control
+</title>
+<date>
+January 9, 2007
+</date>
+<reviewer>
+Gary Webb
+</reviewer>
+<reviewer_location>
+Philadelphia
+</reviewer_location>
+<review_text>
+We have used Kona coffee pods for about a year.  They were excellent.  We found it more convenient to order through Amazon, as the shipment arrived more quickly.  With this last shipment, the coffee often was watery even though the coffee unit was functioning well.  It was hard to know what to do with these various boxes of coffee from from a remote supplier
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006ZN4XE:contains_wheat_--_no_warning_on_product_page:miles_erickson
+</unique_id>
+<asin>
+B0006ZN4XE
+</asin>
+<product_name>
+Powdered Whole Eggs - 2.25 Pound Can: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Contains wheat -- no warning on product page
+</title>
+<date>
+November 12, 2006
+</date>
+<reviewer>
+Miles Erickson
+</reviewer>
+<reviewer_location>
+Seattle, WA USA
+</reviewer_location>
+<review_text>
+Received the package to discover a warning on the label that the product may contain wheat.  There is no allergy warning on Amazon -- apparently, if you are allergic, you have to order the product to find out that you cannot eat it
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006ZN4XE:honeyville_whole_powdered_eggs_are_"tasteless"!:scott_l._sutherland_"scottls1"
+</unique_id>
+<asin>
+B0006ZN4XE
+</asin>
+<product_name>
+Powdered Whole Eggs - 2.25 Pound Can: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Honeyville whole powdered eggs are "TASTELESS"!
+</title>
+<date>
+September 14, 2006
+</date>
+<reviewer>
+Scott L. Sutherland "scottls1"
+</reviewer>
+<reviewer_location>
+Kalispell, MT USA
+</reviewer_location>
+<review_text>
+I have an Indian (American) friend, that gets free whole powdered eggs from the gov commodity program. She has often made me "yummy/flavorfull" egg sandwiches (i.e. scrambled eggs...)!
+
+I decided to buy some Honeyville & try it? What a disappointment for scrambled eggs (don't know about baking...?)!
+1. Their is NO flavor, whatsoever!!!
+2. Sticks "hard" to oiled stainless frying pan (fried like a pancake)- Worked better when I mixed in 1tsp of Canola oil, per egg... (like waffles...).
+
+For 1 egg sandwich- I mix 1/4 cup water, to 1/4 cup mix (they say 2-1), which was a runny mess (maybe for baking?).
+
+Limited shelf life...- I store unused mix in the freezer
+</review_text>
+</review>
+<review>
+<unique_id>
+B000FPX7SW:diabetics_beware:thomas_a._juhl
+</unique_id>
+<asin>
+B000FPX7SW
+</asin>
+<product_name>
+Dreamfields Healthy Low Carb Spaghetti Pasta: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 6
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Diabetics Beware
+</title>
+<date>
+January 5, 2007
+</date>
+<reviewer>
+Thomas A. Juhl
+</reviewer>
+<reviewer_location>
+Dayton, OH USA
+</reviewer_location>
+<review_text>
+Since the total carbs are what is important for diabetics, this should not be recommended. It has 42 grams of carbs and only 4 grams of fiber per 1/2 cup of cooked pasta. This is almost the total amount of carbs allowed diabetics for a complete meal. Only 1/2 cup is the maximum of carbs for a meal. Who  can eat just one cup of pasta?
+It is very misleading to diabetics as "digestible carbs" has no meaning to them. Total carbs less fiber is what counts to a diabetic. Thus diabetics beware. If you want to eat it remember, 1/2 cup is a complete meal of carbs
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DBN2I:not_for_everyone,_especially_me._:n._pierre
+</unique_id>
+<asin>
+B0000DBN2I
+</asin>
+<product_name>
+Tazo Wild Sweet Orange Tea, 24 Bags: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Not for everyone, especially me. 
+</title>
+<date>
+January 15, 2007
+</date>
+<reviewer>
+N. Pierre
+</reviewer>
+<reviewer_location>
+On, Wisconsin!!
+</reviewer_location>
+<review_text>
+The product description says that this tea is 'slightly sweet' as well as a bunch of other descriptors, but I didn't get any sweetness at all. I was very optimistic because I normally love everything Tazo offers, but this time I had my hopes dashed.
+
+I brewed up a mug of this tea and was immediately alarmed at the bouquet. The teabag smelled different, but once the hot water hit it the smell seemed to really magnify. But I scooped in a few teaspoons of sugar and hoped for the best. I managed to choke down about a third of the cup before I called it a day. Life is too short to drink something you don't like.
+
+However, I had read a review that mentioned how good and palatable this tea was when combined with the Tazo Lotus. I figured it was worth a shot, otherwise I'd have to throw out this tea altogether. 
+
+The Lotus smelled great, so I was excited. I blended the two bags (one Lotus and one Wild Sweet Orange) in a large mug, then removed the Wild Sweet Orange after a minute. I left the Lotus in for another minute or two (yeah, definitely two).
+
+The result was a very unusual, but not unappealing, beverage. Would I drink this more than once a day? No. Was it very interesting and something that I'll try again? Yes. 
+
+Live and learn, I guess.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000A2KJ7M:expensive_shipping:gw_"woodbear"
+</unique_id>
+<asin>
+B000A2KJ7M
+</asin>
+<product_name>
+All Natural Chinese Wuyi Oolong (Wu Long) Tea - Loose Tea - 5.3 Oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+expensive shipping
+</title>
+<date>
+March 12, 2007
+</date>
+<reviewer>
+GW "Woodbear"
+</reviewer>
+<reviewer_location>
+Pittsburgh, PA
+</reviewer_location>
+<review_text>
+Thought I'd try this tea.  Wrong choice.  Tea is not as good as Numi's Iron Goddess of Mercy Oolong tea.  Perhaps my favorite Oolong. Shipping costs almost as much as the tea on the Natural Chinese Wuyi Oolong.  I'll stay with Numi Tea from now on
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E3VA16:something's_missing_:barbara_"barbara"
+</unique_id>
+<asin>
+B000E3VA16
+</asin>
+<product_name>
+Nueva Cocina Pumpkin Soup with Ginger, 5-Ounce Pouches (Pack of 6): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Something's Missing 
+</title>
+<date>
+November 15, 2006
+</date>
+<reviewer>
+Barbara "Barbara"
+</reviewer>
+<reviewer_location>
+California
+</reviewer_location>
+<review_text>
+I didn't care for this pumpkin soup, it taste more like pumpkin flavored corn starch.    
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E5GJQU:terrible!_:erase_ego
+</unique_id>
+<asin>
+B000E5GJQU
+</asin>
+<product_name>
+Tasty Bite Entree, Peas Paneer & Basmati Rice, 12-Ounce Boxes (Pack of 6): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Terrible! 
+</title>
+<date>
+February 17, 2007
+</date>
+<reviewer>
+erase_ego
+</reviewer>
+<reviewer_location>
+Tulsa, OK
+</reviewer_location>
+<review_text>
+This tastes more like a chemist's concoction than Peas Paneer. If this is somebody's first acquaintance with Indian cuisine, they would avoid Indian cuisine for the rest of their life. 
+
+
+</review_text>
+</review>
+<review>
+<unique_id>
+B000E5GJQU:bland_-_what_are_other_reviewers_smoking?:jim_thorpe_"venturion"
+</unique_id>
+<asin>
+B000E5GJQU
+</asin>
+<product_name>
+Tasty Bite Entree, Peas Paneer & Basmati Rice, 12-Ounce Boxes (Pack of 6): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Bland - what are other reviewers smoking?
+</title>
+<date>
+January 22, 2007
+</date>
+<reviewer>
+Jim Thorpe "Venturion"
+</reviewer>
+<reviewer_location>
+Alexandria, VA
+</reviewer_location>
+<review_text>
+I read the other reviews and was greatly excited to order this entree.  I have bought 2-3 varieties of Tasty Bite from my local Trader Joes.  Most are decently healthy and all are easy and fast to make.
+
+Peas and paneer, as an entree, is bland and without any heat/spice.  I am a native Indian so I can handle relatively spicy food.  However, this entree does not merit even a 2-chili rating (out of four).  
+
+As for food quality, I would suggest microwaving the rice and entree separately.  Otherwise, the majority of the sauce seeps into the rice giving it a very unpleasant appearance.  If you boil the pouches (an alternate option), you may have even more success.  However, most of us buy these because of the ease of preparation, so boiling isn't a convenient option.  The rice tastes and looks as it should.
+
+Finally, I do recommend Tasty Bite Entrée, Jaipur Vegetables.  I am on box nine of twelve and still not tired.  This entree is MUCH spicier - closer to a 3.25 chili rating (out of four).  I also favor this entree because it doesn't have the throw-away plastic container in each box.  Moreover, you get 12-boxes for a better price than the 6-boxes for the peas and paneer.
+
+I look forward to trying the other Tasty Bites, though I will likely sample the flavors at Trader Joe's before ordering another 6- or 12-box set.  No more Tasty Bite purchases from the Gold Box unless I have already tried that particular flavor - lesson learned
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002EQV66:white_rabbit_candy:lsw
+</unique_id>
+<asin>
+B0002EQV66
+</asin>
+<product_name>
+White Rabbit Candy 8.0 Oz.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+White Rabbit Candy
+</title>
+<date>
+March 8, 2007
+</date>
+<reviewer>
+LSW
+</reviewer>
+<reviewer_location>
+VA
+</reviewer_location>
+<review_text>
+Rice paper crumbles off-- possible due to product being very old or improperly stored. Disappointing
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CBOR60:muddy_puddle:jimbob
+</unique_id>
+<asin>
+B000CBOR60
+</asin>
+<product_name>
+Temple of Heaven - China Green Tea - Special Gunpowder Loose Tea - 8.0 Oz -- Buy 5 Get a Free Box of Narcissus - Jasmine Green Tea (20 Tea Bags): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Muddy Puddle
+</title>
+<date>
+April 19, 2006
+</date>
+<reviewer>
+Jimbob
+</reviewer>
+<reviewer_location>
+Leeds
+</reviewer_location>
+<review_text>
+It reminded me of when I got mud in my mouth, while playing diggers in the garden as a child!
+Sorry but this wasn't for me I'm affaid. 
+The water just turned black and it tasted 'earthy'
+</review_text>
+</review>
+<review>
+<unique_id>
+B000CBOR60:horrid!=(_actually....zero_stars.:j._brownell
+</unique_id>
+<asin>
+B000CBOR60
+</asin>
+<product_name>
+Temple of Heaven - China Green Tea - Special Gunpowder Loose Tea - 8.0 Oz -- Buy 5 Get a Free Box of Narcissus - Jasmine Green Tea (20 Tea Bags): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Horrid!=( Actually....zero stars.
+</title>
+<date>
+April 6, 2006
+</date>
+<reviewer>
+J. Brownell
+</reviewer>
+<reviewer_location>
+Oak Harbor, WA
+</reviewer_location>
+<review_text>
+I have been drinking green tea for years, and love not only the taste but the smell too.  When I opened up the box of this tea I thought I was standing over an old ash tray!  It's smells horrid and doesn't infuse well into the water.  I steeped a table spoon of it for five minutes and the water color barely changed.  I highly recommend you NOT buy this tea.  Exotic product aside, the plain old Lipton green tea bags from the grocery store are far better
+</review_text>
+</review>
+<review>
+<unique_id>
+B00015YTTC:whoa_dude:gibonaliandge_"man_who_eats_chicken"
+</unique_id>
+<asin>
+B00015YTTC
+</asin>
+<product_name>
+Gold Flax Seed, 1 lb.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+11 of 11
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+WHOA DUDE
+</title>
+<date>
+December 30, 2004
+</date>
+<reviewer>
+GIBONALIANDGE "MAN WHO EATS CHICKEN"
+</reviewer>
+<reviewer_location>
+THE MOON
+</reviewer_location>
+<review_text>
+CHECK OUT THE SHIPPING COST! IF YOU BUY 1 BAG... IT'S $6.50 JUST TO SHIP IT TO YOU.. SO THAT'S A TOTAL OF NEARLY 10 BUCKS! I SUGGEST YOU GO TO A HEALTH FOOD STORE AND BUY IT AND GET IT FOR MUCH MUCH CHEAPER
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001XH6XA:sopakco_is_a_ripoff:r._nelson
+</unique_id>
+<asin>
+B0001XH6XA
+</asin>
+<product_name>
+MREs - Meals, Ready to Eat: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+10 of 12
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+SOPAKCO IS A RIPOFF
+</title>
+<date>
+June 30, 2006
+</date>
+<reviewer>
+R. Nelson
+</reviewer>
+<reviewer_location>
+Miami, FL
+</reviewer_location>
+<review_text>
+When  I ordered this "MRE" item, I expected it to be precisely
+the same and equal to government-dictated, REAL MRE's being utilized by the U.S. military.  This is NOT the case.  This product is SOPAKCO'S version of whatever they choose to produce & distribute.  I find this false and misleading advertising and can only imagine the millions of suckers like me who have been
+caught up in this trickery.  I expected the "real thing," and received a fake.  Very disgusted.  Feel very "used."  Nuts!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001XH6XA:this_is_way_too_high_a_price._:kevin_r._richardson_"kevinrrichardson"
+</unique_id>
+<asin>
+B0001XH6XA
+</asin>
+<product_name>
+MREs - Meals, Ready to Eat: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+13 of 13
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+This is way too high a price. 
+</title>
+<date>
+May 16, 2006
+</date>
+<reviewer>
+Kevin R. Richardson "kevinrrichardson"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+These can be had for $59-$69 a case elsewhere. Shop around, this vendor is overpriced.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001XH6XA:good_product;_high_price._shop_around:balto_reader_"bils"
+</unique_id>
+<asin>
+B0001XH6XA
+</asin>
+<product_name>
+MREs - Meals, Ready to Eat: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+42 of 42
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Good product; high price. Shop around
+</title>
+<date>
+October 19, 2005
+</date>
+<reviewer>
+Balto Reader "bils"
+</reviewer>
+<reviewer_location>
+Baltimore, MD United States
+</reviewer_location>
+<review_text>
+I was shopping the Internet for this product, and the price asked here is the highest I found!  
+
+The Sopakco MREs are the real deal for easy, high-quality emergency food supplies, but you can get them for a much better price elsewhere
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001XH6XA:a_better_way_to_get_these_meals:rude_boy_1979_"ralph"
+</unique_id>
+<asin>
+B0001XH6XA
+</asin>
+<product_name>
+MREs - Meals, Ready to Eat: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+11 of 32
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+A better way to get these meals
+</title>
+<date>
+October 17, 2005
+</date>
+<reviewer>
+Rude Boy 1979 "Ralph"
+</reviewer>
+<reviewer_location>
+Today I'm in Fahaheel, Kuwait
+</reviewer_location>
+<review_text>
+Hey, I know a way you can get these practically free of charge, yeah you guessed it, join the service! But really MRE's may have come a long way from the civil war days of hard tack but they still have a long way to go before I'd actually WANT to eat them over a conventionally cooked meal. I guess it's good for emergencies though, or to act like a soldier on a camping trip
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DIWL9:discontinued_and_no_notice!:jonathan_a._harmon_"unhappy_customer"
+</unique_id>
+<asin>
+B0000DIWL9
+</asin>
+<product_name>
+Five Section Nut Basket: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+discontinued and no notice!
+</title>
+<date>
+January 2, 2005
+</date>
+<reviewer>
+Jonathan A. Harmon "unhappy customer"
+</reviewer>
+<reviewer_location>
+atlanta ga
+</reviewer_location>
+<review_text>
+I waited and waited for an order from JD foods to come for a Xmas gift.  Even received a notice that the order was placed and correct...only to find out through my OWN efforts that the product was discontinued.  Bad communication.  Will not make that mistake again
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BVNSFW:not_the_best_tasting...:v._moss
+</unique_id>
+<asin>
+B000BVNSFW
+</asin>
+<product_name>
+Vita Life Matcha (Green Tea Powder) - 10.58 Oz -- Buy 3 Get a Free Bag of Kasugai Lychee Hard Candy!: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not the best tasting...
+</title>
+<date>
+February 15, 2007
+</date>
+<reviewer>
+V. Moss
+</reviewer>
+<reviewer_location>
+Denver, CO
+</reviewer_location>
+<review_text>
+But just add a little Spenda and cream and it is mmm, mmm, good. I can actually feel a slight boost of energy and think more clearly on the days that I drink this tea. Also, I haven't had the slightest inkling of a cold or flu. This year has been an especially bad cold and flu season for this area and I have been exposed to all of it but, knock on wood, I've been the healthiest one in the family and at work (and the only one drinking this stuff). So go figure? There are too many things good about this tea to not try it
+</review_text>
+</review>
+<review>
+<unique_id>
+B00013M0YA:yuck!:
+</unique_id>
+<asin>
+B00013M0YA
+</asin>
+<product_name>
+Toasted Marshmallow - 3.5 oz bag: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Yuck!
+</title>
+<date>
+August 24, 2005
+</date>
+<reviewer>
+
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I like marshmallows, I like them plain in hot cocoa and I like them toasted, and as a fan of jelly beans I tasted this toasted marshmallow flavored jelly bean from Jelly belly and I didn't like this flavor at all. I personally didn't think It really tasted all that much like toasted marshmallows and was just kind of weird tasting
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032AKC8:not__"vanilla"_milk:maria_dominguez_"maria_dominguez"
+</unique_id>
+<asin>
+B00032AKC8
+</asin>
+<product_name>
+Parmalat Long Life 2% Reduced Fat Milk, 3 - 8 fl oz Boxes, 24 fl oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 5
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not  "vanilla" milk
+</title>
+<date>
+October 1, 2005
+</date>
+<reviewer>
+Maria Dominguez "Maria Dominguez"
+</reviewer>
+<reviewer_location>
+Georgia, USA
+</reviewer_location>
+<review_text>
+This milk is advertised as "vanilla" milk. But its regular white milk
+</review_text>
+</review>
+<review>
+<unique_id>
+B00025A7PQ:not_good!:sammy_squirrel
+</unique_id>
+<asin>
+B00025A7PQ
+</asin>
+<product_name>
+Omaha Steaks Prime Rib Slices, (4) 8 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not good!
+</title>
+<date>
+March 5, 2007
+</date>
+<reviewer>
+Sammy Squirrel
+</reviewer>
+<reviewer_location>
+Earth, Milky Way Galaxy
+</reviewer_location>
+<review_text>
+These "steaks" are only distantly related to real Prime Rib.  They are tasteless (other than being overly salted), have a texture reminiscent of congealed soy protein, and look even worse.  Omaha Steaks are at the bottom of the barrel when it comes to mail order meats, do yourself a favor and look elsewhere
+</review_text>
+</review>
+<review>
+<unique_id>
+B00025A7PQ:bad_experience:a._sadek_"ahs"
+</unique_id>
+<asin>
+B00025A7PQ
+</asin>
+<product_name>
+Omaha Steaks Prime Rib Slices, (4) 8 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+bad experience
+</title>
+<date>
+October 21, 2006
+</date>
+<reviewer>
+A. Sadek "AHS"
+</reviewer>
+<reviewer_location>
+Nebraska, USA
+</reviewer_location>
+<review_text>
+I was very disappointed at quality of this steak.  It lacked any flavor, taste or texture.  Omaha steak should review this item
+</review_text>
+</review>
+<review>
+<unique_id>
+B00025A7PQ:the_pre-cooked_ones:revgalen
+</unique_id>
+<asin>
+B00025A7PQ
+</asin>
+<product_name>
+Omaha Steaks Prime Rib Slices, (4) 8 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+10 of 10
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+The Pre-Cooked Ones
+</title>
+<date>
+February 5, 2005
+</date>
+<reviewer>
+RevGalen
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The prime rib slices I had were pre-cooked and they are terrible. Nothing like what you would expect from a good restaurant or make at home. They lack in both flavor and texture. The remaining slices I have will probably be sliced up and used in tacos
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DK3NY:taste:laura_l._clement
+</unique_id>
+<asin>
+B0000DK3NY
+</asin>
+<product_name>
+Ultimate's Low Carb & Sugar Free Peanut Brittle - 1 Lb Tin: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Taste
+</title>
+<date>
+January 18, 2007
+</date>
+<reviewer>
+LAURA L. Clement
+</reviewer>
+<reviewer_location>
+Nottingham, NH USA
+</reviewer_location>
+<review_text>
+My father-in-law received this as a gift.  He reports that it is too salty and he's not eating it
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001F9UNW:candy_cigarettes:
+</unique_id>
+<asin>
+B0001F9UNW
+</asin>
+<product_name>
+Candy Cigarettes Packs [24CT Box]: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 16
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Candy Cigarettes
+</title>
+<date>
+July 11, 2005
+</date>
+<reviewer>
+
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The cigarettes have no taste.  Many people in the work
+place go out for a smoke break.  I bought the candy 
+cigarettes so the non-smokers could go out for a break
+also - the cigarettes have no taste at all
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000SX2Y8:no_ingredients_listed:
+</unique_id>
+<asin>
+B0000SX2Y8
+</asin>
+<product_name>
+Snuggle Up Spiced Apple Cider Mix: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+No Ingredients Listed
+</title>
+<date>
+December 13, 2003
+</date>
+<reviewer>
+
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I was looking for a mulled cider mix, but passed on this product because the website did not list the ingredients.  Could be a nice product, but I was looking for something without sugar, and WHO COULD TELL??
+</review_text>
+</review>
+<review>
+<unique_id>
+B000EVOSH6:wrong_item:buttah
+</unique_id>
+<asin>
+B000EVOSH6
+</asin>
+<product_name>
+Haribo Gummi Candy, Alphabet Letters, 5-Pound Bag: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+wrong item
+</title>
+<date>
+February 10, 2007
+</date>
+<reviewer>
+Buttah
+</reviewer>
+<reviewer_location>
+R.I.
+</reviewer_location>
+<review_text>
+I ordered this to give as a gift. I rec'd the package, opened it up and it was completely the wrong thing. Haribo had mislabled the box and what I rec'd was 5 lbs. of sugar coated gummy apples instead. I was very diappointed although Amazon was very understanding and refunded me the total amount.
+I hesitate to order this item again
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000CNTZH:inauthentic_is_right:
+</unique_id>
+<asin>
+B0000CNTZH
+</asin>
+<product_name>
+Thai Kitchen Thai Tea - Loose: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+inauthentic is right
+</title>
+<date>
+June 3, 2004
+</date>
+<reviewer>
+
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+It's unfortunate that all imported Thai teas seem to have artificial food coloring, and it was a nice idea for Thai Kitchen to try and come up with an all-natural analog.  However, this tastes nothing like real Thai tea.  They need to take this one back to the test kitchen
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001W0X0E:very_expensive:yogesh_k._jain
+</unique_id>
+<asin>
+B0001W0X0E
+</asin>
+<product_name>
+SPANISH SAFFRON, 1 OUNCE TIN: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+7 of 9
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Very Expensive
+</title>
+<date>
+February 6, 2005
+</date>
+<reviewer>
+Yogesh K. Jain
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I picked up a 1 Oz tin of same brand for 14.99 in Dallas are
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000TJLS8:can_you_say_highway_robbery???:l._takashima
+</unique_id>
+<asin>
+B0000TJLS8
+</asin>
+<product_name>
+DEAN & DELUCA Sumac: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Can You Say Highway Robbery???
+</title>
+<date>
+November 2, 2006
+</date>
+<reviewer>
+L. TAKASHIMA
+</reviewer>
+<reviewer_location>
+Northern California
+</reviewer_location>
+<review_text>
+I'm giving only one star because this item costs MORE to ship than to buy!!! Was charged $5.75 for shipping. This is a total rip off. Dean & Deluca should reconsider using a more economical shipping method. I hope this product is worth five stars, taste-wise. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B00023RDNC:if_i_am_mistaken_i_will_remove_this_review:g._wilder_"gjw"
+</unique_id>
+<asin>
+B00023RDNC
+</asin>
+<product_name>
+FUGETSU-DO Wagashi 12 Pcs: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 9
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+If I am mistaken I will remove this review
+</title>
+<date>
+January 3, 2006
+</date>
+<reviewer>
+G. Wilder "gjw"
+</reviewer>
+<reviewer_location>
+washington d.c.
+</reviewer_location>
+<review_text>
+I have received no emails from ANAsuper.......No tracking number..........and extensive delivery estimate....I do not know if I should cancel order.....I am trying to give them a chance to show me their wares.
+I can understand if this product has special preparation time, but I have recieved not one communication nor confirmation. No product information
+</review_text>
+</review>
+<review>
+<unique_id>
+B00032B9CS:vile:see_about_me_"firin_mah_lazar"
+</unique_id>
+<asin>
+B00032B9CS
+</asin>
+<product_name>
+Frito Lay Cheetos Crunchy, Cheese Flavored Snacks, 9.5 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 6
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Vile
+</title>
+<date>
+May 8, 2006
+</date>
+<reviewer>
+See about me "firin mah lazar"
+</reviewer>
+<reviewer_location>
+North
+</reviewer_location>
+<review_text>
+I'll admit it. The first three or so Cheetos actually taste pretty good. However, each one seems to taste worse, for some reason. And then there's the despicable Cheeto dust... You get that stuff on your fingers, and you're forced to either wipe it on something, (gross) or thoroughly lick it off your fingers (gross). I detest snacks with sticky dust crap. This stuff is the worst offender
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007R9L3I:kashmir_spinach_isn't_good,_but_other_tasty_bite_items_really_are_great:alan_kaye
+</unique_id>
+<asin>
+B0007R9L3I
+</asin>
+<product_name>
+Tasty Bite Entrée, Kashmir Spinach, 10-Ounce Boxes (Pack of 12): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+6 of 7
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Kashmir Spinach isn't good, but other Tasty Bite items really are great
+</title>
+<date>
+September 16, 2006
+</date>
+<reviewer>
+Alan Kaye
+</reviewer>
+<reviewer_location>
+Honolulu, HI United States
+</reviewer_location>
+<review_text>
+Kashmir Spinach is the third Tasty Bite offering I have tried.  
+The look and taste is quite unappealing.  
+We would not consider buying it again.  
+We had high hopes based on how much we loved other Tasty Bite items we tried, but no luck with this one.
+
+I encourage you to try Agra Peas or Jaipur Vegetables instead, two Tasty Bite items that are really fantastic
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007R9L3I:canned_spinach_taste:coffee_guy
+</unique_id>
+<asin>
+B0007R9L3I
+</asin>
+<product_name>
+Tasty Bite Entrée, Kashmir Spinach, 10-Ounce Boxes (Pack of 12): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Canned Spinach Taste
+</title>
+<date>
+August 26, 2006
+</date>
+<reviewer>
+Coffee Guy
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+This has the overwhelming acidic taste that is characteristic of canned spinach, that frozen and fresh don't have. If you know what I'm talking about and like that taste, then this is OK, but for us it's inedible
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006ZN51U:not_what_i_expected:christine_fichera
+</unique_id>
+<asin>
+B0006ZN51U
+</asin>
+<product_name>
+Dehydrated Banana Chips - 2 Pound Can: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+10 of 11
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not what I expected
+</title>
+<date>
+December 3, 2005
+</date>
+<reviewer>
+Christine Fichera
+</reviewer>
+<reviewer_location>
+Boston, MA
+</reviewer_location>
+<review_text>
+The description for this item is not accurate. I bought the freeze deied raspberries and stawberries from this same company and they are great. However, these are dehydrated which means 2 important things:
+- Texture: these are very hard and do not soften if left in milk or water. Don't think about adding these to cereal, only for trail mix or eating out of hand.
+- Saturated fat: the second ingredient is coconut oil! One 2oz. serving has 190 calories, 19 grams of fat and 16 grams of saturated fat. You're better off eating Cheetos.
+
+These are extremely unhealthy and don't even taste that great. There is (unsurprisingly) and oily aftertaste. Buyer beware. Stick to purely freeze dried fruits - nothing is added and they are healthy
+</review_text>
+</review>
+<review>
+<unique_id>
+B000JL4N2G:worst_rice_pudding_i_have_tried:martir
+</unique_id>
+<asin>
+B000JL4N2G
+</asin>
+<product_name>
+Ambrosia Cream Rice Pudding 425 g: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Worst Rice Pudding I have Tried
+</title>
+<date>
+March 1, 2007
+</date>
+<reviewer>
+MartiR
+</reviewer>
+<reviewer_location>
+Phoenix, AZ United States
+</reviewer_location>
+<review_text>
+The description says thick and creamy. Try watery and icky.  Just trying the figure out what to do with the other 3 cans. Spent alot hoping to find Rice Pudding like Kraft and Thank-you...very disappointed
+</review_text>
+</review>
+<review>
+<unique_id>
+B000FWAWVA:figures_don't_lie,_but_liars_figure:jason_tovey_"java_boy"
+</unique_id>
+<asin>
+B000FWAWVA
+</asin>
+<product_name>
+Splenda No Calorie Sweetener * New Size 35% More (Net Weight 1.63 lb) Granular Equivalent Sweetness to 13.5 LBS of Sugar * Great for Cooking and Baking: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+7 of 10
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Figures Don't Lie, But Liars Figure
+</title>
+<date>
+July 6, 2006
+</date>
+<reviewer>
+Jason Tovey "Java Boy"
+</reviewer>
+<reviewer_location>
+Gainesville, FL  USA
+</reviewer_location>
+<review_text>
+Don't get me wrong -- I'm not some nut job who thinks this stuff will give you cancer due to lack of testing.  I'm just really miffed at the fact that Splenda has plenty of carbohydrates in it -- 24 grams per cup!!  They get away with this by setting their serving size to 1 tsp, which is 0.5g.  Would you believe that in 0.5g of product there is less than one gram of carbohydrate!?  No way!!
+
+The sweetener sucralose is not a carbohydrate, but since it's 600x as sweet as sugar, they need to bulk it up to make it measure like sugar. But all the maltodextrin they use for filler is carbohydrates.
+
+This could really screw up somebody on Atkins' Induction phase.  For example, the day before I learned this, I made some Kool-Aid with Splenda.  I didn't know that in 2 quarts I was drinking down 24 carbs!
+
+What to do?  Find somebody online who sells liquid sucralose.  They use water as the filler, it's super-concentrated still, and it truly has 0 carbs.  I look forward to the day when McNeil Nutritionals meets the demand for ZERO-carb Splenda.  (That's 0.0g, not 0.49g!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DID5R:the_only_one_i_avoid._:bernard_chapin_"ora_et_labora!"
+</unique_id>
+<asin>
+B0000DID5R
+</asin>
+<product_name>
+Dave's Original Insanity Hot Sauce - 5 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+The Only One I Avoid. 
+</title>
+<date>
+January 14, 2007
+</date>
+<reviewer>
+Bernard Chapin "Ora Et Labora!"
+</reviewer>
+<reviewer_location>
+CHICAGO! USA
+</reviewer_location>
+<review_text>
+Well, I guess I'm the fly in this reviewer ointment, but Dave's is the only hotsauce that I won't buy. It has a synthetic quality to it and a flavor that is almost non-existent. This is due to its being made directly from capsaicin extract as opposed to actual peppers. It offers a nuclear level of heat that seems to be a recipe for ulcers in my opinion. According to Wikipedia, its Scoville heat (fire) index rates out 50,000 units which can be contrasted with Tobasco's 2,500 to 5,000 rating. Who needs that much heat? Not me or most human beings. This stuff is lethal. No thanks.
+</review_text>
+</review>
+<review>
+<unique_id>
+B000AN1YES:not_a_healthy_tea.:liz_"spiritual_seeker"
+</unique_id>
+<asin>
+B000AN1YES
+</asin>
+<product_name>
+Matcha (Green Tea) Powder [Bubble Tea Powder]: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+not a healthy tea.
+</title>
+<date>
+September 17, 2006
+</date>
+<reviewer>
+Liz "spiritual seeker"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I ordered what I thought was matcha tea powder. a comment on the page said it was SLIGHTLY sweetened, no specific nutritional info was available when looking to order. on the info when the tea arrived was a calorie count of 393cal/serving, and ingredients which include corn syrup solids and partial hydrogenated oils. not what I was expecting from a green tea powder. would NOT recommend
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001GCAPQ:i've_definitely_eaten_better!:sweet_tooth
+</unique_id>
+<asin>
+B0001GCAPQ
+</asin>
+<product_name>
+Marzipan Fruit Assortment, 8.5 oz.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+6 of 7
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+I've definitely eaten better!
+</title>
+<date>
+January 29, 2006
+</date>
+<reviewer>
+sweet tooth
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The sweet taste was excessive and unpleasant.  I thought it was not fresh tasting.  The picture is deceiving because each fruit is cut in half and you get the top half only.  Other Marzipan is the entire round shape of the fruit. I am glad that I only bought the small size since I ended up throwing this purchase in the trash
+</review_text>
+</review>
+<review>
+<unique_id>
+B000JKF6BE:not_next_time....:james_day_"seamus_deaghaidh"
+</unique_id>
+<asin>
+B000JKF6BE
+</asin>
+<product_name>
+Chatila's Sugar Free Gourmet Sampler: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not next time....
+</title>
+<date>
+January 18, 2007
+</date>
+<reviewer>
+James Day "Seamus Deaghaidh"
+</reviewer>
+<reviewer_location>
+Astoria, NY United States
+</reviewer_location>
+<review_text>
+Half of the product came with mold growing on it.  The other half tasted so artifical that we just threw it out
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DZFJ0:paella_stay_away!:b._duncan_"duncs5"
+</unique_id>
+<asin>
+B0000DZFJ0
+</asin>
+<product_name>
+Traditional Paella Pan, 15 Inches: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 2
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Paella stay away!
+</title>
+<date>
+January 16, 2007
+</date>
+<reviewer>
+B. Duncan "duncs5"
+</reviewer>
+<reviewer_location>
+Maryland
+</reviewer_location>
+<review_text>
+Regardless of the even heating advertisement.  This pan is a very thin carbon steel and produces very uneven heating even using low/medium heat.  It rusted even after seasoning before the first use.  Got one use out of it
+</review_text>
+</review>
+<review>
+<unique_id>
+B000PKFY7Y:screwed_up_gift_card:drharv
+</unique_id>
+<asin>
+B000PKFY7Y
+</asin>
+<product_name>
+Omaha Steaks Bacon-Wrapped Filets, (4) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Screwed up gift card
+</title>
+<date>
+January 12, 2007
+</date>
+<reviewer>
+DrHarv
+</reviewer>
+<reviewer_location>
+LosAngeles
+</reviewer_location>
+<review_text>
+Imagine giving a fairly expensive gift and no one knows you gave it.  That's what happened with this one.  completed the order, wrote a nice note and the note never arrived.  Maybe I should be greatful they actually sent the product.  Omaha Steaks is off my vendor list. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DFADZ:this_is_not_coffee.......:jae_"prince"
+</unique_id>
+<asin>
+B0000DFADZ
+</asin>
+<product_name>
+Godiva Chocolate: Caf&#233; Godiva Vanilla Hazelnut Coffee (10 oz.): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+This is not coffee.......
+</title>
+<date>
+November 10, 2006
+</date>
+<reviewer>
+Jae "Prince"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I expected something better from Godiva Chocolatier.
+
+I am a big fan of both chocolates and coffe, but
+
+Godiva seems to be making coffee that tastes like something
+
+in between vanilla and chocolate.
+
+I could endure chocolate creme and vanilla hazelnut, but 
+
+this creme brulee coffee is just awful.
+
+Godiva has to focus on their chocolates.
+
+True coffee-lovers/connoisseurs will hate this coffee
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001217R2:the_feuilles_de_brick_were_dry_and_had_to_discard_them!:olivia_bonomi_"chef_olivia"
+</unique_id>
+<asin>
+B0001217R2
+</asin>
+<product_name>
+Feuilles de Brick / Brick Dough - 10 sheets: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+The Feuilles de Brick were dry and had to discard them!
+</title>
+<date>
+January 9, 2007
+</date>
+<reviewer>
+Olivia Bonomi "Chef Olivia"
+</reviewer>
+<reviewer_location>
+NYC
+</reviewer_location>
+<review_text>
+I was very displeased when I received the Feuilles de Brick. I had to cater for an important client. All the ingredients ready to be  assembled in the Feuilles and due to their dryness (the Feuilles de Brick) I could not bake my desserts
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007R9L6K:uneven_spices,_terrible_taste:mrmann
+</unique_id>
+<asin>
+B0007R9L6K
+</asin>
+<product_name>
+Tasty Bite Entrée, Bombay Potatoes, 10-Ounce Boxes (Pack of 12): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Uneven Spices, terrible taste
+</title>
+<date>
+February 19, 2007
+</date>
+<reviewer>
+mrmann
+</reviewer>
+<reviewer_location>
+New York, USA
+</reviewer_location>
+<review_text>
+I ordered a few boxes of this and I couldn't stomach this.  The spices were very off in this type of dish, to the point where it made it couldn't stand the taste of it.  It had way too much cinnamon.  I ended up throwning my other boxes out.  I would recommend Kohinoor brand over this any day.  
+</review_text>
+</review>
+<review>
+<unique_id>
+B000JZ8V0W:overpriced:jeanbur
+</unique_id>
+<asin>
+B000JZ8V0W
+</asin>
+<product_name>
+Hershey's Kisses Cherry Cordials - 38.5 oz.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Overpriced
+</title>
+<date>
+December 22, 2006
+</date>
+<reviewer>
+jeanbur
+</reviewer>
+<reviewer_location>
+Oakland, CA
+</reviewer_location>
+<review_text>
+This product is overpriced.  I found 11 oz. bags of this at the local grocery store for $3.49, which is 31.7 cents/oz.  This gives $12.22 for the 38.5 oz. bag featured here.  And there ordinarily would be a further discount for buying it in a larger size bag.  The candy is good, but it seems better to look for it in your local store
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BT0KW8:__wild_game_pack_(venison,_kangaroo,_buffalo)_-_wisconsin_cheeseman_(purchased_on_12/10/2006)__:douglas_h._lutz_jr.
+</unique_id>
+<asin>
+B000BT0KW8
+</asin>
+<product_name>
+Wild Game Pack (Venison, Kangaroo, Buffalo) - Wisconsin Cheeseman: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+  Wild Game Pack (Venison, Kangaroo, Buffalo) - Wisconsin Cheeseman (Purchased on 12/10/2006)  
+</title>
+<date>
+January 17, 2007
+</date>
+<reviewer>
+Douglas H. Lutz Jr.
+</reviewer>
+<reviewer_location>
+Mt View California
+</reviewer_location>
+<review_text>
+took way too long to be delivered...I wanted it before Christmas and didn't get it...over two weeks to delive
+</review_text>
+</review>
+<review>
+<unique_id>
+B000KBD5WY:awful:deborah_love
+</unique_id>
+<asin>
+B000KBD5WY
+</asin>
+<product_name>
+Beaten Biscuits: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Awful
+</title>
+<date>
+March 17, 2007
+</date>
+<reviewer>
+Deborah Love
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I thought I would be receiving bread, but I thought wrong. Rocks, I received rocks. And there is no softening them up either. Nor do they contain any ham. Just hard rocks
+</review_text>
+</review>
+<review>
+<unique_id>
+B0005Z8GGK:egg_biscuits:jamie_alonzo_"jamie"
+</unique_id>
+<asin>
+B0005Z8GGK
+</asin>
+<product_name>
+Stella D'ora Roman Egg Biscuits Coffee Treats, 12 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Egg Biscuits
+</title>
+<date>
+March 8, 2007
+</date>
+<reviewer>
+Jamie Alonzo "Jamie"
+</reviewer>
+<reviewer_location>
+Illinois
+</reviewer_location>
+<review_text>
+I've been looking for Stella D'Oras' Round Egg Biscuits, they were a very dry airy kind of cookie, they had plain and frosted.  I loved the plain ones, they were round but had a scallopped edge to them with a hole in the center.  I can't find these anywhere and wish I could, if anyone knows where to find these please let me know
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ86X:cooks_up_to_a_lousy_burger:dwight
+</unique_id>
+<asin>
+B0000DJ86X
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (8) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+cooks up to a lousy burger
+</title>
+<date>
+September 12, 2006
+</date>
+<reviewer>
+Dwight
+</reviewer>
+<reviewer_location>
+USA
+</reviewer_location>
+<review_text>
+These are thin solid and dark patties that cook up tasteless, juiceless and unburgerlike in texture.  Completely unlike their advertising and unlike the regular beef patties sold at the supermarket.  I will never buy Omaha Steak products again.
+
+Omaha Steaks' customer representatives are very nice however.  I wrote to them telling them about my experience and they said I could dump the scary meat and they would credit my card.  Thank you very much.
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ86X:these_have_gone_way_downhill_in_quality:rko_"radiopictures"
+</unique_id>
+<asin>
+B0000DJ86X
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (8) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+4 of 7
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+These have gone way downhill in quality
+</title>
+<date>
+May 8, 2005
+</date>
+<reviewer>
+RKO "radiopictures"
+</reviewer>
+<reviewer_location>
+Los Angeles, Ca USA
+</reviewer_location>
+<review_text>
+Years ago, these really were ground steak burgers with a very special flavor.  The most recent shipment I had was tastless with an unusually chewy texture.  Not recommended
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DJ86X:eh....:steven_t._moore_"zerostar39"
+</unique_id>
+<asin>
+B0000DJ86X
+</asin>
+<product_name>
+Omaha Steaks Gourmet Burgers, (8) 5 Ounce: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+15 of 17
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+eh....
+</title>
+<date>
+June 18, 2004
+</date>
+<reviewer>
+Steven T. Moore "zerostar39"
+</reviewer>
+<reviewer_location>
+Harrisburg, PA United States
+</reviewer_location>
+<review_text>
+These were good burgers...BUT I did not find anything special about them. I could go to the supermarket near my house and get some ground beef and make my own for  A LOT less money, and they would taste just as good. These are good, but not worth the extra money
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006B6RCI:tasty_but_deadly:karras_d._schaff_"gumbercules"
+</unique_id>
+<asin>
+B0006B6RCI
+</asin>
+<product_name>
+Spicy Shin Ramen Big Bowl: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Tasty but deadly
+</title>
+<date>
+October 15, 2005
+</date>
+<reviewer>
+Karras D. Schaff "Gumbercules"
+</reviewer>
+<reviewer_location>
+Saratoga, NY
+</reviewer_location>
+<review_text>
+This is delicious but packed with MSG which is very bad for you. Take care
+</review_text>
+</review>
+<review>
+<unique_id>
+B0006TN00W:shipping_too_slow:sherryd
+</unique_id>
+<asin>
+B0006TN00W
+</asin>
+<product_name>
+Melegueta Pepper - Grains of Paradise: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Shipping too slow
+</title>
+<date>
+February 18, 2007
+</date>
+<reviewer>
+SherryD
+</reviewer>
+<reviewer_location>
+Austin, TX
+</reviewer_location>
+<review_text>
+While the product is what I wanted, the shipping was too late.  The original shipping indicated that I should have received my pepper in time, but the shipper got the product to UPS late, therefore, I didn't get to use the pepper in the recipe and now I'll have to wait for another time to use it
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000DI1J5:chai_latte_concentrate:g._p._gross
+</unique_id>
+<asin>
+B0000DI1J5
+</asin>
+<product_name>
+Chai Tea Latte, Original, Concentrate, Part Organic, 32 oz.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Chai Latte concentrate
+</title>
+<date>
+July 5, 2006
+</date>
+<reviewer>
+G. P. Gross
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+When mixed as directed had a weak chai taste and no color. Would not buy agai
+</review_text>
+</review>
+<review>
+<unique_id>
+B000JQMBTS:too_heavey:christine_&_michael_burke
+</unique_id>
+<asin>
+B000JQMBTS
+</asin>
+<product_name>
+NEW Sugar Free Boston Creme Doughnuts 6pk: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+TOO HEAVEY
+</title>
+<date>
+January 15, 2007
+</date>
+<reviewer>
+Christine & Michael Burke
+</reviewer>
+<reviewer_location>
+Kingston, MA United States
+</reviewer_location>
+<review_text>
+These donuts were much heavier than typical donuts and sat at the bottom of my stomach.  Also the cream was a bit tasteless
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002PHEZC:very_disappointed:chef_"at_home_chef"
+</unique_id>
+<asin>
+B0002PHEZC
+</asin>
+<product_name>
+Premium Bourbon-Madagascar Vanilla Beans - 7 beans - FREE SHIPPING on Vanilla Beans: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+5 of 8
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Very Disappointed
+</title>
+<date>
+March 14, 2007
+</date>
+<reviewer>
+Chef "At Home Chef"
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+I placed an order for these beans on March 4th. On the 14th march, I did not receive them as yet. Since the occasion that I needed them for has passed, I sent an email to JR to find out the problem. When he said they were not shipped as yet, I send 2 e-mails requesting cancellation-i sent 2 to make sure they got it and stopped the mailing of my item!
+He responded VERY hastily, as used sarcastic comments in his reply.The tone of his reply made me feel as if I did not know anything!!
+
+ I am very disappointed with this whole ordeal!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0001K5KZO:not_worth_the_gourmet_price:karen_breda
+</unique_id>
+<asin>
+B0001K5KZO
+</asin>
+<product_name>
+Cocoa Amore Cocoa Lover's Collection Gift Box: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Not worth the gourmet price
+</title>
+<date>
+December 29, 2006
+</date>
+<reviewer>
+Karen Breda
+</reviewer>
+<reviewer_location>
+Needham, Massachusetts United States
+</reviewer_location>
+<review_text>
+This cocoa is gritty and has a bitter taste.  The dark chocolate mint is particularly bitter.  We don't care for the chocolate raspberry and chocolate vanilla flavors either.  The chocolate supreme flavor is sweeter and tastier than the other flavors, but the child in our family still remarked that his cocoa "tasted strange".  There are many non-gourmet commercial mixes that are smoother, more palatable and less expensive than this gourmet brand.  We won't buy this cocoa again.  This gift box selection is very handsomely packaged and looks great in holiday gift baskets. But the cocoa fails the taste test.  
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002QEL98:it's_artificial_vanilla_folks,_despite_what_it_says_here.:kathy_n-v_"buried_in_amazon_boxes"
+</unique_id>
+<asin>
+B0002QEL98
+</asin>
+<product_name>
+Mexican Vanilla by Molina Vainilla, 16.8 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+2 of 4
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+It's artificial vanilla folks, despite what it says here.
+</title>
+<date>
+November 17, 2006
+</date>
+<reviewer>
+Kathy N-V "Buried in Amazon Boxes"
+</reviewer>
+<reviewer_location>
+Boston, MA USA
+</reviewer_location>
+<review_text>
+As I said above, the "vanilla" you'll get is artificial; it's Vanillin, not the way more expensive Vanilla being advertised.  Personally, I don't care for Vanillin, because it tastes harsh and chemical-laden to me.  This stuff tastes no different than the fake vanilla at the supermarket, and I didn't have to trouble my poor mailman into delivering it
+</review_text>
+</review>
+<review>
+<unique_id>
+B0002QEL98:this_product_was_not_properly_described.:b._morejohn
+</unique_id>
+<asin>
+B0002QEL98
+</asin>
+<product_name>
+Mexican Vanilla by Molina Vainilla, 16.8 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+19 of 21
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+This product was not properly described.
+</title>
+<date>
+July 9, 2005
+</date>
+<reviewer>
+B. Morejohn
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+The product that I received is partly vanillin, an artificial vanilla.  I expected to get PURE mexican vanilla.  Naturally I was disappointed
+</review_text>
+</review>
+<review>
+<unique_id>
+B0009JBX0I:they_get_one_star_because_there_is_no_zero:annon
+</unique_id>
+<asin>
+B0009JBX0I
+</asin>
+<product_name>
+Crackers, Original, Wheat Free, Gluten Free, Organic, 6.5 oz.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+They get ONE star because there is no Zero
+</title>
+<date>
+March 15, 2007
+</date>
+<reviewer>
+Annon
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+These were just awful!  We tried to give them away, but after one taste not one person liked them.  I wish I could explain the flavor so anyone reading this could decide, but there is nothing to describe it.  We ended up throwing them out
+</review_text>
+</review>
+<review>
+<unique_id>
+B000305584:just_awful:tazza_a'dored_"coffee_snob"
+</unique_id>
+<asin>
+B000305584
+</asin>
+<product_name>
+Seattle's Best Coffee Breakfast Blend Whole Bean Coffee 2.25-lb.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Just awful
+</title>
+<date>
+July 20, 2005
+</date>
+<reviewer>
+Tazza A'dored "Coffee Snob"
+</reviewer>
+<reviewer_location>
+Cordova, TN
+</reviewer_location>
+<review_text>
+This is what happens when Starbucks destroys a good brand to elevate its lousy brand.  This blend is undrinkable.  Save your money and buy a supermarket brand. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B000F9DESQ:they_ripped_me_off:richard_budris_"mightygiants"
+</unique_id>
+<asin>
+B000F9DESQ
+</asin>
+<product_name>
+Home Cafe Pods Millstone French Roast 16ct (Buy 5 get 1 Free): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+They ripped me off
+</title>
+<date>
+March 16, 2007
+</date>
+<reviewer>
+Richard Budris "MightyGiants"
+</reviewer>
+<reviewer_location>
+NJ, USA
+</reviewer_location>
+<review_text>
+The coffee came in a timely manner and is quite tasty.  However I bought 6 bags and didn't get my free bag (buy 5 and get 1 free
+</review_text>
+</review>
+<review>
+<unique_id>
+B000BT410A:kinda.....eh:c._eldredge
+</unique_id>
+<asin>
+B000BT410A
+</asin>
+<product_name>
+Classic Petits Fours (20 pc.) - Wisconsin Cheeseman: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Kinda.....eh
+</title>
+<date>
+January 10, 2007
+</date>
+<reviewer>
+C. Eldredge
+</reviewer>
+<reviewer_location>
+Silsbee, TX United States
+</reviewer_location>
+<review_text>
+Not very exciting...cake part actually tasted a bit stale.  They just didn't seem very special...sorta like commercial snake cakes.  At 50 cents a cake/bite, not worth it.  At least they were pretty
+</review_text>
+</review>
+<review>
+<unique_id>
+B0000ET07D:don't_waste_your_money!:mr._knowitall_"the_dvd_guru"
+</unique_id>
+<asin>
+B0000ET07D
+</asin>
+<product_name>
+Johnny's Popcorn Salt 1 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Don't waste your money!
+</title>
+<date>
+January 29, 2007
+</date>
+<reviewer>
+Mr. KnowItAll "The DVD GURU"
+</reviewer>
+<reviewer_location>
+In a galaxy far, far away!
+</reviewer_location>
+<review_text>
+Didn't like this product at all.  Nothing like the popcorn salt of my youth!  Thought it would bring back fond memories....alas, it created bad memories, and left a nasty taste in my mouth!!!  Oh well....the search continues........
+</review_text>
+</review>
+<review>
+<unique_id>
+B0004M15MQ:not_real_cadbury:t._elston
+</unique_id>
+<asin>
+B0004M15MQ
+</asin>
+<product_name>
+Cadbury's Roasted Almond Candy Bar, Milk Chocolate With Roasted Almonds, 4.5 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+5 of 9
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not real Cadbury
+</title>
+<date>
+March 13, 2006
+</date>
+<reviewer>
+T. Elston
+</reviewer>
+<reviewer_location>
+Santa Clara, CA
+</reviewer_location>
+<review_text>
+When I purchased the candy bar I thought I was I was buying the real Cadbury from England but to my mistake it turned out to be the same candy I can buy in any store. Can you belive I had it shiped to my house
+</review_text>
+</review>
+<review>
+<unique_id>
+B000IQ0CQI:expensive_shipping:m._a._brumley
+</unique_id>
+<asin>
+B000IQ0CQI
+</asin>
+<product_name>
+GOLD MEDAL # 2045 FLAVACOL POPCORN SALT 35OZ (Pack of 12): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+1 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+EXPENSIVE shipping
+</title>
+<date>
+April 17, 2007
+</date>
+<reviewer>
+M. A. Brumley
+</reviewer>
+<reviewer_location>
+Northern VA USA
+</reviewer_location>
+<review_text>
+I am only giving this product such a low rating because of the shipping.  The product costs $29.95, and shipping is $22.49 ... Doubling the cost!
+
+This is the product we used to flavor the popcorn in the movie theater I worked in during high school.  I adore it
+</review_text>
+</review>
+<review>
+<unique_id>
+B0005Z8NN6:terrible!!:sherri_m._johnson
+</unique_id>
+<asin>
+B0005Z8NN6
+</asin>
+<product_name>
+Stella D'ora Margherite Vanilla & Chocolate Cookies, 14 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Terrible!!
+</title>
+<date>
+June 26, 2006
+</date>
+<reviewer>
+Sherri M. Johnson
+</reviewer>
+<reviewer_location>
+
+</reviewer_location>
+<review_text>
+When I received the item the box was busted open and all the cookies in both packages were crushed up.  One of the packages was open and leaking cookies dust all over my car when I pulled it out of the mailing box.  On top of that the one or two cookies that were salvaged were stale!  Ill never order anything from this company again!!!  My entire $11.00 went down the tubes.  What a waste!!!
+</review_text>
+</review>
+<review>
+<unique_id>
+B0004M0JRI:not_the_real_thing.:t._neeley
+</unique_id>
+<asin>
+B0004M0JRI
+</asin>
+<product_name>
+Cadbury's Fruit & Nut Candy Bar, Milk Chocolate With Raisins & Almonds, 4.5 oz: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+3 of 3
+</helpful>
+<rating>
+1.0
+</rating>
+<title>
+Not the real thing.
+</title>
+<date>
+January 6, 2007
+</date>
+<reviewer>
+T. Neeley
+</reviewer>
+<reviewer_location>
+Atlanta, GA
+</reviewer_location>
+<review_text>
+Beware----The Cadbury from Netgrocer's is not the creamy UK Cadbury.  It the Hershey Cadbury from the US.  The difference between the two is like the difference between a Miller and a fresh Guiness
+</review_text>
+</review>
+<review>
+<unique_id>
+B000GKTNXE:product_was_cheaper_at_northgate:j._bush_"anomy"
+</unique_id>
+<asin>
+B000GKTNXE
+</asin>
+<product_name>
+Godiva Chocolate: Milk Chocolate Gift Box (22 pcs.): Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+product was cheaper at Northgate
+</title>
+<date>
+January 18, 2007
+</date>
+<reviewer>
+J. bush "anomy"
+</reviewer>
+<reviewer_location>
+seattle wa usa
+</reviewer_location>
+<review_text>
+paying 25% for shipping and handeling was a bit much. 
+</review_text>
+</review>
+<review>
+<unique_id>
+B0007WULVY:expensive_and_anemic_little_things:m._j._burak
+</unique_id>
+<asin>
+B0007WULVY
+</asin>
+<product_name>
+Organic Goji Berries 8-oz.: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+7 of 7
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+Expensive and anemic little things
+</title>
+<date>
+August 5, 2006
+</date>
+<reviewer>
+M. J. Burak
+</reviewer>
+<reviewer_location>
+Mountain View, CA USA
+</reviewer_location>
+<review_text>
+I couldn't believe the price for these berries, and they're a third of the size they should be.  I'll stick to buying mine from the local Asian foods grocery at $3.25 a pound
+</review_text>
+</review>
+<review>
+<unique_id>
+B000I8FMJ8:i_know_they_aren't__not_built_to_last.,_or_get_out_of_the_package!:wade_w._wellard
+</unique_id>
+<asin>
+B000I8FMJ8
+</asin>
+<product_name>
+Reindeer Jelly Bean Candy Poopers [Set of 2 Gift Packs]: Gourmet Food
+</product_name>
+<product_type>
+gourmet food
+</product_type>
+<helpful>
+0 of 1
+</helpful>
+<rating>
+2.0
+</rating>
+<title>
+I know they aren't  not built to last., or get out of the package!
+</title>
+<date>
+February 19, 2007
+</date>
+<reviewer>
+Wade W. Wellard
+</reviewer>
+<reviewer_location>
+Santa Maria, CA United States
+</reviewer_location>
+<review_text>
+Fun idea.. really, really fun idea.  
+
+However, I gave each of my teenagers (11 & 14),  a Reindeer Jelly Bean Candy Pooper.  It was some task for the kids (and the rest of the family) to get the dam things out of the packaging w/o breaking them.    The first one lost it's rear legs before getting all the way out of the package.  woof!  The second one stay together long enough to see the new year.  TIP use a razor blade and be careful of the legs
+</review_text>
+</review>
