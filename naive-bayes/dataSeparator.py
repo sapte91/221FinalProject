@@ -37,10 +37,10 @@ class DataSeparator:
 		train = []
 		test = []
 		train_test = []
-		numTest = len(reviews) / 4
-		numTrain = len(reviews) - numTest
+		numTest = (len(reviews) / 4) / 100
+		numTrain = (len(reviews) - numTest) / 100
 		train = reviews[:numTrain]
-		test = reviews[numTrain:]
+		test = reviews[numTrain:numTrain+numTest]
 		train_test.append(train)
 		train_test.append(test)
 		return train_test
