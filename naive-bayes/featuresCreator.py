@@ -6,12 +6,15 @@
 
 #array of reviews: # pos, # neg
 
-import sys
 from dataSeparator import DataSeparator
 import re
+import sys, types, time, random, os
 
+posWordSet = set(line.split()[0].lower() for line in open("data/pos-words.txt").readlines())
+negWordSet = set(line.split()[0].lower() for line in open("data/neg-words.txt").readlines())
 negFilesSet = set(line.split()[0].lower() for line in open("data/negative-files-list.txt").readlines())
 posFilesSet = set(line.split()[0].lower() for line in open("data/positive-files-list.txt").readlines())
+stopWords = set(line.split()[0].lower() for line in open("stop-words.txt").readlines())
 
 class FeaturesCreator:
 	def computeFeaturePairs(self, reviews, currentFeaturesSet):
@@ -22,14 +25,16 @@ class FeaturesCreator:
 			wordList = review.split()
 		#	print wordList
 			for i in range(len(wordList)):
-				wordList[i] = wordList[i].lower().strip(" ,.?/:;\(\)")
+				wordList[i] = wordList[i].lower().strip(" ,.?/:;\(\)!")
 				# if all letters in word aren't either alpha or common name symbol
 				#features.add(wordList[i])
+				
 				if i != 0:
-					features.add((wordList[lastIndex],wordList[i]))
+					if wordList[lastIndex] in posWordSet or wordList[lastIndex] in negWordSet or wordList[i] in posWordSet or wordList[i] in negWordSet:
+						features.add((wordList[lastIndex],wordList[i]))
 					lastIndex = lastIndex + 1
 
-	   	# original features
+	   	# original featuresd
 	   	return features
 	
 	def computeFeatureWords(self, reviews, currentFeaturesSet):
@@ -38,10 +43,12 @@ class FeaturesCreator:
 		for review in reviews:
 			wordList = review.split()
 			for i in range(len(wordList)):
-				wordList[i] = wordList[i].lower().strip(" ,.?/:;\(\)")
+				wordList[i] = wordList[i].lower().strip(" ,.?/:;\(\)!")
 				# if all letters in word aren't either alpha or common name symbol
 				#features.add(wordList[i])
-				features.add(wordList[i])
+				if wordList[i] not in stopWords:
+				#if wordList[i] in posWordSet or wordList[i] in negWordSet:
+					features.add(wordList[i])
 
 	   	# original features
 	   	return features
@@ -49,8 +56,8 @@ class FeaturesCreator:
 	def createFeatureVector(self, review, featuresPairs, featureWords, type):
 		#print featuresSet
 		all_features = {}
-		for item in featuresPairs:
-			all_features[item] = 0
+		#for item in featuresPairs:
+		#	all_features[item] = 0
 		for item in featureWords:
 			all_features[item] = 0
 		if type == 0:
@@ -58,22 +65,20 @@ class FeaturesCreator:
 		else:
 			all_features["type"] = 1
 		wordList = review.split()
-		print len(wordList)
 		lastIndex = 0
 		count = 0
 		for i in range(len(wordList)):
-			wordList[i] = wordList[i].lower().strip(" ,.?/:;\(\)")
-			if i != 0:
-				if (wordList[lastIndex],wordList[i]) in featuresPairs:
-					all_features[(wordList[lastIndex],wordList[i])] = 1
-					count = count + 1
-		   		lastIndex = lastIndex + 1
-		   		if wordList[i] in featureWords:
-		   			all_features[wordList[i]] = 1
-		   			count = count + 1
+			wordList[i] = wordList[i].lower().strip(" ,.?/:;\(\)!")
+			#if i != 0:
+				#if (wordList[lastIndex],wordList[i]) in featuresPairs:
+				#	all_features[(wordList[lastIndex],wordList[i])] = 1
+				#	count = count + 1
+		   		#lastIndex = lastIndex + 1
+		   	if wordList[i] in featureWords:
+		   		all_features[wordList[i]] = 1
+		   		count = count + 1
 		   		#if wordList[i] in featuresSet:
-		   		#	feature_value[wordList[i]] = 1
-		print count
+		  		#	feature_value[wordList[i]] = 1
 		return all_features
 	
 	def convertDictToList(self,allDataDicts):
@@ -89,8 +94,6 @@ class FeaturesCreator:
 			reviewList.append(reviewDict["type"])
 			train_data_list.append(reviewList)
 		return train_data_list
-
-
 
 def main(argv):
 	dataSeparator = DataSeparator()
@@ -110,14 +113,58 @@ def main(argv):
 	allFeatureWords = featuresCreator.computeFeatureWords(train_test_pos[0],allFeaturesWords)
 	allFeaturesWords = featuresCreator.computeFeatureWords(train_test_neg[0],allFeaturesWords)
 	
-	
 	train_data_dicts = []
 	for review in train_test_pos[0]:
 		train_data_dicts.append(featuresCreator.createFeatureVector(review,allFeaturesPairs,allFeaturesWords,1))
 	for review in train_test_neg[0]:
 		train_data_dicts.append(featuresCreator.createFeatureVector(review,allFeaturesPairs,allFeaturesWords,0))
 
+	test_data_dicts = []
+	for review in train_test_pos[1]:
+		test_data_dicts.append(featuresCreator.createFeatureVector(review,allFeaturesPairs,allFeaturesWords,1))
+	for review in train_test_neg[1]:
+		test_data_dicts.append(featuresCreator.createFeatureVector(review,allFeaturesPairs,allFeaturesWords,0))
+	
 	train_data_list = featuresCreator.convertDictToList(train_data_dicts)
+	test_data_list = featuresCreator.convertDictToList(test_data_dicts)
+	
+	trainfile = open("train_stopw_0.txt", "w")
+	trainfile.write(str(len(train_data_list[0])-1))
+	trainfile.write("\n")
+	trainfile.write(str(len(train_data_list)))
+	trainfile.write("\n")
+	for review in train_data_list:
+		for i in range(len(review)):
+			if i < len(review)-1:
+				trainfile.write(str(review[i]))
+				trainfile.write(" ")
+			else:
+				if review[i] == 1:
+					trainfile.write(":1")
+					trainfile.write("\n")
+				else:
+					trainfile.write(":0")
+					trainfile.write("\n")
+
+	testfile = open("test_stopw_0.txt", "w")
+	testfile.write(str(len(test_data_list[0])-1))
+	testfile.write("\n")
+	testfile.write(str(len(test_data_list)))
+	testfile.write("\n")
+	for review in test_data_list:
+		for i in range(len(review)):
+			if i < len(review)-1:
+				testfile.write(str(review[i]))
+				testfile.write(" ")
+			else:
+				if review[i] == 1:
+					testfile.write(":1")
+					testfile.write("\n")
+				else:
+					testfile.write(":0")
+					testfile.write("\n")
+	
+	
 
 if __name__ == '__main__':
     main(sys.argv[1:])
